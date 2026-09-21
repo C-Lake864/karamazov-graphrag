@@ -13,16 +13,17 @@
 ### 1. 준비물
 
 - Python 3.11 이상
-- OpenAI API 키
+- **Google Gemini API 키** (https://aistudio.google.com/apikey)
+  — OpenAI 키를 쓰려면 `config.json`의 `"provider"`를 `"openai"`로 바꾸면 됩니다.
 
 ```bash
-pip install openai networkx langgraph streamlit numpy python-dotenv
+pip install google-genai openai networkx langgraph streamlit numpy python-dotenv
 ```
 
-키는 환경변수로 넣거나, `.env.example`을 `.env`로 복사해 채우세요.
+`.env.example`을 `.env`로 복사해 키를 채우세요. (파일은 **UTF-8**로 저장)
 
 ```bash
-cp .env.example .env    # 그리고 OPENAI_API_KEY 를 채웁니다
+cp .env.example .env    # 그리고 GOOGLE_API_KEY 를 채웁니다
 ```
 
 > `.env`는 `.gitignore`에 있어 저장소에 올라가지 않습니다.
@@ -42,9 +43,14 @@ streamlit run app.py
 ```bash
 python scripts/split_corpus.py     # 원문을 96개 장으로 분할
 python extract.py                  # LLM 추출 1차  (약 6분)
-PASS=2 python extract.py           # LLM 추출 2차  (합집합으로 재현율을 올립니다)
-python build_graph.py              # 정제·병합 -> graph.graphml
+PASS=2 python extract.py           # 2차
+PASS=3 python extract.py           # 3차 — 추출은 분산이 커서 합집합을 씁니다
+python build_graph.py              # 정제·병합 -> graph.graphml  (API 안 씀)
 ```
+
+> 추출이 이 프로젝트에서 API를 가장 많이 쓰는 단계입니다(96장 × 3회 ≈ 600회 호출).
+> 결과가 `output/extract_cache*/`에 캐시돼 있으니, 저장소를 받아서 쓰는 경우
+> **이 단계를 건너뛰어도 됩니다.**
 
 원문은 `data/raw_gutenberg_28054.txt`에 포함돼 있습니다
 (Project Gutenberg #28054, Constance Garnett 번역, **퍼블릭 도메인**).
@@ -53,8 +59,10 @@ python build_graph.py              # 정제·병합 -> graph.graphml
 ### 4. 평가
 
 ```bash
-python evaluate.py                 # 골든셋 13문항 + basic RAG 대조
+python evaluate.py                 # 골든셋 13문항 + basic RAG(BM25) 대조
 ```
+
+대조군은 BM25라 **API를 쓰지 않습니다.** 평가 전체가 약 55회 호출이면 끝납니다.
 
 결과는 `output/eval.json`에, 질문별 실행 기록은 `output/runs.jsonl`에 쌓입니다.
 
@@ -81,6 +89,16 @@ python agent.py "조시마 장로의 제자는 누구야?" 13
 아직 안 읽은 장은 **제목을 감추고 번호만** 보여줍니다 — 도스토옙스키의 장 제목은
 그 자체로 스포일러인 것이 많습니다.
 
+### 캡처하는 법
+
+`streamlit run app.py` 로 띄운 뒤,
+
+1. 왼쪽 슬라이더를 **13장**에 두고 — 위쪽 숫자가 "전체 278개 중 43개"로 줄어드는 것이 보입니다
+2. `알료샤의 스승은 누구야?` 를 물어 답변 + 탄 경로 + 근거가 나온 화면
+3. 같은 지점에서 `표도르를 죽인 사람은 누구야?` 를 물어 **"아직 나오지 않았어요"** 가 나오는 화면
+
+이 세 장면이 이 프로젝트의 핵심입니다. Windows 는 `Win + Shift + S` 로 캡처됩니다.
+
 ---
 
 ## 파일 구조
@@ -95,6 +113,7 @@ python agent.py "조시마 장로의 제자는 누구야?" 13
 ├── config.json                   스키마·반경·허브 기준 (도메인에 묶인 값)
 ├── normalize_rules.py            별칭 병합표 · 일반명사 제외 목록
 ├── ko_labels.py                  화면용 한국어 표기
+├── llm.py                        LLM 호출 (google / openai 전환)
 ├── scripts/
 │   ├── split_corpus.py           원문 -> 장 단위 분할
 │   └── build_goldenset.py        평가셋 생성 (인용문을 원문에서 직접 추출)

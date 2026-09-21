@@ -89,15 +89,26 @@ with st.sidebar:
     st.subheader("🏷️ 지금까지 나온 별명")
     st.caption("읽은 데까지 등장한 호칭만 보여줍니다.")
     aliases = load_aliases()
-    shown = 0
-    for canon, al in sorted(aliases.items(), key=lambda kv: KO.node(kv[0])):
-        vis = [a for a in al if a["display"] and a["first_index"] <= rp]
-        if len(vis) < 2:
-            continue
-        forms = " · ".join(a["alias"].title() for a in vis)
-        st.markdown(f"**{KO.node(canon)}**  \n{forms}")
-        shown += 1
-    if shown == 0:
+
+    def entries():
+        for canon, al in aliases.items():
+            vis = [a["alias"] for a in al if a["display"] and a["first_index"] <= rp]
+            if len(vis) < 2:
+                continue
+            # "Adelaïda Ivanovna Miüsov · Adelaïda Ivanovna" 처럼 긴 이름/짧은 이름
+            # 쌍만 있는 것은 별명이 아니다. 정말 다른 호칭이 하나라도 있어야 보여준다.
+            base = canon.lower()
+            if not any(a not in base and base not in a for a in vis):
+                continue
+            yield canon, sorted(set(vis), key=len)
+
+    rows = list(entries())
+    # 한국어 이름이 붙은 주요 인물을 위로. 라틴 문자가 한글보다 먼저 정렬돼서
+    # 그냥 두면 정작 헷갈리는 인물들이 목록 아래로 밀린다.
+    rows.sort(key=lambda kv: (KO.node(kv[0]) == kv[0], -len(kv[1]), kv[0]))
+    for canon, vis in rows:
+        st.markdown(f"**{KO.node(canon)}**  \n" + " · ".join(a.title() for a in vis))
+    if not rows:
         st.caption("아직 별명이 여러 개 나온 인물이 없습니다.")
 
 # ── 본문 ─────────────────────────────────────────────────────
