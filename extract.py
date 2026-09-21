@@ -23,7 +23,7 @@ PASS = int(os.environ.get("PASS", "1"))
 CACHE = ROOT / "output" / ("extract_cache" if PASS == 1 else f"extract_cache_p{PASS}")
 CACHE.mkdir(parents=True, exist_ok=True)
 
-MODEL = CFG["extraction"]["model"]
+MODEL = llm.model_for("extraction")
 CHUNK = CFG["extraction"]["chunk_chars"]
 OVERLAP = 1000
 

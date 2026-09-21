@@ -134,7 +134,24 @@ for turn in st.session_state.history:
         st.write(turn["answer"])
 
         if turn["paths"]:
-            shown = [p for p in turn["paths"] if p["hops"] >= 2][:6] or turn["paths"][:6]
+            # 답변에 실제로 쓰인 근거와 이어지는 경로를 먼저 보여준다.
+            # 그냥 두면 Varvara·Nina 처럼 답과 무관한 곳으로 간 경로가 앞에 나온다.
+            order = []
+            for t in turn["triples"]:
+                for n in (t["subject"], t["object"]):
+                    if n not in order:
+                        order.append(n)
+            rank = {n: i for i, n in enumerate(order)}
+            seen_to = set()
+            shown = []
+            for p in sorted(turn["paths"],
+                            key=lambda p: (rank.get(p["to"], 999), -p["hops"])):
+                if p["to"] in seen_to or p["hops"] < 1:
+                    continue
+                seen_to.add(p["to"])
+                shown.append(p)
+                if len(shown) == 4:
+                    break
             with st.expander(f"🧭 탄 경로 ({len(turn['paths'])}개 중 {len(shown)}개)",
                              expanded=True):
                 for p in shown:

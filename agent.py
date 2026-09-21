@@ -27,8 +27,8 @@ CFG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 RET = CFG["retrieval"]
 OUT = ROOT / "output"
 
-ANSWER_MODEL = CFG["answering"]["model"]
-LINK_MODEL = CFG["extraction"]["model"]
+ANSWER_MODEL = llm.model_for("answering")
+LINK_MODEL = llm.model_for("extraction")
 
 # 한국어 질문에 나오는 이름 -> 그래프의 대표 이름.
 # 자주 나오는 인물은 사전으로 바로 붙이고, 못 붙인 것만 LLM에 맡긴다.

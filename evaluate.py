@@ -26,7 +26,7 @@ ROOT = Path(__file__).resolve().parent
 CFG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 OUT = ROOT / "output"
 
-JUDGE_MODEL = CFG["judge"]["model"]
+JUDGE_MODEL = llm.model_for("judge")
 
 
 # ── 대조군: basic RAG ────────────────────────────────────────
@@ -86,10 +86,42 @@ class BM25:
         return out
 
 
-def basic_index():
+class Embed:
+    """임베딩 검색. basic RAG 의 기본 대조군.
+
+    BM25(낱말 겹침)로도 해봤는데 **전 문항 0%** 가 나왔다. 질문은 한국어인데
+    본문이 영어라 겹치는 낱말이 하나도 없어서다. 언어가 다른 코퍼스에서는
+    낱말 기반 검색이 대조군으로 성립하지 않는다 — 뜻으로 찾는 임베딩을 쓴다.
+    """
+
+    def __init__(self, texts, model):
+        self.model = model
+        cache = OUT / f"basic_rag_emb_{model.replace('/', '_')}.npz"
+        if cache.exists():
+            z = np.load(cache)
+            if z["mat"].shape[0] == len(texts):
+                self.mat = z["mat"]
+                return
+        print(f"  임베딩 색인 만드는 중 ({len(texts)}조각)...", flush=True)
+        mat = np.array(llm.embed(texts, model), dtype=np.float32)
+        mat /= np.linalg.norm(mat, axis=1, keepdims=True)
+        np.savez_compressed(cache, mat=mat)
+        self.mat = mat
+
+    def scores(self, query):
+        q = np.array(llm.embed([query], self.model)[0], dtype=np.float32)
+        q /= np.linalg.norm(q)
+        return self.mat @ q
+
+
+def basic_index(kind="embed"):
     chunks = load_chunks()
-    print(f"  basic RAG 색인(BM25) 만드는 중 ({len(chunks)}조각, API 호출 0회)...", flush=True)
-    return chunks, BM25([c["text"] for c in chunks])
+    texts = [c["text"] for c in chunks]
+    if kind == "bm25":
+        print(f"  basic RAG 색인(BM25) ({len(chunks)}조각, API 0회)...", flush=True)
+        return chunks, BM25(texts)
+    print(f"  basic RAG 색인(임베딩) ({len(chunks)}조각)...", flush=True)
+    return chunks, Embed(texts, llm.model_for("embedding"))
 
 
 BASIC_SYS = """너는 소설 《카라마조프가의 형제들》을 읽는 중인 사람을 돕는다.
@@ -103,7 +135,7 @@ def basic_rag(question, read_point, chunks, index, k=6):
     ok = np.array([c["global_index"] <= read_point for c in chunks])  # 같은 스포 차단
     sims = np.where(ok, sims, -1e9)
     top = np.argsort(-sims)[:k]
-    picked = [chunks[i] for i in top if sims[i] > 0]
+    picked = [chunks[i] for i in top if sims[i] > -1e8]
     if not picked:
         return f"읽으신 데까지({read_point}장)는 그 내용이 아직 나오지 않았어요.", []
     block = "\n\n".join(f'({c["label_ko"]}) {c["text"]}' for c in picked)
@@ -111,7 +143,7 @@ def basic_rag(question, read_point, chunks, index, k=6):
         BASIC_SYS,
         f"독자가 읽은 지점: {read_point}장까지\n\n<원문 발췌>\n{block}\n</원문 발췌>\n\n"
         f"질문: {question}",
-        CFG["answering"]["model"])
+        llm.model_for("answering"))
     return text, picked
 
 
@@ -208,7 +240,9 @@ def main():
     gs = json.loads((ROOT / "data" / "goldenset.json").read_text(encoding="utf-8"))
     items = gs["items"]
     G_full = A.load_graph()
-    chunks, index = basic_index()
+    import sys
+    kind = "bm25" if "--bm25" in sys.argv else "embed"
+    chunks, index = basic_index(kind)
 
     rows = []
     for it in items:

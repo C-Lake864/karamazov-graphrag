@@ -21,6 +21,19 @@ ROOT = Path(__file__).resolve().parent
 CFG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 PROVIDER = CFG.get("provider", "google")
 
+def model_for(section: str) -> str:
+    """제공자에 맞는 모델 이름을 고른다.
+
+    config.json 에 "model"(기본 제공자용)과 "model_openai" 를 같이 적어두고,
+    provider 에 따라 알아서 고른다. 제공자를 바꿀 때 모델 이름을 손으로
+    바꿔 적다가 틀리는 일을 막으려는 것.
+    """
+    sec = CFG[section]
+    if PROVIDER == "openai" and sec.get("model_openai"):
+        return sec["model_openai"]
+    return sec["model"]
+
+
 _google = _openai = None
 # 추출은 스레드 8개로 돌린다. 잠금 없이 만들면 클라이언트가 두 번 만들어지고
 # 먼저 것이 닫히면서 "client has been closed" 가 난다.

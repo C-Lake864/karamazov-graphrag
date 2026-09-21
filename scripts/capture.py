@@ -17,7 +17,8 @@ from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "docs"
-URL = sys.argv[1] if len(sys.argv) > 1 else "http://localhost:8511"
+ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+URL = ARGS[0] if ARGS else "http://localhost:8511"
 
 # 질문을 던지는 캡처를 할지 (LLM 호출이 필요)
 WITH_ANSWER = "--with-answer" in sys.argv
@@ -101,13 +102,23 @@ def main():
         print("  03-별명-45장.png")
 
         if WITH_ANSWER:
+            # Streamlit 본문은 안쪽에서 따로 스크롤돼서 full_page 로는 다 안 담긴다.
+            # 화면을 길게 잡고 답변 부분으로 올려서 찍는다.
             set_read_point(page, 31)
             ask(page, "일류샤의 아버지를 길에서 수염을 잡고 끌고 다닌 사람은 누구야?")
-            page.screenshot(path=str(OUT / "04-답변과경로.png"), full_page=True)
+            page.set_viewport_size({"width": 1440, "height": 1700})
+            page.wait_for_timeout(1500)
+            page.get_by_text("일류샤의 아버지를 길에서").first.scroll_into_view_if_needed()
+            page.wait_for_timeout(1000)
+            page.screenshot(path=str(OUT / "04-답변과경로.png"))
             print("  04-답변과경로.png")
 
             ask(page, "표도르 파블로비치를 죽인 사람은 누구야?")
-            page.screenshot(path=str(OUT / "05-스포차단.png"), full_page=True)
+            page.wait_for_timeout(1500)
+            page.get_by_text("표도르 파블로비치를 죽인").first.scroll_into_view_if_needed()
+            page.wait_for_timeout(1000)
+            page.screenshot(path=str(OUT / "05-스포차단.png"))
+            page.set_viewport_size({"width": 1440, "height": 1000})
             print("  05-스포차단.png")
         else:
             print("  (질문 캡처는 --with-answer 로 실행. LLM 호출이 필요합니다)")

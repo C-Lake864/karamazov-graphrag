@@ -13,8 +13,9 @@
 ### 1. 준비물
 
 - Python 3.11 이상
-- **Google Gemini API 키** (https://aistudio.google.com/apikey)
-  — OpenAI 키를 쓰려면 `config.json`의 `"provider"`를 `"openai"`로 바꾸면 됩니다.
+- **OpenAI API 키** (기본 설정)
+  — Gemini 로 바꾸려면 `config.json`의 `"provider"`를 `"google"`로 바꾸고
+  `.env`에 `GOOGLE_API_KEY`를 넣으면 됩니다. 모델 이름은 `llm.py`가 알아서 고릅니다.
 
 ```bash
 pip install google-genai openai networkx langgraph streamlit numpy python-dotenv
@@ -23,7 +24,7 @@ pip install google-genai openai networkx langgraph streamlit numpy python-dotenv
 `.env.example`을 `.env`로 복사해 키를 채우세요. (파일은 **UTF-8**로 저장)
 
 ```bash
-cp .env.example .env    # 그리고 GOOGLE_API_KEY 를 채웁니다
+cp .env.example .env    # 그리고 OPENAI_API_KEY 를 채웁니다
 ```
 
 > `.env`는 `.gitignore`에 있어 저장소에 올라가지 않습니다.
@@ -108,16 +109,22 @@ python agent.py "조시마 장로의 제자는 누구야?" 13
 
 <img src="docs/03-별명-45장.png" width="300">
 
-> **아직 없는 캡처:** 질문을 던져 답변·탄 경로·근거가 나온 화면.
-> LLM 호출이 필요한데 API 크레딧이 소진된 상태입니다.
-> 복구되면 아래 한 줄로 자동 캡처됩니다.
->
-> ```bash
-> python scripts/capture.py --with-answer
-> ```
+**질문과 답변 (31장까지 읽은 시점)**
+
+답변 밑에 탄 경로 · 근거 삼중항 · 출처 장이 함께 나옵니다.
+
+![답변](docs/04-답변과경로.png)
+
+**같은 지점에서 뒷이야기를 물으면**
+
+![스포차단](docs/05-스포차단.png)
 
 캡처는 `scripts/capture.py` 가 Playwright 로 자동으로 찍습니다
 (`pip install playwright && playwright install chromium` 필요).
+
+```bash
+python scripts/capture.py --with-answer
+```
 
 ---
 
@@ -153,6 +160,21 @@ python agent.py "조시마 장로의 제자는 누구야?" 13
 ├── PRD.md                        기획
 └── REPORT.md                     주제·측정 결과·회고
 ```
+
+---
+
+## 측정 결과 요약
+
+| 구분 | 문항 | GraphRAG | basic RAG |
+|---|---|---|---|
+| 1홉 | 3 | 100% | 67% |
+| 2홉 | 3 | 67% | 33% |
+| 3홉 | 2 | 50% | 50% |
+| 대조군(한 장에서 풀림) | 1 | 100% | 100% |
+| 스포 차단 | 4 | 100% | 75% |
+| **전체** | 13 | **85%** | **62%** |
+
+경로 재현율 87%, 스포 누수 양쪽 0건. 자세한 내용과 실패 분석은 [REPORT.md](REPORT.md).
 
 ---
 

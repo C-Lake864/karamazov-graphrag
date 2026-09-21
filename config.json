@@ -180,7 +180,7 @@
       "note": "RAISED·RELATED_TO 추가. 둘 다 본문에서 인용문으로 확인 가능한 관계라 제외 기준(주관적·과다연결)에 걸리지 않는다."
     }
   ],
-  "provider": "google",
+  "provider": "openai",
   "provider_note": "google / openai 중 선택. 모델 이름도 같이 바꿔야 한다. OpenAI 로 만든 추출 결과와 Gemini 로 만든 것을 섞으면 측정이 오염되므로, 제공자를 바꾸면 output/extract_cache*/ 를 비우고 다시 뽑는다. gemini-2.5 계열은 신규 사용자에게 닫혀 있어 3.6 세대를 쓴다.",
   "embedding": {
     "model": "gemini-embedding-001",
