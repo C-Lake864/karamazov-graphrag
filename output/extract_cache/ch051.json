@@ -1,0 +1,193 @@
+{
+  "doc_id": "ch051",
+  "global_index": 51,
+  "label_ko": "8편 6장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Fyodorovitch",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Plastunovs' inn",
+      "type": "Place",
+      "aliases": [
+        "Plastunov's"
+      ]
+    },
+    {
+      "name": "pistol",
+      "type": "Object",
+      "aliases": [
+        "loaded pistol"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Dmitri Fyodorovitch",
+        "Mitya",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Agrafena Alexandrovna",
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Kalganov"
+      ]
+    },
+    {
+      "name": "Mr. Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Mr. Miüsov"
+      ]
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": [
+        "Trifon Borissovitch"
+      ]
+    },
+    {
+      "name": "blue room",
+      "type": "Place",
+      "aliases": [
+        "blue room"
+      ]
+    },
+    {
+      "name": "box of pistols",
+      "type": "Object",
+      "aliases": [
+        "box of pistols"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "for I love the queen of my soul ... I love her and I cannot help loving her.",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "pistol",
+      "quote": "and the paper was lying there in his pocket, ready; the pistol was loaded;",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LIVES_AT",
+      "object": "Plastunovs' inn",
+      "quote": "Not at the posting-station, but at Plastunov’s, at the inn, where they let out horses, too.",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Trifon Borissovitch",
+      "relation": "LIVES_AT",
+      "object": "Plastunovs' inn",
+      "quote": "One of them was already a widow and lived in the inn with her two children, his grandchildren, and worked for him like a charwoman.",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Kalganov",
+      "relation": "RELATED_TO",
+      "object": "Mr. Miüsov",
+      "quote": "One’s quite a young gentleman, a relative of Mr. Miüsov, he must be, but I’ve forgotten his name",
+      "disputed": true,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "box of pistols",
+      "quote": "He turned to the cart and pulled out the box of pistols.",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "blue room",
+      "quote": "he walked, feeling cold all over, straight into the blue room to face the company.",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "PRESENT_AT",
+      "object": "blue room",
+      "quote": "straight into the blue room to face the company. “Aie!” shrieked Grushenka, the first to notice him.",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

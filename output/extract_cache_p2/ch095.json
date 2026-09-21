@@ -1,0 +1,243 @@
+{
+  "doc_id": "ch095",
+  "global_index": 95,
+  "label_ko": "13편 2장",
+  "entities": [
+    {
+      "name": "Mitya Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "my Alyosha"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grusha"
+      ]
+    },
+    {
+      "name": "Katya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Doctor Varvinsky",
+      "type": "Character",
+      "aliases": [
+        "Varvinsky"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "town hospital",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "inn",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "the trial",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "fifteen hundred roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "He looked sometimes with a face of suffering at his brother.",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Mitya Karamazov",
+      "quote": "Alyosha looked timidly at his brother.",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "“Alyosha, I love Grusha terribly,” he said suddenly in a shaking voice, full of tears.",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Katya",
+      "relation": "LOVES",
+      "object": "Ivan",
+      "quote": "She understands now, I think, that Katya no longer cares for me, but loves Ivan.",
+      "disputed": true,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "LIVES_AT",
+      "object": "town hospital",
+      "quote": "Mitya had fallen ill with nervous fever, and was sent to the prison division of the town hospital.",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LIVES_AT",
+      "object": "town hospital",
+      "quote": "put Mitya not with other prisoners, but in a separate little room, the one where Smerdyakov had been.",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "He had become terribly preoccupied since the trial; sometimes he would be silent for half an hour together",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "POSSESSES",
+      "object": "fifteen hundred roubles",
+      "quote": "He is seeking treasure all the time—the fifteen hundred roubles which the prosecutor said I’d hidden there.",
+      "disputed": true,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Trifon Borissovitch",
+      "relation": "LIVES_AT",
+      "object": "inn",
+      "quote": "“Trifon Borissovitch,” Mitya began nervously, “has pulled his whole inn to pieces, I am told.",
+      "disputed": true,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "“Alyosha, run after her!” Mitya cried to his brother; “tell her ... I don’t know ... don’t let her go away like this!”",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Katya",
+      "relation": "LOVES",
+      "object": "Mitya",
+      "quote": "to tell you again that you are my god, my joy, to tell you that I love you madly",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Katya",
+      "quote": "I shall love you, and ... do you know, Katya,” Mitya began, drawing a deep breath at each word, “do you know, five days ago, that same evening, I loved you",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "QUARRELS_WITH",
+      "object": "Katya",
+      "quote": "We are full of hatred, my girl, you and I! We are both full of hatred! As though we could forgive one another!",
+      "disputed": false,
+      "first_revealed_index": 95,
+      "doc_id": "ch095",
+      "label_ko": "13편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

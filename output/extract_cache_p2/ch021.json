@@ -1,0 +1,127 @@
+{
+  "doc_id": "ch021",
+  "global_index": 21,
+  "label_ko": "3편 8장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Belyavsky",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "“Don’t be ill-tempered with my brother. Leave off attacking him,” Alyosha said emphatically.",
+      "disputed": false,
+      "first_revealed_index": 21,
+      "doc_id": "ch021",
+      "label_ko": "3편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "“Get along with you, Jesuits!” he cried to the servants. “Go away, Smerdyakov. I’ll send you the gold piece I promised you to-day, but be off!",
+      "disputed": false,
+      "first_revealed_index": 21,
+      "doc_id": "ch021",
+      "label_ko": "3편 8장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "“Get along with you, Jesuits!” he cried to the servants. “Go away, Smerdyakov. I’ll send you the gold piece I promised you to-day, but be off! Don’t cry, Grigory.",
+      "disputed": false,
+      "first_revealed_index": 21,
+      "doc_id": "ch021",
+      "label_ko": "3편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Smerdyakov",
+      "quote": "I’ll send you the gold piece I promised you to-day, but be off!",
+      "disputed": false,
+      "first_revealed_index": 21,
+      "doc_id": "ch021",
+      "label_ko": "3편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan",
+      "quote": "The old man persisted. He had reached that state of drunkenness when the drunkard who has till then been inoffensive tries to pick a quarrel and to assert himself.",
+      "disputed": false,
+      "first_revealed_index": 21,
+      "doc_id": "ch021",
+      "label_ko": "3편 8장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "“But she was my mother, too, I believe, his mother. Was she not?” said Ivan, with uncontrolled anger and contempt.",
+      "disputed": false,
+      "first_revealed_index": 21,
+      "doc_id": "ch021",
+      "label_ko": "3편 8장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "it seemed really to have escaped the old man’s mind that Alyosha’s mother actually was the mother of Ivan too.",
+      "disputed": false,
+      "first_revealed_index": 21,
+      "doc_id": "ch021",
+      "label_ko": "3편 8장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

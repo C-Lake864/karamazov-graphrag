@@ -1,0 +1,264 @@
+{
+  "doc_id": "ch014",
+  "global_index": 14,
+  "label_ko": "3편 1장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory",
+        "old Grigory"
+      ]
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": [
+        "Marfa"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Adelaïda Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Sofya Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "The Karamazovs' house",
+      "type": "Place",
+      "aliases": [
+        "house"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lizaveta Smerdyastchaya",
+      "type": "Character",
+      "aliases": [
+        "Stinking Lizaveta"
+      ]
+    },
+    {
+      "name": "The bath-house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Birth of Lizaveta's child",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LIVES_AT",
+      "object": "The Karamazovs' house",
+      "quote": "there was no one living in the house but Fyodor Pavlovitch and his son Ivan.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LIVES_AT",
+      "object": "The Karamazovs' house",
+      "quote": "there was no one living in the house but Fyodor Pavlovitch and his son Ivan.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "there was no one living in the house but Fyodor Pavlovitch and his son Ivan.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "Moreover, Alyosha brought with him something his father had never known before: a complete absence of contempt for him",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "they ought not to leave their old master, whatever he might be, for “that was now their duty.”",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Marfa Ignatyevna",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "And in the lodge there were only three servants: old Grigory, and his old wife Marfa, and a young man called Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "And in the lodge there were only three servants: old Grigory, and his old wife Marfa, and a young man called Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "LOVES",
+      "object": "Marfa Ignatyevna",
+      "quote": "It was impossible to tell at first sight whether he loved his meek, obedient wife; but he really did love her, and she knew it.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Marfa Ignatyevna",
+      "quote": "Grigory saw how his wife danced, and, an hour later, at home in their cottage he gave her a lesson, pulling her hair a little.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Adelaïda Ivanovna",
+      "quote": "I have mentioned already that Grigory had detested Adelaïda Ivanovna, the first wife of Fyodor Pavlovitch and the mother of Dmitri",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "RAISED",
+      "object": "Dmitri",
+      "quote": "When Adelaïda Ivanovna had run away, Grigory took Dmitri, then a child of three years old, combed his hair and washed him in a tub with his own hands, and looked after him for almost a year.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "RAISED",
+      "object": "Ivan",
+      "quote": "Afterwards he had looked after Ivan and Alyosha, for which the general’s widow had rewarded him with a slap in the face; but I have already related all that.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "RAISED",
+      "object": "Alyosha",
+      "quote": "Afterwards he had looked after Ivan and Alyosha, for which the general’s widow had rewarded him with a slap in the face; but I have already related all that.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RELATED_TO",
+      "object": "Marfa",
+      "quote": "She was frightened and waked her husband.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Lizaveta Smerdyastchaya",
+      "relation": "PRESENT_AT",
+      "object": "Birth of Lizaveta's child",
+      "quote": "known to the whole town by the nickname of Lizaveta Smerdyastchaya (Stinking Lizaveta), had got into the bath-house and had just given birth to a child.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "PRESENT_AT",
+      "object": "Birth of Lizaveta's child",
+      "quote": "Opening the door of the bath-house, he saw a sight which petrified him.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    },
+    {
+      "subject": "Birth of Lizaveta's child",
+      "relation": "OCCURRED_AT",
+      "object": "The bath-house",
+      "quote": "There he heard at once that the groans came from the bath-house that stood near the garden gate, and that they were the groans of a woman.",
+      "disputed": false,
+      "first_revealed_index": 14,
+      "doc_id": "ch014",
+      "label_ko": "3편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

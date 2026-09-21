@@ -1,0 +1,226 @@
+{
+  "doc_id": "ch091",
+  "global_index": 91,
+  "label_ko": "12편 12장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "his father",
+        "the murdered man"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "the cook"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "old Grigory",
+        "the servant Grigory"
+      ]
+    },
+    {
+      "name": "Lizaveta",
+      "type": "Character",
+      "aliases": [
+        "stinking Lizaveta"
+      ]
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "catastrophe"
+      ]
+    },
+    {
+      "name": "3000 Roubles",
+      "type": "Object",
+      "aliases": [
+        "notes in the envelope",
+        "three thousand roubles"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov",
+      "type": "Character",
+      "aliases": [
+        "my luckless client",
+        "prisoner"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "old Grigory"
+      ]
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "parricide",
+        "the murder"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand",
+        "rainbow-colored notes"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "Believing himself to be the illegitimate son of Fyodor Pavlovitch (there is evidence of this)",
+      "disputed": true,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "compared with that of his master’s legitimate sons. They had everything, he nothing. They had all the rights, they had the inheritance, while he was only the cook.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Smerdyakov",
+      "quote": "He was disrespectful to the servant Grigory and his wife, who had cared for him in his childhood.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "RELATED_TO",
+      "object": "Lizaveta",
+      "quote": "he resented his parentage, was ashamed of it, and would clench his teeth when he remembered that he was the son of ‘stinking Lizaveta.’",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "He was disrespectful to the servant Grigory and his wife, who had cared for him in his childhood.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "produced a bundle of notes and proclaimed Smerdyakov as the murderer.",
+      "disputed": true,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "3000 Roubles",
+      "quote": "He told me himself that he had helped Fyodor Pavlovitch to put the notes in the envelope.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "Believing himself to be the illegitimate son of Fyodor Pavlovitch (there is evidence of this)",
+      "disputed": true,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "They had all the rights, they had the inheritance, while he was only the cook.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "What troubles me and makes me indignant is that of all the mass of facts heaped up by the prosecution against the prisoner, there is not a single one certain and irrefutable.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "The talented prosecutor, with extraordinary subtlety, sketched for us all the arguments for and against the hypothesis of Smerdyakov’s guilt",
+      "disputed": true,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "He told me himself that he had helped Fyodor Pavlovitch to put the notes in the envelope.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "PRESENT_AT",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "at that moment when the old Grigory shouted at the top of his voice ‘Parricide!’",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,262 @@
+{
+  "doc_id": "ch023",
+  "global_index": 23,
+  "label_ko": "3편 10장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Agafya Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "house in the High Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Dear little Alyosha"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "letter from Madame Hohlakov",
+      "type": "Object",
+      "aliases": [
+        "little pink envelope"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "Towering like a mountain above all the rest stood the fatal, insoluble question: How would things end between his father and his brother Dmitri with this terrible woman?",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "He expressed this thought almost plainly to Dmitri when, after the visit, his brother besought and insisted that he should not conceal his impressions on seeing his betrothed.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri",
+      "quote": "Alyosha realized at the first glance, at the first word, that all the tragedy of her position in relation to the man she loved so dearly was no secret to her; that she perhaps already knew everything, positively everything.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "I’ve been tormented all the week, trying to think how to prevent him from being ashamed to face me because he spent that three thousand.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Agafya Ivanovna",
+      "relation": "RELATED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "One of them, a woman of little education, was that aunt of her half-sister Agafya Ivanovna who had looked after her in her father’s house when she came from boarding-school.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LIVES_AT",
+      "object": "house in the High Street",
+      "quote": "It was by now seven o’clock, and it was getting dark as Alyosha entered the very spacious and convenient house in the High Street occupied by Katerina Ivanovna.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Agrafena Alexandrovna",
+      "quote": "“Go away! You’re a creature for sale!” screamed Katerina Ivanovna. Every feature was working in her utterly distorted face.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Katerina Ivanovna",
+      "quote": "“So I shall tell Mitya how you kissed my hand, but I didn’t kiss yours at all. And how he will laugh!” “Vile slut! Go away!”",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Katerina Ivanovna at once made her sit down in an arm-chair facing Alyosha, and ecstatically kissed her several times on her smiling lips. She seemed quite in love with her.",
+      "disputed": true,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "RIVAL_OF",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Now again I’m thinking: I may take to Mitya again. I liked him very much once—liked him for almost a whole hour. Now maybe I shall go and tell him to stay with me from this day forward.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "Your brother’s a scoundrel, Alexey Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Grushenka",
+      "quote": "“Go away! You’re a creature for sale!” screamed Katerina Ivanovna. Every feature was working in her utterly distorted face.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "QUARRELS_WITH",
+      "object": "Katerina Ivanovna",
+      "quote": "“So I shall tell Mitya how you kissed my hand, but I didn’t kiss yours at all. And how he will laugh!”",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "letter from Madame Hohlakov",
+      "quote": "Alyosha took the little pink envelope mechanically and put it, almost unconsciously, into his pocket.",
+      "disputed": false,
+      "first_revealed_index": 23,
+      "doc_id": "ch023",
+      "label_ko": "3편 10장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

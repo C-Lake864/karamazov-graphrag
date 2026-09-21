@@ -1,0 +1,147 @@
+{
+  "doc_id": "ch043",
+  "global_index": 43,
+  "label_ko": "7편 2장",
+  "entities": [
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey",
+      "quote": "The fact is that all the love that lay concealed in his pure young heart for every one and everything had, for the past year, been concentrated—and perhaps wrongly so—on one being, his beloved elder.",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "LOVES",
+      "object": "Father Zossima",
+      "quote": "what he saw before all was one figure—the figure of his beloved elder, the figure of that holy man whom he revered with such adoration.",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "He remembered afterwards how, on that terrible day, he had entirely forgotten his brother Dmitri, about whom he had been so anxious and troubled the day before",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "By the way, your brother Ivan set off to Moscow this morning, did you know?",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "QUARRELS_WITH",
+      "object": "Rakitin",
+      "quote": "“I believed, I believe, I want to believe, and I will believe, what more do you want?” cried Alyosha irritably.",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "And a whole year of life in the monastery had formed the habit of this expectation in his heart.",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Alyosha",
+      "quote": "first a revengeful desire to see “the downfall of the righteous,” and Alyosha’s fall “from the saints to the sinners,” over which he was already gloating in his imagination",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Father Zossima",
+      "quote": "‘she would never have expected _such conduct_ from a man of such a reverend character as Father Zossima.’ That was her very word: ‘conduct.’ She is angry too.",
+      "disputed": true,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

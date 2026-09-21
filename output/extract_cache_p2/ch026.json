@@ -1,0 +1,127 @@
+{
+  "doc_id": "ch026",
+  "global_index": 26,
+  "label_ko": "4편 2장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "his father",
+        "the old man"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "he remembered that his father had insisted the day before that he should come without his brother Ivan seeing him.",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "So I am saving up more and more, simply for myself, my dear son Alexey Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "even now the law does not allow you to drag your old father about by the hair, to kick him in the face in his own house",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "even now the law does not allow you to drag your old father about by the hair, to kick him in the face in his own house, and brag of murdering him outright—all in the presence of witnesses.",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "Is that betrothed of his, Katerina Ivanovna, whom he has kept so carefully hidden from me all this time, going to marry him or not?",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "RIVAL_OF",
+      "object": "Mitya",
+      "quote": "He is doing his utmost to carry off Mitya’s betrothed. That’s what he is staying here for",
+      "disputed": true,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Mitya",
+      "quote": "There you see how dearly these fine young ladies love a rake and a scoundrel.",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "He was quite alone in the house, for Smerdyakov too had gone out marketing.",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

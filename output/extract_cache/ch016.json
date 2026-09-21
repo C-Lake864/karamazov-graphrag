@@ -1,0 +1,146 @@
+{
+  "doc_id": "ch016",
+  "global_index": 16,
+  "label_ko": "3편 3장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "note",
+      "type": "Object",
+      "aliases": [
+        "letter"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazovs",
+      "type": "Group",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "Alyosha remained for some time irresolute after hearing the command his father shouted to him from the carriage.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "He had a great longing to run and see his brother Dmitri before that fateful interview.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Dmitri led his brother to the most secluded corner of the garden.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "I could take you in my arms, Alyosha, and press you to my bosom till I crush you, for in the whole world—in reality—in re-al-i-ty—(can you take it in?) I love no one but you!",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "POSSESSES",
+      "object": "note",
+      "quote": "“Here is her note.” Alyosha took it out of his pocket.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Listen, Alyosha, listen, brother! Now I mean to tell you everything, for I must tell some one.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "Listen, Alyosha, listen, brother! Now I mean to tell you everything, for I must tell some one.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "MEMBER_OF",
+      "object": "Karamazovs",
+      "quote": "For I’m a Karamazov. For when I do leap into the pit, I go headlong with my heels up",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "MEMBER_OF",
+      "object": "Karamazovs",
+      "quote": "All we Karamazovs are such insects, and, angel as you are, that insect lives in you, too",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

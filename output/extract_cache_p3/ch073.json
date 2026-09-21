@@ -1,0 +1,371 @@
+{
+  "doc_id": "ch073",
+  "global_index": 73,
+  "label_ko": "11편 4장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Mihailovitch",
+      "type": "Character",
+      "aliases": [
+        "captain of the police"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazovs",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "prison",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "murder of Mitya's father",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grusha"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grusha"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katya",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "“Yes, the trial’s to-morrow. Are you so hopeless, brother?” Alyosha said, with an apprehensive feeling.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Rakitin explained it all to me yesterday, brother, and it simply bowled me over.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "I love you more than any one. It makes my heart yearn to look at you.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Mitya",
+      "quote": "“You’d better give that advice to your own family, who’ve always been a slave-driving lot, and not to Rakitin,” he cried, suddenly trembling with anger.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan Fyodorovitch",
+      "quote": "He can’t bear Ivan, he hates him.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "MEMBER_OF",
+      "object": "Karamazovs",
+      "quote": "The Karamazovs are not blackguards, but philosophers; for all true Russians are philosophers",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LIVES_AT",
+      "object": "prison",
+      "quote": "you’ve put your foot in it, committing a murder, and now you are rotting in prison.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Mitya's father",
+      "quote": "He wants to say ‘he couldn’t help murdering his father, he was corrupted by his environment,’ and so on.",
+      "disputed": true,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mihail Mihailovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Grushenka",
+      "quote": "His abuse of her at Mokroe weighed on the old man’s conscience, and when he learned the whole story, he completely changed his view of her.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "ENGAGED_TO",
+      "object": "Madame Hohlakov",
+      "quote": "And he told me he was courting Madame Hohlakov.",
+      "disputed": true,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Perhotin",
+      "relation": "RIVAL_OF",
+      "object": "Rakitin",
+      "quote": "Perhotin’s carrying everything before him, bravo! I could kiss the silly old noodle for turning him out of the house.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "“Brother, I cannot stay long,” Alyosha said, after a pause.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "Brother, these last two months I’ve found in myself a new man.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "‘Fyodor Pavlovitch, our papa,’ he said, ‘was a pig, but his ideas were right enough.’",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "‘Fyodor Pavlovitch, our papa,’ he said, ‘was a pig, but his ideas were right enough.’",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Grusha’s killing me; the thought of her’s killing me, killing me. She was with me just now....",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "Grigory’s my enemy. And there are some people who are better as foes than friends.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Rakitin",
+      "quote": "I answered him, ‘Well, but you, without a God, are more likely to raise the price of meat, if it suits you, and make a rouble on every copeck.’ He lost his temper.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "Mokroe",
+      "quote": "She knows that I said of her at Mokroe that she was a woman of ‘great wrath.’",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "Remember that rule given you by your brother Mitya, who’s come to ruin through women.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "I worship her, Alexey, worship her. Only she doesn’t see it.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Mitya",
+      "quote": "And she tortures me, tortures me with her love.",
+      "disputed": false,
+      "first_revealed_index": 73,
+      "doc_id": "ch073",
+      "label_ko": "11편 4장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

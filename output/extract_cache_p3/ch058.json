@@ -1,0 +1,253 @@
+{
+  "doc_id": "ch058",
+  "global_index": 58,
+  "label_ko": "9편 5장",
+  "entities": [
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Smerdyakov"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": [
+        "Nikolay Parfenovitch"
+      ]
+    },
+    {
+      "name": "pestle",
+      "type": "Object",
+      "aliases": [
+        "pestle",
+        "weapon"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Mr. Karamazov"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "prosecutor"
+      ]
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": [
+        "Mr. Perhotin"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fedosya Markovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "pestle",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "pistols",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "murder and robbing of Mitya's father",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Plotnikovs'",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "money",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "He told them how he had leapt over the fence into his father’s garden",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "Besides, what motive had he for murdering the old man? Why, he’s very likely his son, you know—his natural son. Do you know that?",
+      "disputed": true,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "So no one knew of the signals but your dead father, you, and the valet Smerdyakov? And no one else?",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "pestle",
+      "quote": "seeing his father peering out of the window, his hatred flared up and he pulled the pestle out of his pocket",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "sitting on the wall, he had struck Grigory on the head with the pestle, while the old man had hold of his left leg",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "after dramatically describing how I wanted to kill him, and how I snatched up the pestle—I suddenly run away from the window.",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "Scarcely had Mitya described how, sitting on the wall, he had struck Grigory on the head with the pestle, while the old man had hold of his left leg",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "pestle",
+      "quote": "“And the pestle?” “The pestle was in my hand.”",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "pistols",
+      "quote": "So I went to redeem the pistols I had pledged, to load them and put a bullet in my brain to-morrow.",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "murder and robbing of Mitya's father",
+      "quote": "The answer to the question where I got the money would expose me to far greater disgrace than the murder and robbing of my father, if I had murdered and robbed him.",
+      "disputed": true,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "money",
+      "quote": "allow me to request you to lay on the table everything in your possession, especially all the money you still have about you.",
+      "disputed": false,
+      "first_revealed_index": 58,
+      "doc_id": "ch058",
+      "label_ko": "9편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

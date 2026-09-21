@@ -1,0 +1,91 @@
+{
+  "doc_id": "ch062",
+  "global_index": 62,
+  "label_ko": "9편 9장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Karamazov",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mavriky Mavrikyevitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grusha"
+      ]
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Mitya's Father",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Forgive me, Grusha, for my love, for ruining you, too, with my love.",
+      "disputed": false,
+      "first_revealed_index": 62,
+      "doc_id": "ch062",
+      "label_ko": "9편 9장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "I have told you I am yours, and I will be yours. I will follow you for ever, wherever they may send you.",
+      "disputed": false,
+      "first_revealed_index": 62,
+      "doc_id": "ch062",
+      "label_ko": "9편 9장"
+    },
+    {
+      "subject": "Mavriky Mavrikyevitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "I’m not ‘old fellow’ to you, and you can keep your advice for another time!” Mavriky Mavrikyevitch snapped out savagely",
+      "disputed": false,
+      "first_revealed_index": 62,
+      "doc_id": "ch062",
+      "label_ko": "9편 9장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Mitya's Father",
+      "quote": "But listen, for the last time, I am not guilty of my father’s blood.",
+      "disputed": true,
+      "first_revealed_index": 62,
+      "doc_id": "ch062",
+      "label_ko": "9편 9장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

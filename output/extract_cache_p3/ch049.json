@@ -1,0 +1,242 @@
+{
+  "doc_id": "ch049",
+  "global_index": 49,
+  "label_ko": "8편 4장",
+  "entities": [
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": [
+        "pestle"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nazar Ivanovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Prohor",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Timofey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "widow Morozov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "widow Morozov's house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "handkerchief",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "pestle",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "as though foreseeing it, to Alyosha, four days ago in the arbor, when, in answer to Alyosha’s question, “How can you say you’ll kill our father?”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "as though foreseeing it, to Alyosha, four days ago in the arbor, when, in answer to Alyosha’s question, “How can you say you’ll kill our father?”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "as though foreseeing it, to Alyosha, four days ago in the arbor, when, in answer to Alyosha’s question, “How can you say you’ll kill our father?”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "A horrible fury of hatred suddenly surged up in Mitya’s heart: “There he was, his rival, the man who had tormented him, had ruined his life!”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "A horrible fury of hatred suddenly surged up in Mitya’s heart: “There he was, his rival, the man who had tormented him, had ruined his life!”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "brass pestle",
+      "quote": "Mitya was beside himself, he suddenly pulled the brass pestle out of his pocket.",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Mechanically he stepped into the garden. Perhaps he fancied something, perhaps caught some sound, and, glancing to the left he saw his master’s window open.",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "He remembered afterwards clearly, that he had been awfully anxious to make sure whether he had broken the old man’s skull, or simply stunned him with the pestle.",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Marfa Ignatyevna",
+      "relation": "RELATED_TO",
+      "object": "Grigory",
+      "quote": "while his wife repeated a “certain prayer” over him, after which he had gone to bed. Marfa Ignatyevna had tasted the stuff, too",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "handkerchief",
+      "quote": "He remembered taking out of his pocket the clean white handkerchief with which he had provided himself for his visit to Madame Hohlakov",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "pestle",
+      "quote": "whether he had broken the old man’s skull, or simply stunned him with the pestle.",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Nazar Ivanovitch",
+      "relation": "SERVANT_OF",
+      "object": "widow Morozov",
+      "quote": "Nazar Ivanovitch promised, but went upstairs to his mistress who had suddenly sent for him",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Prohor",
+      "relation": "RELATED_TO",
+      "object": "Nazar Ivanovitch",
+      "quote": "meeting his nephew, a boy of twenty, who had recently come from the country, on the way up told him to take his place",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

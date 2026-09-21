@@ -1,0 +1,285 @@
+{
+  "doc_id": "ch091",
+  "global_index": 91,
+  "label_ko": "12편 12장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Ivan Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan Karamazov"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Smerdyakov"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "Grigory",
+        "old Grigory"
+      ]
+    },
+    {
+      "name": "stinking Lizaveta",
+      "type": "Character",
+      "aliases": [
+        "stinking Lizaveta"
+      ]
+    },
+    {
+      "name": "Madame Svyetlov",
+      "type": "Character",
+      "aliases": [
+        "Madame Svyetlov"
+      ]
+    },
+    {
+      "name": "Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": [
+        "Mokroe"
+      ]
+    },
+    {
+      "name": "pestle",
+      "type": "Object",
+      "aliases": [
+        "pestle"
+      ]
+    },
+    {
+      "name": "fatal drunken letter",
+      "type": "Object",
+      "aliases": [
+        "fatal drunken letter",
+        "fatal letter"
+      ]
+    },
+    {
+      "name": "3000 roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles",
+        "bundle of notes"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Smerdyakov"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "Grigory",
+        "old Grigory"
+      ]
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": [
+        "Fetyukovitch"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles",
+        "three thousand",
+        "notes in the envelope",
+        "rainbow-colored notes"
+      ]
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "murder of Fyodor Pavlovitch",
+        "parricide",
+        "the murder"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "Believing himself to be the illegitimate son of Fyodor Pavlovitch (there is evidence of this)",
+      "disputed": true,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Smerdyakov",
+      "quote": "He was disrespectful to the servant Grigory and his wife, who had cared for him in his childhood.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Ivan Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Karamazov",
+      "quote": "the equally startling evidence given in court to-day by the elder of the prisoner’s brothers, who had believed in his guilt",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "He told me himself that he had helped Fyodor Pavlovitch to put the notes in the envelope.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "leapt off the fence a minute later to the assistance of Grigory after he had, in his excitement, knocked him down.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "POSSESSES",
+      "object": "pestle",
+      "quote": "a witness saw the prisoner running out of the garden with a weapon in his hand, and was knocked down by him",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "Mokroe",
+      "quote": "the dreadful state of the prisoner’s mind at Mokroe when love again lay before him calling him to new life",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Ivan Karamazov",
+      "relation": "POSSESSES",
+      "object": "3000 roubles",
+      "quote": "the elder of the prisoner’s brothers, who had believed in his guilt, but has to-day produced a bundle of notes and proclaimed Smerdyakov as the murderer.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "Believing himself to be the illegitimate son of Fyodor Pavlovitch (there is evidence of this), he might well have resented his position, compared with that of his master’s legitimate sons.",
+      "disputed": true,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Karamazov",
+      "quote": "suppose for one moment I agreed with the prosecution that my luckless client had stained his hands with his father’s blood.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "They had all the rights, they had the inheritance, while he was only the cook.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "What troubles me and makes me indignant is that of all the mass of facts heaped up by the prosecution against the prisoner, there is not a single one certain and irrefutable.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "sketched for us all the arguments for and against the hypothesis of Smerdyakov’s guilt, and asked us in particular what motive he had in feigning a fit.",
+      "disputed": true,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "He told me himself that he had helped Fyodor Pavlovitch to put the notes in the envelope.",
+      "disputed": false,
+      "first_revealed_index": 91,
+      "doc_id": "ch091",
+      "label_ko": "12편 12장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,295 @@
+{
+  "doc_id": "ch046",
+  "global_index": 46,
+  "label_ko": "8편 1장",
+  "entities": [
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Kuzma Samsonov",
+      "type": "Character",
+      "aliases": [
+        "Samsonov"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "captain"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Kuzma Samsonov",
+      "type": "Character",
+      "aliases": [
+        "Kuzma Kuzmitch",
+        "Samsonov"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Pavel Pavlovitch Korneplodov",
+      "type": "Character",
+      "aliases": [
+        "Korneplodov"
+      ]
+    },
+    {
+      "name": "Lyagavy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": [
+        "village of Tchermashnya"
+      ]
+    },
+    {
+      "name": "Kuzma Kuzmitch Samsonov",
+      "type": "Character",
+      "aliases": [
+        "Kuzma Kuzmitch",
+        "Samsonov"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lyagavy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilyinskoe",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Dmitri",
+      "quote": "Though Grushenka had, it is true, loved him for an hour, genuinely and sincerely, yet she tortured him sometimes cruelly and mercilessly.",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "weighed down by all the hideous horror of his struggle with his own father for this woman, he was incapable of imagining any danger more terrible",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "weighed down by all the hideous horror of his struggle with his own father for this woman, he was incapable of imagining any danger more terrible",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "his final conflict with Fyodor Pavlovitch was close upon him, and must be decided before anything else.",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "QUARRELS_WITH",
+      "object": "Katerina Ivanovna",
+      "quote": "on the evening when Grushenka had insulted Katerina Ivanovna, and Mitya, after hearing Alyosha’s account of it, had admitted that he was a scoundrel",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "After parting from his brother on that night, he had felt in his frenzy that it would be better “to murder and rob some one than fail to pay my debt to Katya.",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "my disputes with my father, Fyodor Pavlovitch Karamazov, who robbed me of my inheritance from my mother",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "my disputes with my father, Fyodor Pavlovitch Karamazov, who robbed me of my inheritance from my mother",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "my disputes with my father, Fyodor Pavlovitch Karamazov, who robbed me of my inheritance from my mother",
+      "disputed": true,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "the old man would perhaps prefer him to Fyodor Pavlovitch for Grushenka.",
+      "disputed": true,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "resolved with all the fervor of his passion that when once Grushenka told him she loved him and would marry him, it would mean the beginning of a new Grushenka and a new Dmitri",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Lyagavy",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "He’s been haggling with Fyodor Pavlovitch for the last year, over your copse at Tchermashnya.",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Lyagavy",
+      "relation": "LIVES_AT",
+      "object": "Ilyinskoe",
+      "quote": "Now he’s come back again and is staying with the priest at Ilyinskoe, about twelve versts from the Volovya station.",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Kuzma Kuzmitch Samsonov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "or his jealousy of Grushenka, in whose name this “scapegrace” had rushed in on him with such a tale to get money which worked on the old man, I can’t tell.",
+      "disputed": true,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    },
+    {
+      "subject": "Kuzma Kuzmitch Samsonov",
+      "relation": "QUARRELS_WITH",
+      "object": "Mitya",
+      "quote": "at that moment the old man looked at him with intense spite, and resolved to make a laughing-stock of him.",
+      "disputed": false,
+      "first_revealed_index": 46,
+      "doc_id": "ch046",
+      "label_ko": "8편 1장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

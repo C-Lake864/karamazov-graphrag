@@ -1,0 +1,344 @@
+{
+  "corpus": "The Brothers Karamazov (Gutenberg #28054), 장 단위 96건",
+  "note": "read_point = 읽은 지점(통짜 장 번호 1~96). 이 지점보다 뒤의 근거는 쓰면 안 된다.",
+  "items": [
+    {
+      "id": "G01",
+      "kind": "multihop",
+      "hops": 1,
+      "question": "알료샤의 아버지는 누구야?",
+      "read_point": 5,
+      "expected_answer": "표도르 파블로비치 카라마조프",
+      "expected_path": [
+        [
+          "Fyodor Pavlovitch Karamazov",
+          "FATHER_OF",
+          "Alexey (Alyosha)"
+        ]
+      ],
+      "why_path": "부자 관계는 1편 1장 첫 문장에 그대로 나온다. 1홉 기준선.",
+      "evidence": [
+        {
+          "doc_id": "ch001",
+          "global_index": 1,
+          "label_ko": "1편 1장",
+          "quote": "Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch Karamazov, a land owner well known in our district in his own day, and still remembered among us owing to his gloomy and tragic death, which happened thirteen years ago,"
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "kind": "multihop",
+      "hops": 1,
+      "question": "조시마 장로는 어디에 머물고 있어?",
+      "read_point": 13,
+      "expected_answer": "수도원 안의 암자(hermitage)",
+      "expected_path": [
+        [
+          "Zossima",
+          "LIVES_AT",
+          "the monastery hermitage"
+        ]
+      ],
+      "why_path": "장소 관계 1홉. Place 노드가 제대로 잡히는지 본다.",
+      "evidence": [
+        {
+          "doc_id": "ch004",
+          "global_index": 4,
+          "label_ko": "1편 4장",
+          "quote": "the elder Zossima, who was living in the monastery hermitage, had made a special impression upon his “gentle boy.” “That is the most honest monk among them, of course,” he observed, after listening in thoughtful silence to Alyosha"
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "kind": "multihop",
+      "hops": 1,
+      "question": "그리고리는 누구 집에서 일하는 하인이야?",
+      "read_point": 6,
+      "expected_answer": "표도르 파블로비치 집안 (카라마조프가)",
+      "expected_path": [
+        [
+          "Grigory",
+          "SERVANT_OF",
+          "Fyodor Pavlovitch"
+        ]
+      ],
+      "why_path": "SERVANT_OF 1홉. 뒤 문항들이 이 관계를 경유하므로 먼저 단독으로 확인한다.",
+      "evidence": [
+        {
+          "doc_id": "ch002",
+          "global_index": 2,
+          "label_ko": "1편 2장",
+          "quote": "a faithful servant of the family, Grigory, took the three-year-old Mitya into his care. If he hadn’t looked after him there would have been no one even to change the baby’s little shirt. It happened moreover that the child’s relations on his"
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "kind": "multihop",
+      "hops": 2,
+      "question": "일류샤의 아버지를 길에서 수염을 잡고 끌고 다닌 사람은 누구야?",
+      "read_point": 31,
+      "expected_answer": "드미트리(미챠) 표도로비치 카라마조프",
+      "expected_path": [
+        [
+          "Ilusha",
+          "SON_OF",
+          "Captain Snegiryov"
+        ],
+        [
+          "Dmitri",
+          "QUARRELS_WITH",
+          "Captain Snegiryov"
+        ]
+      ],
+      "why_path": "일류샤와 아버지의 관계는 4편 6장, 수염 사건은 4편 5장. 서로 다른 장이라 한 문서로는 못 푼다.",
+      "evidence": [
+        {
+          "doc_id": "ch030",
+          "global_index": 30,
+          "label_ko": "4편 6장",
+          "quote": "That I’d take my Ilusha and thrash him before you for your satisfaction? Would you like it done at once, sir?” said the captain, suddenly turning to Alyosha, as though he were going to attack him. “I am sorry about your"
+        },
+        {
+          "doc_id": "ch029",
+          "global_index": 29,
+          "label_ko": "4편 5장",
+          "quote": "Dmitri Fyodorovitch somehow lost his temper with this captain, seized him by the beard and dragged him out into the street and for some distance along it, in that insulting fashion. And I am told that his son, a boy, quite a child, who is at the school her"
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "kind": "multihop",
+      "hops": 2,
+      "question": "조시마 장로의 제자를 그루셴카의 집으로 데려간 사람은 누구야?",
+      "read_point": 45,
+      "expected_answer": "라키친",
+      "expected_path": [
+        [
+          "Zossima",
+          "MENTOR_OF",
+          "Alyosha"
+        ],
+        [
+          "Rakitin",
+          "TOOK_TO",
+          "Alyosha -> Grushenka"
+        ]
+      ],
+      "why_path": "두 관계가 7편 2장과 1편 4장으로 39장 떨어져 있다. 먼 거리 2홉을 검사한다.",
+      "evidence": [
+        {
+          "doc_id": "ch043",
+          "global_index": 43,
+          "label_ko": "7편 2장",
+          "quote": "“Let’s go to Grushenka, eh? Will you come?” pronounced Rakitin at last, trembling with timid suspense. “Let’s go to Grushenka,” Alyosha answered calmly, at once, and this prompt and calm agreement was such a surprise to Rakitin that"
+        },
+        {
+          "doc_id": "ch004",
+          "global_index": 4,
+          "label_ko": "1편 4장",
+          "quote": "the elder Zossima, who was living in the monastery hermitage, had made a special impression upon his “gentle boy.” “That is the most honest monk among them, of course,” he observed, after listening in thoughtful silence to Alyosha, and seeming scarcely surprise"
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "kind": "control_singlehop",
+      "hops": 2,
+      "question": "드미트리를 세 살 때 맡아 키운 하인은 누구 밑에서 일했어?",
+      "read_point": 6,
+      "expected_answer": "표도르 파블로비치. 그리고리가 드미트리를 맡아 키웠고, 그리고리는 그 집안의 하인이다.",
+      "expected_path": [
+        [
+          "Grigory",
+          "RAISED",
+          "Dmitri (Mitya)"
+        ],
+        [
+          "Grigory",
+          "SERVANT_OF",
+          "Fyodor Pavlovitch"
+        ]
+      ],
+      "why_path": "일부러 한 장 안에서 풀리는 문항을 하나 넣었다. basic RAG가 이겨야 정상인 대조군.",
+      "evidence": [
+        {
+          "doc_id": "ch002",
+          "global_index": 2,
+          "label_ko": "1편 2장",
+          "quote": "a faithful servant of the family, Grigory, took the three-year-old Mitya into his care. If he hadn’t looked after him there would have been no one even to change the baby’s little shirt. It happened moreover that the child’s relations on his mother’s side"
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "kind": "multihop",
+      "hops": 2,
+      "question": "그루셴카와 친척이라는 말을 듣고 펄쩍 뛴 사람은 누구야?",
+      "read_point": 13,
+      "expected_answer": "라키친",
+      "expected_path": [
+        [
+          "Rakitin",
+          "RELATIVE_OF(부인됨)",
+          "Grushenka"
+        ]
+      ],
+      "why_path": "읽은 지점 13에서는 '부인했다'까지가 전부다. 확정은 12편 4장이라 이 시점에 단정하면 안 된다.",
+      "evidence": [
+        {
+          "doc_id": "ch012",
+          "global_index": 12,
+          "label_ko": "2편 7장",
+          "quote": "“A relation! That Grushenka a relation of mine!” cried Rakitin, turning crimson. “Are you mad? You’re out of your mind!” “Why, isn’t she a relation of yours? I heard so.” “Where can you have heard it? You Karamazovs brag of being an ancient, noble f"
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "kind": "multihop",
+      "hops": 3,
+      "question": "일류샤의 아버지를 모욕한 사람은 누구와 약혼했었어?",
+      "read_point": 31,
+      "expected_answer": "카체리나 이바노브나",
+      "expected_path": [
+        [
+          "Ilusha",
+          "SON_OF",
+          "Captain Snegiryov"
+        ],
+        [
+          "Dmitri",
+          "QUARRELS_WITH",
+          "Captain Snegiryov"
+        ],
+        [
+          "Dmitri",
+          "ENGAGED_TO",
+          "Katerina Ivanovna"
+        ]
+      ],
+      "why_path": "3장(30·29·18)을 모두 밟아야 한다. 2홉에서 끊기고 3홉으로 넓혀야 풀리는 문항.",
+      "evidence": [
+        {
+          "doc_id": "ch030",
+          "global_index": 30,
+          "label_ko": "4편 6장",
+          "quote": "That I’d take my Ilusha and thrash him before you for your satisfaction? Would you like it done at once, sir?” said the captain, suddenly turning to Alyosha, as though he were going to attack him. “I am sorry about your"
+        },
+        {
+          "doc_id": "ch029",
+          "global_index": 29,
+          "label_ko": "4편 5장",
+          "quote": "seized him by the beard and dragged him out into the street and for some distance along it, in that insulting fashion. And I am told that his son, a boy, quite a child, who is at the school here, saw it and ran beside them crying"
+        },
+        {
+          "doc_id": "ch018",
+          "global_index": 18,
+          "label_ko": "3편 5장",
+          "quote": "you were betrothed, you are betrothed still?” “We weren’t betrothed at once, not for three months after that adventure. The next day I told myself that the incident was closed, concluded, that there would be no seq"
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "kind": "multihop",
+      "hops": 3,
+      "question": "드미트리를 어릴 때 키운 하인이 모시는 주인의 아들 중, 수도원에 들어간 사람은 누구야?",
+      "read_point": 13,
+      "expected_answer": "알료샤(알렉세이 표도로비치 카라마조프)",
+      "expected_path": [
+        [
+          "Grigory",
+          "RAISED",
+          "Dmitri"
+        ],
+        [
+          "Grigory",
+          "SERVANT_OF",
+          "Fyodor Pavlovitch"
+        ],
+        [
+          "Fyodor Pavlovitch",
+          "FATHER_OF",
+          "Alyosha"
+        ]
+      ],
+      "why_path": "표도르를 '경유'해야만 풀린다. 허브 제외 규칙과 정면으로 부딪히는 문항 — 허브를 도착점 근처에서는 허용해야 함을 보여준다.",
+      "evidence": [
+        {
+          "doc_id": "ch002",
+          "global_index": 2,
+          "label_ko": "1편 2장",
+          "quote": "a faithful servant of the family, Grigory, took the three-year-old Mitya into his care. If he hadn’t looked after him there would have been no one even to change the baby’s little shirt. It happened moreover that the child’s relations on his mother’s side"
+        },
+        {
+          "doc_id": "ch001",
+          "global_index": 1,
+          "label_ko": "1편 1장",
+          "quote": "Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch Karamazov, a land owner well known in our district in his own day, and still remembered among us owing to his gloomy and tragic death, which happened thirteen years ago,"
+        },
+        {
+          "doc_id": "ch004",
+          "global_index": 4,
+          "label_ko": "1편 4장",
+          "quote": "as a novice. He explained that this was his strong desire, and that he was solemnly asking his consent as his father. The old man knew that the elder Zossima, who was living in the monastery hermitage, had made a special impres"
+        }
+      ]
+    },
+    {
+      "id": "S01",
+      "kind": "spoiler_gate",
+      "hops": 0,
+      "question": "그루셴카가 누구야?",
+      "read_point": 10,
+      "expected_answer": "읽은 범위(10장) 안에는 아직 나오지 않았다고 답해야 한다. 그루셴카는 12장에서 처음 등장한다.",
+      "expected_path": [],
+      "why_path": "읽은 지점보다 뒤에서 처음 나오는 인물. 이름조차 알려주면 안 된다.",
+      "evidence": []
+    },
+    {
+      "id": "S02",
+      "kind": "spoiler_gate",
+      "hops": 0,
+      "question": "표도르 파블로비치를 죽인 사람은 누구야?",
+      "read_point": 20,
+      "expected_answer": "읽은 범위(20장) 안에는 살인 사건 자체가 아직 일어나지 않았다고 답해야 한다.",
+      "expected_path": [],
+      "why_path": "살인은 9편 2장(55장)에서 드러난다. 모델이 사전 지식으로 답하면 여기서 샌다. 누수 시험의 핵심.",
+      "evidence": []
+    },
+    {
+      "id": "S03",
+      "kind": "spoiler_gate",
+      "hops": 0,
+      "question": "스메르쟈코프의 아버지는 누구야?",
+      "read_point": 20,
+      "expected_answer": "읽은 범위 안에서 확정된 근거가 없다고 답해야 한다. 소문·암시를 사실처럼 단정하면 실패.",
+      "expected_path": [],
+      "why_path": "부칭(父稱)을 합쳐 보여주는 것만으로 혈연이 암시되는 경우. 별칭 병합이 스포가 되는지 본다.",
+      "evidence": []
+    },
+    {
+      "id": "S04",
+      "kind": "spoiler_gate",
+      "hops": 0,
+      "question": "라키친과 그루셴카는 친척 맞아?",
+      "read_point": 12,
+      "expected_answer": "12장 시점에서는 '그런 말이 돌았고 라키친이 강하게 부인했다'까지만 답해야 한다. 사실로 확정하면 실패.",
+      "expected_path": [],
+      "why_path": "같은 사실이 앞에서는 부인되고 뒤(12편 4장)에서 확인된다. 읽은 지점에 따라 답이 달라져야 하는 문항.",
+      "evidence": [
+        {
+          "doc_id": "ch012",
+          "global_index": 12,
+          "label_ko": "2편 7장",
+          "quote": "“Why, isn’t she a relation of yours? I heard so.” “Where can you have heard it? You Karamazovs brag of being an ancient, noble family, though your father used to run about playing the buffoon at other men’s"
+        }
+      ]
+    }
+  ]
+}

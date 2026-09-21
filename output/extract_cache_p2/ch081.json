@@ -1,0 +1,389 @@
+{
+  "doc_id": "ch081",
+  "global_index": 81,
+  "label_ko": "12편 2장",
+  "entities": [
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Pierrot"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "envelope",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Mr. Rakitin"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Pan Mitya",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alexey Karamazov",
+        "Alexey Fyodorovitch",
+        "younger Karamazov"
+      ]
+    },
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna Svyetlov",
+      "type": "Character",
+      "aliases": [
+        "Grushenka",
+        "Madame Svyetlov",
+        "Agrafena Alexandrovna"
+      ]
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": [
+        "counsel for the defense"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Timofey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Akim",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pan Mussyalovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pan Vrublevsky",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Metropolis",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazovs"
+      ]
+    },
+    {
+      "name": "First carousal at Mokroe",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "So, for instance, when Grigory, Fyodor Pavlovitch’s old servant, who had given the most damning piece of evidence about the open door, was examined",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "related how Smerdyakov had once found the master’s money in the yard, and, instead of concealing it, had taken it to his master",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "“What Æsop?” the President asked sternly again. “Oh, Pierrot ... my father, Fyodor Pavlovitch.”",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Dmitri",
+      "quote": "He’d have been devoured by lice when he was little, if it hadn’t been for me,” he added, describing Mitya’s early childhood.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Grigory’s description of the scene at the dinner-table, when Dmitri had burst in and beaten his father, threatening to come back to kill him",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "He observed that he was not angry with Mitya for having knocked him down and struck him on the face; he had forgiven him long ago, he said.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri",
+      "quote": "asserting that Fyodor Pavlovitch had wronged his son in their money relations, Grigory, to the surprise of every one, had no proof at all to bring forward",
+      "disputed": true,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "envelope",
+      "quote": "about the envelope in which Fyodor Pavlovitch was supposed to have put three thousand roubles for “a certain person.”",
+      "disputed": true,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "Ilusha, my little son. ‘Father, father, how he insulted you!’ He said that at the stone. Now he is dying....",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Captain Snegiryov",
+      "quote": "On being asked about Mitya’s attack upon him, he refused to answer.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "Since I’ve been arrested, he has borrowed money from me! He is a contemptible Bernard and opportunist, and he doesn’t believe in God",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "OWES_MONEY_TO",
+      "object": "Agrafena Alexandrovna Svyetlov",
+      "quote": "Then you did take— But you have not given it back yet ... or have you?” “That’s of no consequence,” muttered Rakitin, “I refuse to answer such questions.... Of course I shall give it back.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Trifon Borissovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "as he had denied the incident of the hundred roubles till the peasants had been called to prove it, his evidence as to returning the money to Mitya was naturally regarded with great suspicion.",
+      "disputed": true,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "he had been everywhere, seen everything, talked to everybody, knew every detail of the biography of Fyodor Pavlovitch and all the Karamazovs.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "Madame Svyetlov was particularly anxious a couple of months ago to make the acquaintance of the younger Karamazov, Alexey Fyodorovitch",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "First carousal at Mokroe",
+      "relation": "OCCURRED_AT",
+      "object": "Mokroe",
+      "quote": "an incident at the first carousal at Mokroe, a month before the arrest, when Timofey and another peasant called Akim had picked up on the floor in the passage a hundred roubles",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "First carousal at Mokroe",
+      "quote": "at the first carousal at Mokroe, a month before the arrest, when Timofey and another peasant called Akim had picked up on the floor in the passage a hundred roubles dropped by Mitya",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Timofey",
+      "relation": "PRESENT_AT",
+      "object": "First carousal at Mokroe",
+      "quote": "at the first carousal at Mokroe, a month before the arrest, when Timofey and another peasant called Akim had picked up on the floor in the passage a hundred roubles dropped by Mitya",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Akim",
+      "relation": "PRESENT_AT",
+      "object": "First carousal at Mokroe",
+      "quote": "at the first carousal at Mokroe, a month before the arrest, when Timofey and another peasant called Akim had picked up on the floor in the passage a hundred roubles dropped by Mitya",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Rakitin",
+      "quote": "Enraged by the tone in which Rakitin had referred to Grushenka, he suddenly shouted “Bernard!”",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

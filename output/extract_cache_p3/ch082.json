@@ -1,0 +1,86 @@
+{
+  "doc_id": "ch082",
+  "global_index": 82,
+  "label_ko": "12편 3장",
+  "entities": [
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "prisoner"
+      ]
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": [
+        "Herzenstube"
+      ]
+    },
+    {
+      "name": "Doctor Varvinsky",
+      "type": "Character",
+      "aliases": [
+        "Varvinsky"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "the crime",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Mitya",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "known the Karamazov family for years, he furnished some facts of great value for the prosecution, and suddenly, as though recalling something, he added: “But the poor young man",
+      "disputed": false,
+      "first_revealed_index": 82,
+      "doc_id": "ch082",
+      "label_ko": "12편 3장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "the crime",
+      "quote": "if the crime had been committed by him, it must, even if he were conscious of it, have been almost involuntary",
+      "disputed": true,
+      "first_revealed_index": 82,
+      "doc_id": "ch082",
+      "label_ko": "12편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

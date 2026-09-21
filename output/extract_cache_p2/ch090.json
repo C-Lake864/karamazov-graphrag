@@ -1,0 +1,227 @@
+{
+  "doc_id": "ch090",
+  "global_index": 90,
+  "label_ko": "12편 11장",
+  "entities": [
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Svyetlov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "old Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "3000 roubles",
+        "fatal three thousand roubles"
+      ]
+    },
+    {
+      "name": "envelope",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katerina Ivanovna"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Alexey Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alexey Karamazov"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Smerdyakov"
+      ]
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "castle of Udolpho",
+      "type": "Place",
+      "aliases": [
+        "castle of Udolpho"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles",
+        "three thousand"
+      ]
+    },
+    {
+      "name": "envelope with the pink ribbon",
+      "type": "Object",
+      "aliases": [
+        "envelope with the pink ribbon",
+        "envelope"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "What if his master had taken the notes from under his bed and put them back in his cash-box without telling him?",
+      "disputed": true,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "old Fyodor Pavlovitch, locked up alone in impatient and hysterical expectation of the object of his adoration, may have whiled away the time by breaking open the envelope",
+      "disputed": true,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "envelope",
+      "quote": "And so he tears open the envelope, takes out the money, and flings the envelope on the floor, conscious of being the owner and untroubled by any fears of leaving evidence.",
+      "disputed": true,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "A month before the catastrophe the prisoner was entrusted by Katerina Ivanovna with three thousand roubles to send off by post.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "Fyodor Pavlovitch did not give the prisoner the expected three thousand; on the contrary, the latter heard that he meant to use this sum to seduce the woman he, the prisoner, loved.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "envelope with the pink ribbon",
+      "quote": "I shall murder my father and shall take the envelope with the pink ribbon on it from under his mattress as soon as Ivan has gone.",
+      "disputed": true,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Alexey Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "Why, why does the prosecutor refuse to believe the evidence of Alexey Karamazov, given so genuinely and sincerely, so spontaneously and convincingly?",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "Could a Karamazov fail to understand it? That anxiety was just what he was suffering from—what is there improbable in his laying aside that money and concealing it in case of emergency?",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

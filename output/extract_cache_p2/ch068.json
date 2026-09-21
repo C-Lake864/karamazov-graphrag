@@ -1,0 +1,106 @@
+{
+  "doc_id": "ch068",
+  "global_index": 68,
+  "label_ko": "10편 6장",
+  "entities": [
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": [
+        "little Kolya"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mr. Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "The Bell",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Kolya",
+      "relation": "QUARRELS_WITH",
+      "object": "Mr. Rakitin",
+      "quote": "I often disagree with Mr. Rakitin.",
+      "disputed": false,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "MENTOR_OF",
+      "object": "Ilusha",
+      "quote": "I quite understand why you have had such an influence on this generous, morbidly sensitive boy",
+      "disputed": false,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "I have heard you are a mystic and have been in the monastery.",
+      "disputed": true,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "POSSESSES",
+      "object": "The Bell",
+      "quote": "What if he should find out that I’ve only that one number of _The Bell_ in father’s bookcase",
+      "disputed": false,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "Oh, how I love you and admire you at this moment just because you are rather ashamed!",
+      "disputed": false,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

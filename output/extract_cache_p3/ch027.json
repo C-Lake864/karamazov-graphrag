@@ -1,0 +1,90 @@
+{
+  "doc_id": "ch027",
+  "global_index": 27,
+  "label_ko": "4편 3장",
+  "entities": [
+    {
+      "name": "Alyosha Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Krassotkin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Wisp of Tow",
+      "type": "Character",
+      "aliases": [
+        "disheveled wisp of tow"
+      ]
+    },
+    {
+      "name": "Mihailovsky Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "High Street",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Wisp of Tow",
+      "relation": "QUARRELS_WITH",
+      "object": "Krassotkin",
+      "quote": "He is a beast, he stabbed Krassotkin in class the other day with a penknife. It bled.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Smurov",
+      "relation": "QUARRELS_WITH",
+      "object": "Wisp of Tow",
+      "quote": "“Give it him, hit him back, Smurov,” they all shouted. But Smurov, the left-handed boy, needed no telling, and at once revenged himself;",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Wisp of Tow",
+      "relation": "QUARRELS_WITH",
+      "object": "Alyosha Karamazov",
+      "quote": "the spiteful child had seized his left hand with both of his and bit his middle finger. He fixed his teeth in it and it was ten seconds before he let go.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

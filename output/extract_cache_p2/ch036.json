@@ -1,0 +1,307 @@
+{
+  "doc_id": "ch036",
+  "global_index": 36,
+  "label_ko": "5편 5장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "God",
+      "type": "Character",
+      "aliases": [
+        "Father"
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "Character",
+      "aliases": [
+        "Son",
+        "Heavenly King"
+      ]
+    },
+    {
+      "name": "Archangel Michael",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Louis XI",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Victor Hugo",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dante",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Peter the Great",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Tyutchev",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Seville",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Hôtel de Ville of Paris",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Auto-da-fé",
+      "type": "Event",
+      "aliases": [
+        "auto da fé"
+      ]
+    },
+    {
+      "name": "Le bon jugement de la très sainte et gracieuse Vierge Marie",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "God",
+      "type": "Character",
+      "aliases": [
+        "Father"
+      ]
+    },
+    {
+      "name": "Son of God",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Alexei Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Masons",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pater Seraphicus",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazovs",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": [
+        "hermitage"
+      ]
+    },
+    {
+      "name": "Restaurant",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "God",
+      "relation": "FATHER_OF",
+      "object": "Christ",
+      "quote": "‘Of that day and that hour knoweth no man, neither the Son, but the Father,’ as He Himself predicted on earth.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Auto-da-fé",
+      "relation": "OCCURRED_AT",
+      "object": "Seville",
+      "quote": "in a magnificent _auto da fé_, in the presence of the king, the court, the knights, the cardinals, the most charming ladies of the court, and the whole population of Seville.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Le bon jugement de la très sainte et gracieuse Vierge Marie",
+      "relation": "OCCURRED_AT",
+      "object": "Hôtel de Ville of Paris",
+      "quote": "provided for the people in the Hôtel de Ville of Paris in the reign of Louis XI. in honor of the birth of the dauphin. It was called _Le bon jugement de la très sainte et gracieuse Vierge Marie_",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "God",
+      "relation": "FATHER_OF",
+      "object": "Son of God",
+      "quote": "and Thou shalt know then whether Thou art the Son of God and shalt prove then how great is Thy faith in Thy Father.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Alexei Fyodorovitch Karamazov",
+      "quote": "He fancied besides that his brother was looking at him ironically.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Alexei Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch Karamazov",
+      "quote": "He fancied besides that his brother was looking at him ironically.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Father Païssy",
+      "relation": "MENTOR_OF",
+      "object": "Alexei Fyodorovitch Karamazov",
+      "quote": "“No, no, on the contrary, Father Païssy did once say something rather the same as you ... but of course it’s not the same, not a bit the same,” Alyosha hastily corrected himself.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Masons",
+      "quote": "“You are perhaps a Mason yourself!” broke suddenly from Alyosha.",
+      "disputed": true,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "He fancied besides that his brother was looking at him ironically.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "He waited a little, looking after his brother.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "how he could on leaving Ivan so completely forget his brother Dmitri",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "MEMBER_OF",
+      "object": "Karamazovs",
+      "quote": "The strength of the Karamazovs—the strength of the Karamazov baseness.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Pater Seraphicus",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "Come, go now to your Pater Seraphicus, he is dying.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

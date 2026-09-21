@@ -1,0 +1,342 @@
+{
+  "doc_id": "ch087",
+  "global_index": 87,
+  "label_ko": "12편 8장",
+  "entities": [
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Karamazov",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Madame Svyetlov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch's house",
+      "type": "Place",
+      "aliases": [
+        "Fyodor Pavlovitch’s"
+      ]
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "the murder"
+      ]
+    },
+    {
+      "name": "3000 roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles",
+        "envelope"
+      ]
+    },
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Ivan Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Brass pestle",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Three thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "reckless life of his master, who was also perhaps his father—Fyodor Pavlovitch;",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "philosophical conversations with his master’s elder son, Ivan Fyodorovitch",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "they would, in fact, have suspected the son of the murdered man, Dmitri Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "The charge is confirmed by three persons only—the two brothers of the prisoner and Madame Svyetlov.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "He was naturally very honest and enjoyed the complete confidence of his master",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "then his servant, Grigory, but he was almost killed himself;",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Marfa Ignatyevna",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "the third person was Grigory’s wife, Marfa Ignatyevna, but it would be simply shameful to imagine her murdering her master.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "The first person who cried out that Smerdyakov had committed the murder was the prisoner himself at the moment of his arrest",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "for the last two months he has completely shared our conviction of his brother’s guilt",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Remember the phrase in Dmitri Karamazov’s drunken letter, ‘I shall kill the old man, if only Ivan goes away.’",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LOVES",
+      "object": "Fyodor Pavlovitch",
+      "quote": "deceived his master, whom he loved as his benefactor.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "3000 roubles",
+      "quote": "appropriate the three thousand roubles he had seen his master put in the envelope.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Murder of Fyodor Pavlovitch",
+      "relation": "OCCURRED_AT",
+      "object": "Fyodor Pavlovitch's house",
+      "quote": "on the night of the murder, there were five persons in Fyodor Pavlovitch’s",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Ivan Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "‘The man is dead, I can throw the blame on him and save my brother.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "This was the immemorial custom established by his master and the kind-hearted Marfa Ignatyevna, whenever he had a fit.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Most likely he killed him in anger, burning with resentment, as soon as he looked on his hated rival.",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "Supposing that he did agree, it would still follow that Dmitri Karamazov is the murderer and the instigator",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "As soon as he is arrested the prisoner instantly throws all the blame on Smerdyakov, not accusing him of being his accomplice, but of being himself the murderer.",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "the old man caught him, stopped him and was felled to the ground by the brass pestle.",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "POSSESSES",
+      "object": "Brass pestle",
+      "quote": "having killed him, probably with one blow of the brass pestle, and having convinced himself, after careful search, that she was not there",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "Three thousand roubles",
+      "quote": "and that the witness had received them from Smerdyakov the day before.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

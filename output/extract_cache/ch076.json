@@ -1,0 +1,227 @@
+{
+  "doc_id": "ch076",
+  "global_index": 76,
+  "label_ko": "11편 7장",
+  "entities": [
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya",
+        "FATAL KATYA"
+      ]
+    },
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "D. KARAMAZOV",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya's letter to Katerina Ivanovna",
+      "type": "Object",
+      "aliases": [
+        "document",
+        "letter"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Smerdyakov",
+      "relation": "ENGAGED_TO",
+      "object": "Marya Kondratyevna",
+      "quote": "It was supposed afterwards that he had come to stay with them as Marya Kondratyevna’s betrothed, and was living there for a time without paying for board or lodging.",
+      "disputed": true,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "So you thought then, you scoundrel, that together with Dmitri I meant to kill my father?",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "if you wanted the same as your brother, then the business was as good as settled and I should be crushed like a fly, too.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "his share of the inheritance would come to you and your brother Alexey Fyodorovitch in equal parts",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Ivan jumped up and struck him with all his might on the shoulder, so that he fell back against the wall.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "in the same complacent and sententious tone in which he had taunted Grigory and argued with him about religion at Fyodor Pavlovitch’s table",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "I am not afraid of your accusations; you can say what you like about me, and if I don’t beat you to death, it’s simply because I suspect you of that crime and I’ll drag you to justice.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "And just at that time his relations with Katerina Ivanovna became acutely strained. They were like two enemies in love with one another.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan",
+      "quote": "And just at that time his relations with Katerina Ivanovna became acutely strained. They were like two enemies in love with one another.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Better Siberia than your love, for I love another woman and you got to know her too well to-day, so how can you forgive?",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "FATAL KATYA: To-morrow I will get the money and repay your three thousand and farewell, woman of great wrath, but farewell, too, my love!",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "So then it was his brother, not Smerdyakov. And if not Smerdyakov, then not he, Ivan.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "Mitya's letter to Katerina Ivanovna",
+      "quote": "When Katerina Ivanovna heard that, she got up from her seat without a word, went to her writing-table, opened a box standing on it, took out a sheet of paper and laid it before Ivan.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "POSSESSES",
+      "object": "Mitya's letter to Katerina Ivanovna",
+      "quote": "When Ivan read this “document” he was convinced. So then it was his brother, not Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

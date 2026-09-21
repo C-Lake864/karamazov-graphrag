@@ -1,0 +1,230 @@
+{
+  "doc_id": "ch057",
+  "global_index": 57,
+  "label_ko": "9편 4장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Mitya Karamazov",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": [
+        "Nikolay Parfenovitch"
+      ]
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "Ippolit Kirillovitch"
+      ]
+    },
+    {
+      "name": "Pyotr Ilyitch Perhotin",
+      "type": "Character",
+      "aliases": [
+        "Pyotr Ilyitch Perhotin"
+      ]
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": [
+        "Samsonov"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Lyagavy",
+      "type": "Character",
+      "aliases": [
+        "Lyagavy"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": [
+        "Marya Kondratyevna"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Smerdyakov"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Madame Hohlakov"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": [
+        "Mokroe"
+      ]
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": [
+        "Petersburg"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Pyotr Ilyitch Perhotin",
+      "quote": "I mean the ten roubles you borrowed yesterday at about five o’clock on the security of your pistols, from your friend, Pyotr Ilyitch Perhotin.",
+      "disputed": false,
+      "first_revealed_index": 57,
+      "doc_id": "ch057",
+      "label_ko": "9편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "I can’t expect you to pat me on the head for what I did to Grigory, for one can’t break old men’s heads with impunity.",
+      "disputed": false,
+      "first_revealed_index": 57,
+      "doc_id": "ch057",
+      "label_ko": "9편 4장"
+    },
+    {
+      "subject": "Ippolit Kirillovitch",
+      "relation": "MENTOR_OF",
+      "object": "Nikolay Parfenovitch",
+      "quote": "Nikolay Parfenovitch, who had but lately arrived among us, had from the first felt marked respect for Ippolit Kirillovitch, our prosecutor, and had become almost his bosom friend.",
+      "disputed": false,
+      "first_revealed_index": 57,
+      "doc_id": "ch057",
+      "label_ko": "9편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "he began, without being particularly urged, to give a minute account of the agonies of jealousy he endured on Grushenka’s account.",
+      "disputed": false,
+      "first_revealed_index": 57,
+      "doc_id": "ch057",
+      "label_ko": "9편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "‘that I snatched up the pestle to go and kill my father ... Fyodor Pavlovitch ... by hitting him on the head with it!’",
+      "disputed": false,
+      "first_revealed_index": 57,
+      "doc_id": "ch057",
+      "label_ko": "9편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "brass pestle",
+      "quote": "And Mitya described how he took the pestle and ran.",
+      "disputed": false,
+      "first_revealed_index": 57,
+      "doc_id": "ch057",
+      "label_ko": "9편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Fenya",
+      "quote": "“If I didn’t kill Fenya then, gentlemen, it was only because I hadn’t time,” broke from him suddenly at that point in his story.",
+      "disputed": false,
+      "first_revealed_index": 57,
+      "doc_id": "ch057",
+      "label_ko": "9편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "‘that I snatched up the pestle to go and kill my father ... Fyodor Pavlovitch ... by hitting him on the head with it!’",
+      "disputed": true,
+      "first_revealed_index": 57,
+      "doc_id": "ch057",
+      "label_ko": "9편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,127 @@
+{
+  "doc_id": "ch008",
+  "global_index": 8,
+  "label_ko": "2편 3장",
+  "entities": [
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nastasya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikita",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Vasenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Irkutsk",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Prohorovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Vasenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Stepanida Ilyinishna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikita",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lizaveta",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Irkutsk",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Siberia",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Vyshegorye",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Nikita",
+      "relation": "FATHER_OF",
+      "object": "Alexey",
+      "quote": "We had four, my Nikita and I, and now we’ve no children, our dear ones have all gone.",
+      "disputed": false,
+      "first_revealed_index": 8,
+      "doc_id": "ch008",
+      "label_ko": "2편 3장"
+    },
+    {
+      "subject": "Vasenka",
+      "relation": "LIVES_AT",
+      "object": "Irkutsk",
+      "quote": "Her son Vasenka was in the commissariat service, and had gone to Irkutsk in Siberia.",
+      "disputed": false,
+      "first_revealed_index": 8,
+      "doc_id": "ch008",
+      "label_ko": "2편 3장"
+    },
+    {
+      "subject": "Vasenka",
+      "relation": "LIVES_AT",
+      "object": "Irkutsk",
+      "quote": "Her son Vasenka was in the commissariat service, and had gone to Irkutsk in Siberia.",
+      "disputed": true,
+      "first_revealed_index": 8,
+      "doc_id": "ch008",
+      "label_ko": "2편 3장"
+    },
+    {
+      "subject": "Vasenka",
+      "relation": "LIVES_AT",
+      "object": "Siberia",
+      "quote": "Her son Vasenka was in the commissariat service, and had gone to Irkutsk in Siberia.",
+      "disputed": true,
+      "first_revealed_index": 8,
+      "doc_id": "ch008",
+      "label_ko": "2편 3장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

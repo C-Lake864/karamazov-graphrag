@@ -1,0 +1,347 @@
+{
+  "doc_id": "ch037",
+  "global_index": 37,
+  "label_ko": "5편 6장",
+  "entities": [
+    {
+      "name": "Ivan Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan",
+        "Ivan Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Alexei Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "valet Smerdyakov"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch's house",
+      "type": "Place",
+      "aliases": [
+        "father's house"
+      ]
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "gun",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "father",
+        "the master",
+        "the old man"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "envelope with three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles",
+        "three thousand"
+      ]
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan Fyodorovitch Karamazov",
+      "relation": "LIVES_AT",
+      "object": "Fyodor Pavlovitch's house",
+      "quote": "And Ivan, on parting from Alyosha, went home to Fyodor Pavlovitch’s house.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "LIVES_AT",
+      "object": "Fyodor Pavlovitch's house",
+      "quote": "And Ivan, on parting from Alyosha, went home to Fyodor Pavlovitch’s house.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch Karamazov",
+      "quote": "I am speaking of your parent and your brother Dmitri Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch Karamazov",
+      "quote": "I am speaking of your parent and your brother Dmitri Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "gun",
+      "quote": "your brother will appear with his gun in his hands: ‘Look out, you rogue, you soup-maker.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "your brother will appear with his gun in his hands: ‘Look out, you rogue, you soup-maker. If you miss her and don’t let me know she’s been—I’ll kill you before any one.’",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "“Damn you! Speak out what you want!” Ivan cried angrily at last, passing from meekness to violence.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Dmitri won’t come to steal money and kill my father to do it.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Dmitri won’t come to steal money and kill my father to do it.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "neither Dmitri Fyodorovitch nor yourself and your brother, Alexey Fyodorovitch, would have anything after the master’s death",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "All my brother Dmitri’s threats are only hasty words and mean nothing.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "neither Dmitri Fyodorovitch nor yourself and your brother, Alexey Fyodorovitch, would have anything after the master’s death",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "I wait upon him alone in his room now. That’s the arrangement he made himself ever since this to-do with Agrafena Alexandrovna began.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "I should never dare to tell Grigory Vassilyevitch about the signals without orders from my master.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "‘My father still owes me just three thousand,’ he said.",
+      "disputed": true,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "envelope with three thousand roubles",
+      "quote": "He is perfectly well aware, too, that Fyodor Pavlovitch has a big envelope with three thousand roubles in it, tied up with ribbon and sealed with three seals.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Ivan, in a sudden paroxysm, bit his lip, clenched his fists, and, in another minute, would have flung himself on Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 37,
+      "doc_id": "ch037",
+      "label_ko": "5편 6장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

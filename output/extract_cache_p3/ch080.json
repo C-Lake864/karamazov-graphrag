@@ -1,0 +1,246 @@
+{
+  "doc_id": "ch080",
+  "global_index": 80,
+  "label_ko": "12편 1장",
+  "entities": [
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "District court",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Trial of Dmitri Karamazov",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch Karamazov",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Skotoprigonyevsk",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Paris",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch Karamazov",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "wondered how father and son could be so in love with “such a very common, ordinary Russian girl, who was not even pretty.”",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "wondered how father and son could be so in love with “such a very common, ordinary Russian girl, who was not even pretty.”",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "wondered how father and son could be so in love with “such a very common, ordinary Russian girl, who was not even pretty.”",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "RIVAL_OF",
+      "object": "Grushenka",
+      "quote": "The public was looking forward with anxious curiosity to the meeting of the two rivals—the proud aristocratic girl and “the hetaira.”",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri Karamazov",
+      "quote": "All sorts of extraordinary tales were told about her, amazing anecdotes of her passion for Mitya, in spite of his crime.",
+      "disputed": true,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Ippolit Kirillovitch",
+      "relation": "RIVAL_OF",
+      "object": "Fetyukovitch",
+      "quote": "It was said that Ippolit Kirillovitch was in a tremor at meeting Fetyukovitch, and that they had been enemies from the beginning of their careers in Petersburg",
+      "disputed": true,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Trial of Dmitri Karamazov",
+      "relation": "OCCURRED_AT",
+      "object": "District court",
+      "quote": "At ten o’clock in the morning of the day following the events I have described, the trial of Dmitri Karamazov began in our district court.",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "Trial of Dmitri Karamazov",
+      "quote": "The court usher was told to bring in the prisoner, and Mitya made his appearance. There was a hush through the court.",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch Karamazov",
+      "quote": "At last the President opened the case of the murder of Fyodor Pavlovitch Karamazov.",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Fetyukovitch",
+      "relation": "PRESENT_AT",
+      "object": "Trial of Dmitri Karamazov",
+      "quote": "Everybody was excited at the presence of the celebrated lawyer, Fetyukovitch.",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "But I am not guilty of the death of that old man, my enemy and my father.",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch Karamazov",
+      "quote": "At last the President opened the case of the murder of Fyodor Pavlovitch Karamazov. I don’t quite remember how he described him. The court usher was told to bring in the prisoner",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    },
+    {
+      "subject": "Miüsov",
+      "relation": "LIVES_AT",
+      "object": "Paris",
+      "quote": "Four of the witnesses were not present—Miüsov, who had given evidence at the preliminary inquiry, but was now in Paris;",
+      "disputed": false,
+      "first_revealed_index": 80,
+      "doc_id": "ch080",
+      "label_ko": "12편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

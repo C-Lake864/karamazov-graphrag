@@ -1,0 +1,175 @@
+{
+  "doc_id": "ch047",
+  "global_index": 47,
+  "label_ko": "8편 2장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Karamazov"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Gorstkin",
+      "type": "Character",
+      "aliases": [
+        "Lyagavy"
+      ]
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Suhoy Possyolok",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Ilyinskoe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Volovya station",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "silver watch",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Lieutenant Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Karamazov",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Lyagavy",
+      "type": "Character",
+      "aliases": [
+        "curly-headed peasant"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "old Karamazov"
+      ]
+    },
+    {
+      "name": "Father Pavel",
+      "type": "Character",
+      "aliases": [
+        "Father Pavel of Ilyinskoe"
+      ]
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Volovya",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "When Mitya began to speak of his quarrel with his father over his inheritance, the priest was positively alarmed, as he was in some way dependent on Fyodor Pavlovitch.",
+      "disputed": false,
+      "first_revealed_index": 47,
+      "doc_id": "ch047",
+      "label_ko": "8편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "When Mitya began to speak of his quarrel with his father over his inheritance, the priest was positively alarmed, as he was in some way dependent on Fyodor Pavlovitch.",
+      "disputed": false,
+      "first_revealed_index": 47,
+      "doc_id": "ch047",
+      "label_ko": "8편 2장"
+    },
+    {
+      "subject": "Gorstkin",
+      "relation": "LIVES_AT",
+      "object": "Suhoy Possyolok",
+      "quote": "he was now at Suhoy Possyolok, that he was staying the night in the forester’s cottage, as he was buying timber there too.",
+      "disputed": false,
+      "first_revealed_index": 47,
+      "doc_id": "ch047",
+      "label_ko": "8편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "silver watch",
+      "quote": "But he had at home an old silver watch which had long ceased to go. He snatched it up and carried it to a Jewish watchmaker who had a shop in the market-place.",
+      "disputed": false,
+      "first_revealed_index": 47,
+      "doc_id": "ch047",
+      "label_ko": "8편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Lieutenant Dmitri Karamazov",
+      "quote": "I’m Lieutenant Dmitri Karamazov, the son of the old Karamazov whose copse you are buying.",
+      "disputed": false,
+      "first_revealed_index": 47,
+      "doc_id": "ch047",
+      "label_ko": "8편 2장"
+    },
+    {
+      "subject": "Lieutenant Dmitri Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Lyagavy",
+      "quote": "No, you show me this: you tell me the law that allows roguery. D’you hear? You’re a scoundrel! Do you understand that?” Mitya stepped back gloomily",
+      "disputed": false,
+      "first_revealed_index": 47,
+      "doc_id": "ch047",
+      "label_ko": "8편 2장"
+    },
+    {
+      "subject": "Lieutenant Dmitri Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "But the thought of her was stabbing him to the heart every moment, like a sharp knife. At last they arrived, and Mitya at once ran to Grushenka.",
+      "disputed": false,
+      "first_revealed_index": 47,
+      "doc_id": "ch047",
+      "label_ko": "8편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

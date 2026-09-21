@@ -1,0 +1,120 @@
+{
+  "doc_id": "ch088",
+  "global_index": 88,
+  "label_ko": "12편 9장",
+  "entities": [
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Karamazov",
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Karamazovs",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "pistols",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "She will remember Mitya Karamazov sometimes, she will see how Mitya loved her, she will feel for Mitya!",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazovs",
+      "quote": "Here we see in excess a love of effect, a romantic despair and sentimentality, and the wild recklessness of the Karamazovs.",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "POSSESSES",
+      "object": "pistols",
+      "quote": "He ran for the pistols he had left in pledge with his friend Perhotin",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "I cannot otherwise explain the disappearance of quite half of the three thousand he had just taken from his father’s pillow.",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "His first compromising exclamations he hastened to explain by declaring that he was responsible for the death of the servant Grigory only.",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "LIVES_AT",
+      "object": "Mokroe",
+      "quote": "He had been in Mokroe more than once before, he had caroused there for two days together already, he knew the old big house with all its passages and outbuildings.",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

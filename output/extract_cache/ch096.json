@@ -1,0 +1,274 @@
+{
+  "doc_id": "ch096",
+  "global_index": 96,
+  "label_ko": "13편 3장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "captain"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha's funeral",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Church",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "Captain"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kartashov",
+      "type": "Character",
+      "aliases": [
+        "the boy who had discovered about Troy"
+      ]
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha's Stone",
+      "type": "Place",
+      "aliases": [
+        "the big stone"
+      ]
+    },
+    {
+      "name": "Ilusha's Funeral",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha's boots",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Captain's hat",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "“Father will cry, be with father,” Ilusha had told them as he lay dying, and the boys remembered it.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Nina",
+      "quote": "“Father, give mother a flower!” said Nina, lifting her face wet with tears.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "BROTHER_OF",
+      "object": "Nina",
+      "quote": "Nina pressed her lips to her brother’s for the last time as they bore the coffin by her.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "“The valet killed him, my brother is innocent,” answered Alyosha.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "PRESENT_AT",
+      "object": "Ilusha's funeral",
+      "quote": "After the Epistle he suddenly whispered to Alyosha, who was standing beside him, that the Epistle had not been read properly",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Snegiryov",
+      "relation": "PRESENT_AT",
+      "object": "Ilusha's funeral",
+      "quote": "During the mass Snegiryov became somewhat calmer, though at times he had outbursts of the same unconscious and, as it were, incoherent anxiety.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Ilusha's funeral",
+      "relation": "OCCURRED_AT",
+      "object": "Church",
+      "quote": "They reached the church at last and set the coffin in the middle of it. The boys surrounded it and remained reverently standing so, all through the service.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "Snegiryov had described to him that day, how Ilusha, weeping and hugging his father, had cried, “Father, father, how he insulted you,”",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "LOVES",
+      "object": "Ilusha",
+      "quote": "“Ah, how I loved him!” exclaimed Kolya.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Kartashov",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "“Karamazov, we love you!” a voice, probably Kartashov’s, cried impulsively.",
+      "disputed": true,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Smurov",
+      "relation": "POSSESSES",
+      "object": "Captain's hat",
+      "quote": "Smurov, with the captain’s hat in his hand, was crying bitterly too",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Snegiryov",
+      "relation": "POSSESSES",
+      "object": "Ilusha's boots",
+      "quote": "fell on his knees, snatched up one boot and, pressing his lips to it, began kissing it greedily",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "PRESENT_AT",
+      "object": "Ilusha's Funeral",
+      "quote": "when we recall how we buried Ilusha, how we loved him in his last days",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "PRESENT_AT",
+      "object": "Ilusha's Funeral",
+      "quote": "when we recall how we buried Ilusha, how we loved him in his last days",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    }
+  ],
+  "dropped_unquoted": 2
+}

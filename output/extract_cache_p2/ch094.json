@@ -1,0 +1,142 @@
+{
+  "doc_id": "ch094",
+  "global_index": 94,
+  "label_ko": "13편 1장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvinsky",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna's house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "the trial",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Alyosha came to see his sick brother twice a day.",
+      "disputed": false,
+      "first_revealed_index": 94,
+      "doc_id": "ch094",
+      "label_ko": "13편 1장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Ivan Fyodorovitch had not given up his idea of saving his brother",
+      "disputed": false,
+      "first_revealed_index": 94,
+      "doc_id": "ch094",
+      "label_ko": "13편 1장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Fyodorovitch",
+      "quote": "when I myself had told him long before that I did not love Dmitri, that I loved no one but him!",
+      "disputed": false,
+      "first_revealed_index": 94,
+      "doc_id": "ch094",
+      "label_ko": "13편 1장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "he instantly imagined I was jealous of Dmitri and that I still loved Dmitri.",
+      "disputed": true,
+      "first_revealed_index": 94,
+      "doc_id": "ch094",
+      "label_ko": "13편 1장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Katerina Ivanovna",
+      "quote": "we began quarreling about it at once and quarreled for three days.",
+      "disputed": false,
+      "first_revealed_index": 94,
+      "doc_id": "ch094",
+      "label_ko": "13편 1장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "Katerina Ivanovna's house",
+      "quote": "Katerina Ivanovna had immediately after the scene at the trial ordered the sick and unconscious man to be carried to her house",
+      "disputed": false,
+      "first_revealed_index": 94,
+      "doc_id": "ch094",
+      "label_ko": "13편 1장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "I paved the way to that hideous scene at the trial.",
+      "disputed": false,
+      "first_revealed_index": 94,
+      "doc_id": "ch094",
+      "label_ko": "13편 1장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "So he came to the court ... I am the cause of it all, I alone am to blame!",
+      "disputed": false,
+      "first_revealed_index": 94,
+      "doc_id": "ch094",
+      "label_ko": "13편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

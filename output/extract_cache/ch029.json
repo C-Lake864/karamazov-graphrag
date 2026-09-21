@@ -1,0 +1,325 @@
+{
+  "doc_id": "ch029",
+  "global_index": 29,
+  "label_ko": "4편 5장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Mamma"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "captain"
+      ]
+    },
+    {
+      "name": "Kalmikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Lake Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "two hundred-rouble notes",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Mamma"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Yulia",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "During the preceding month it had been several times suggested to him that his brother Ivan was in love with Katerina Ivanovna, and, what was more, that he meant “to carry her off” from Dmitri.",
+      "disputed": true,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "RIVAL_OF",
+      "object": "Dmitri",
+      "quote": "Meantime, Dmitri had said outright on the previous day that he was glad that Ivan was his rival, and that it was a great assistance to him, Dmitri.",
+      "disputed": true,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri",
+      "quote": "Besides all this, Alyosha had till the evening before implicitly believed that Katerina Ivanovna had a steadfast and passionate love for Dmitri; but he had only believed it till the evening before.",
+      "disputed": true,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Now Alyosha was impressed by Madame Hohlakov’s blunt and persistent assertion that Katerina Ivanovna was in love with Ivan, and only deceived herself through some sort of pose",
+      "disputed": true,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "During the preceding month it had been several times suggested to him that his brother Ivan was in love with Katerina Ivanovna",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Dmitri",
+      "quote": "“One reptile will devour the other,” Ivan had pronounced the day before, speaking in anger of his father and Dmitri.",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "by the side of two such friends as you and your brother I still feel strong—for I know—you two will never desert me.",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "She has known all the time that I cared for her—though I never said a word of my love to her—she knew, but she didn’t care for me.",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Fyodorovitch",
+      "quote": "For you’re torturing Ivan, simply because you love him—and torturing him, because you love Dmitri through ‘self-laceration’—with an unreal love—because you’ve persuaded yourself.",
+      "disputed": true,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "believe me, Katerina Ivanovna, you really love him. And the more he insults you, the more you love him—that’s your ‘laceration.’",
+      "disputed": true,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "ENGAGED_TO",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "a desire to assist him from me, Dmitri Fyodorovitch’s betrothed, not from himself.... But you know....",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Snegiryov",
+      "quote": "Dmitri Fyodorovitch somehow lost his temper with this captain, seized him by the beard and dragged him out into the street and for some distance along it",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "two hundred-rouble notes",
+      "quote": "She had two hundred-rouble notes in her hand.",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Snegiryov",
+      "relation": "LIVES_AT",
+      "object": "Lake Street",
+      "quote": "He lives in Lake Street, in the house of a woman called Kalmikov....",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "Oh, how I love her, especially sometimes, and how glad I am again of everything!",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Fyodorovitch",
+      "quote": "“I somehow fancied all at once,” Alyosha went on as though he had not heard Lise, “that she loved Ivan, and so I said that stupid thing.... What will happen now?”",
+      "disputed": true,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    },
+    {
+      "subject": "Yulia",
+      "relation": "SERVANT_OF",
+      "object": "Madame Hohlakov",
+      "quote": "Run and say, Yulia, that I’ll fly to her.",
+      "disputed": false,
+      "first_revealed_index": 29,
+      "doc_id": "ch029",
+      "label_ko": "4편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,300 @@
+{
+  "doc_id": "ch075",
+  "global_index": 75,
+  "label_ko": "11편 6장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": [
+        "Herzenstube"
+      ]
+    },
+    {
+      "name": "Varvinsky",
+      "type": "Character",
+      "aliases": [
+        "Mr. Varvinsky"
+      ]
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Hospital",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": [
+        "Marfa"
+      ]
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "By the way, let us say a word or two of Ivan’s feeling to his brother Dmitri.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "By the way, let us say a word or two of Ivan’s feeling to his brother Dmitri.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Ivan looked with indignation on Katerina Ivanovna’s love for his brother.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "ascribed his opinion only to his exaggerated brotherly feeling and sympathy with Mitya, of whom Alyosha, as Ivan knew, was very fond.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan",
+      "quote": "He even succeeded in insulting Ivan during their first interview, telling him sharply that it was not for people who declared that “everything was lawful,” to suspect and question him.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "He used violent language, accused Smerdyakov, and was fearfully muddled.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LIVES_AT",
+      "object": "Hospital",
+      "quote": "He put that off till he had seen Smerdyakov, who was at that time in the hospital.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "foreseeing such a calamity you deserted your own father, and would not protect us, for I might have been taken up any time for stealing that three thousand.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Do you remember when Dmitri burst in after dinner and beat father, and afterwards I told you in the yard that I reserved ‘the right to desire’?",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Do you remember when Dmitri burst in after dinner and beat father, and afterwards I told you in the yard that I reserved ‘the right to desire’?",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "Alyosha turned rather pale, and looked silently into his brother’s face.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "His chief feeling was one of relief at the fact that it was not Smerdyakov, but Mitya, who had committed the murder, though he might have been expected to feel the opposite.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "My brother directly accuses you of the murder and theft.",
+      "disputed": true,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "On his return from Moscow, he abandoned himself hopelessly to his mad and consuming passion for Katerina Ivanovna.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan",
+      "quote": "did not abandon herself altogether to the man she loved, in spite of the Karamazov violence of his passions and the great fascination he had for her.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Marfa Ignatyevna",
+      "relation": "RELATED_TO",
+      "object": "Grigory Vassilyevitch",
+      "quote": "Grigory’s wife, Marfa, in answer to Ivan’s questions, declared that Smerdyakov had been lying all night the other side of the partition wall.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

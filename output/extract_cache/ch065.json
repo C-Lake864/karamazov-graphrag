@@ -1,0 +1,170 @@
+{
+  "doc_id": "ch065",
+  "global_index": 65,
+  "label_ko": "10편 3장",
+  "entities": [
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya",
+        "Krassotkin"
+      ]
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha Karamazov",
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Marya",
+      "type": "Character",
+      "aliases": [
+        "Natasha"
+      ]
+    },
+    {
+      "name": "Sabaneyev",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kuzmitchovs",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Sabaneyev",
+      "type": "Character",
+      "aliases": [
+        "Trifon Nikititch"
+      ]
+    },
+    {
+      "name": "Kuzmitchov",
+      "type": "Character",
+      "aliases": [
+        "Kuzmitchovs"
+      ]
+    },
+    {
+      "name": "Alexey Ivanitch Tchizhov",
+      "type": "Character",
+      "aliases": [
+        "Tchizhov"
+      ]
+    },
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Captain Snegiryov’s lodging",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Smurov",
+      "relation": "QUARRELS_WITH",
+      "object": "Ilusha",
+      "quote": "He was—if the reader has not forgotten—one of the group of boys who two months before had thrown stones at Ilusha.",
+      "disputed": false,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "QUARRELS_WITH",
+      "object": "Ilusha",
+      "quote": "You are going yourself now to make it up with Ilusha.",
+      "disputed": false,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "QUARRELS_WITH",
+      "object": "Marya",
+      "quote": "You set upon me, you impudent young monkey. I didn’t say anything,” bawled Marya.",
+      "disputed": false,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Sabaneyev",
+      "relation": "MEMBER_OF",
+      "object": "Kuzmitchovs",
+      "quote": "It must be a Sabaneyev who worked for the Kuzmitchovs, that’s who it must be",
+      "disputed": true,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Sabaneyev",
+      "relation": "SERVANT_OF",
+      "object": "Kuzmitchov",
+      "quote": "It must be a Sabaneyev who worked for the Kuzmitchovs, that’s who it must be",
+      "disputed": true,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "LIVES_AT",
+      "object": "Captain Snegiryov’s lodging",
+      "quote": "The boys made haste and they walked as far as Captain Snegiryov’s lodging, a considerable distance, quickly and almost in silence.",
+      "disputed": false,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "LIVES_AT",
+      "object": "Captain Snegiryov’s lodging",
+      "quote": "Twenty paces from the house Kolya stopped and told Smurov to go on ahead and ask Karamazov to come out to him.",
+      "disputed": true,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

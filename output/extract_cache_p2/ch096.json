@@ -1,0 +1,199 @@
+{
+  "doc_id": "ch096",
+  "global_index": 96,
+  "label_ko": "13편 3장",
+  "entities": [
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": [
+        "old man"
+      ]
+    },
+    {
+      "name": "Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "captain",
+        "Father"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Alyosha's father",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "Captain Snegiryov",
+        "Captain"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kartashov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "“Ilusha told me to, Ilusha,” he explained at once to Alyosha. “I was sitting by him one night and he suddenly told me: ‘Father, when my grave is filled up",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Nina",
+      "quote": "“Father, give mother a flower!” said Nina, lifting her face wet with tears.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "BROTHER_OF",
+      "object": "Nina",
+      "quote": "Nina pressed her lips to her brother’s for the last time as they bore the coffin by her.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "“Is your brother innocent or guilty? Was it he killed your father or was it the valet? As you say, so it will be.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Alyosha's father",
+      "quote": "“Is your brother innocent or guilty? Was it he killed your father or was it the valet?",
+      "disputed": true,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "Snegiryov had described to him that day, how Ilusha, weeping and hugging his father, had cried, “Father, father, how he insulted you,” rose at once before his imagination.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "QUARRELS_WITH",
+      "object": "Kartashov",
+      "quote": "“I beg you most earnestly, Kartashov, not to interrupt again with your idiotic remarks, especially when one is not talking to you and doesn’t care to know whether you exist or not!”",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "LOVES",
+      "object": "Ilusha",
+      "quote": "“Ah, how I loved him!” exclaimed Kolya.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    },
+    {
+      "subject": "Kartashov",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "“Karamazov, we love you!” a voice, probably Kartashov’s, cried impulsively.",
+      "disputed": false,
+      "first_revealed_index": 96,
+      "doc_id": "ch096",
+      "label_ko": "13편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

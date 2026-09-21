@@ -1,0 +1,147 @@
+{
+  "doc_id": "ch007",
+  "global_index": 7,
+  "label_ko": "2편 2장",
+  "entities": [
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima",
+        "elder"
+      ]
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov",
+        "Pyotr Alexandrovitch"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Diderot",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Metropolitan Platon",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Pyotr Alexandrovitch",
+        "Miüsov"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "elder",
+        "great elder"
+      ]
+    },
+    {
+      "name": "Father Librarian",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "“Precisely to our time,” cried Fyodor Pavlovitch, “but no sign of my son, Dmitri. I apologize for him, sacred elder!”",
+      "disputed": false,
+      "first_revealed_index": 7,
+      "doc_id": "ch007",
+      "label_ko": "2편 2장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "What seemed to him strangest of all was that his brother Ivan, on whom alone he had rested his hopes, and who alone had such influence on his father that he could have stopped him",
+      "disputed": false,
+      "first_revealed_index": 7,
+      "doc_id": "ch007",
+      "label_ko": "2편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "“Fyodor Pavlovitch, this is unbearable! You know you’re telling lies and that that stupid anecdote isn’t true. Why are you playing the fool?” cried Miüsov in a shaking voice.",
+      "disputed": false,
+      "first_revealed_index": 7,
+      "doc_id": "ch007",
+      "label_ko": "2편 2장"
+    },
+    {
+      "subject": "Diderot",
+      "relation": "QUARRELS_WITH",
+      "object": "Metropolitan Platon",
+      "quote": "They all believe to this day that the infidel Diderot came to dispute about God with the Metropolitan Platon....",
+      "disputed": true,
+      "first_revealed_index": 7,
+      "doc_id": "ch007",
+      "label_ko": "2편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Pyotr Alexandrovitch Miüsov",
+      "quote": "I mentioned it because by that ridiculous story you shook my faith, Pyotr Alexandrovitch. You knew nothing of it, but I went home with my faith shaken",
+      "disputed": false,
+      "first_revealed_index": 7,
+      "doc_id": "ch007",
+      "label_ko": "2편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "“What do I care for your faith?” Miüsov was on the point of shouting, but he suddenly checked himself, and said with contempt, “You defile everything you touch.”",
+      "disputed": false,
+      "first_revealed_index": 7,
+      "doc_id": "ch007",
+      "label_ko": "2편 2장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

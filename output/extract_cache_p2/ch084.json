@@ -1,0 +1,366 @@
+{
+  "doc_id": "ch084",
+  "global_index": 84,
+  "label_ko": "12편 5장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Metropolis",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "letter",
+      "type": "Object",
+      "aliases": [
+        "document"
+      ]
+    },
+    {
+      "name": "roll of notes",
+      "type": "Object",
+      "aliases": [
+        "money",
+        "notes"
+      ]
+    },
+    {
+      "name": "murder of the father",
+      "type": "Event",
+      "aliases": [
+        "the crime"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "the trial",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "murder of his father",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "the letter",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "our prosecutor",
+        "the prosecutor"
+      ]
+    },
+    {
+      "name": "the trial",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "Mitya stood up and greedily looked at his brother and listened to him with a wild, strange smile.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "and because he owed me that three thousand.... Oh! he was humiliated by that three thousand on account of his own meanness!",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "POSSESSES",
+      "object": "roll of notes",
+      "quote": "Ivan suddenly pulled out a roll of notes. “Here’s the money ... the notes that lay in that envelope”",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "letter",
+      "quote": "Here is a document, a letter ... take it, read it quickly, quickly! It’s a letter from that monster ... that man there, there!” she pointed to Mitya.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "ACCUSED_OF",
+      "object": "murder of the father",
+      "quote": "It was he killed his father, you will see that directly. He wrote to me how he would kill his father!",
+      "disputed": true,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of the father",
+      "quote": "It was he, not my brother, killed our father. He murdered him and I incited him to do it",
+      "disputed": true,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "how Ivan had been nearly driven out of his mind during the last two months trying to save “the monster and murderer,” his brother.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "He wanted to repay it me. He wanted to, that’s true; but he needed money for that creature, too. So he murdered his father, but he didn’t repay me",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "the letter",
+      "quote": "Then I brought out that letter and showed it him.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "murder of his father",
+      "quote": "So he murdered his father, but he didn’t repay me, and went off with her to that village where he was arrested.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of his father",
+      "quote": "If it was not my brother, but Smerdyakov committed the murder’ (for the legend was circulating everywhere that Smerdyakov had done it)",
+      "disputed": true,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Katerina Ivanovna",
+      "quote": "We’ve hated each other for many things, Katya, but I swear, I swear I loved you even while I hated you, and you didn’t love me!",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "We’ve hated each other for many things, Katya, but I swear, I swear I loved you even while I hated you, and you didn’t love me!",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan",
+      "quote": "this time it was for another, and perhaps only now—perhaps only at this moment—she felt and knew how dear that other was to her!",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "So he thought it all out beforehand how he would kill him,” Katerina Ivanovna pointed out to the court with venomous and malignant triumph.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "“That’s true, Katya,” Mitya roared suddenly, “I looked into your eyes and I knew that you were dishonoring me, and yet I took your money.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "At that moment Grushenka, with a wail, rushed towards Mitya before they had time to prevent her.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Ippolit Kirillovitch",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "I believe it was just eight o’clock when the President returned to his seat and our prosecutor, Ippolit Kirillovitch, began his speech.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "the judges decided to proceed with the trial and to enter both the unexpected pieces of evidence (given by Ivan and Katerina Ivanovna) on the protocol.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "the judges decided to proceed with the trial and to enter both the unexpected pieces of evidence (given by Ivan and Katerina Ivanovna) on the protocol.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Ippolit Kirillovitch",
+      "relation": "PRESENT_AT",
+      "object": "the trial",
+      "quote": "I believe it was just eight o’clock when the President returned to his seat and our prosecutor, Ippolit Kirillovitch, began his speech.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

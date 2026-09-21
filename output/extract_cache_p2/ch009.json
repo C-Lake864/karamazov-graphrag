@@ -1,0 +1,96 @@
+{
+  "doc_id": "ch009",
+  "global_index": 9,
+  "label_ko": "2편 4장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "little note",
+      "type": "Object",
+      "aliases": [
+        "brief, enigmatic note"
+      ]
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "little note",
+      "quote": "She handed him a little note. “She particularly begs you to go and see her as soon as possible; that you will not fail her, but will be sure to come.”",
+      "disputed": false,
+      "first_revealed_index": 9,
+      "doc_id": "ch009",
+      "label_ko": "2편 4장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "LOVES",
+      "object": "Alexey Fyodorovitch",
+      "quote": "“You have quite forgotten us, Alexey Fyodorovitch,” she said; “you never come to see us. Yet Lise has told me twice that she is never happy except with you.”",
+      "disputed": true,
+      "first_revealed_index": 9,
+      "doc_id": "ch009",
+      "label_ko": "2편 4장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "MENTOR_OF",
+      "object": "Lise",
+      "quote": "He used to come to teach me to read, do you know.",
+      "disputed": false,
+      "first_revealed_index": 9,
+      "doc_id": "ch009",
+      "label_ko": "2편 4장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey",
+      "quote": "Lise had in fact been occupied in mocking at him all the time.",
+      "disputed": false,
+      "first_revealed_index": 9,
+      "doc_id": "ch009",
+      "label_ko": "2편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

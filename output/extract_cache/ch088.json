@@ -1,0 +1,197 @@
+{
+  "doc_id": "ch088",
+  "global_index": 88,
+  "label_ko": "12편 9장",
+  "entities": [
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "Ippolit"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Examination at Mokroe",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "She will remember Mitya Karamazov sometimes, she will see how Mitya loved her, she will feel for Mitya!",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Mitya Karamazov",
+      "quote": "when he learnt that she loved him, that for his sake she had rejected her first lover, that she was summoning him, Mitya, to a new life",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "His first compromising exclamations he hastened to explain by declaring that he was responsible for the death of the servant Grigory only.",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya Karamazov",
+      "relation": "LIVES_AT",
+      "object": "Mokroe",
+      "quote": "He had been in Mokroe more than once before, he had caroused there for two days together already, he knew the old big house with all its passages and outbuildings.",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "for Smerdyakov could only have committed the murder after he had knocked Grigory down and run away.",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Examination at Mokroe",
+      "relation": "OCCURRED_AT",
+      "object": "Mokroe",
+      "quote": "When Ippolit Kirillovitch described how he had questioned and tortured him at Mokroe",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Ippolit Kirillovitch",
+      "relation": "PRESENT_AT",
+      "object": "Examination at Mokroe",
+      "quote": "When Ippolit Kirillovitch described how he had questioned and tortured him at Mokroe",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "Examination at Mokroe",
+      "quote": "When Ippolit Kirillovitch described how he had questioned and tortured him at Mokroe",
+      "disputed": false,
+      "first_revealed_index": 88,
+      "doc_id": "ch088",
+      "label_ko": "12편 9장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

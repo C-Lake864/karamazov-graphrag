@@ -1,0 +1,312 @@
+{
+  "doc_id": "ch052",
+  "global_index": 52,
+  "label_ko": "8편 7장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Pani Agrippina"
+      ]
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "the inn",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "bundle of notes",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Pani Agrippina"
+      ]
+    },
+    {
+      "name": "Pan Vrublevsky",
+      "type": "Character",
+      "aliases": [
+        "Vrublevsky"
+      ]
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "two hundred-rouble notes",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Pan Mitya"
+      ]
+    },
+    {
+      "name": "Agrafena",
+      "type": "Character",
+      "aliases": [
+        "Grushenka",
+        "Pani Agrippina"
+      ]
+    },
+    {
+      "name": "Pan Vrublevsky",
+      "type": "Character",
+      "aliases": [
+        "Vrublevsky"
+      ]
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Panie Kalganov"
+      ]
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pan Podvysotsky",
+      "type": "Character",
+      "aliases": [
+        "Podvysotsky"
+      ]
+    },
+    {
+      "name": "Kuzma",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Warsaw",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Pani"
+      ]
+    },
+    {
+      "name": "Pan Vrublevsky",
+      "type": "Character",
+      "aliases": [
+        "Vrublevsky"
+      ]
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": [
+        "landlord"
+      ]
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "pack of cards",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "I wanted to spend my last day, my last hour in this room, in this very room ... where I, too, adored ... my queen....",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "bundle of notes",
+      "quote": "Mitya had been, all this time, holding in his hand the crumpled bundle of notes on which the eyes of all, especially of the Poles, were fixed.",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "the inn",
+      "quote": "I ... I’m coming, too. I’m here till morning. Gentlemen, may I stay with you till morning? Only till morning, for the last time, in this same room?",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Kalganov",
+      "relation": "LIVES_AT",
+      "object": "the inn",
+      "quote": "He had come here with Maximov by chance, and he met the Poles here at the inn for the first time in his life.",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "QUARRELS_WITH",
+      "object": "Mitya",
+      "quote": "“Hold your tongue, you, anyway! Sit down, you stupid!” Grushenka scolded with angry annoyance.",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Andrey",
+      "quote": "“And vodka for Andrey, vodka for Andrey!” he cried in haste. “I was rude to Andrey!”",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Pan Vrublevsky",
+      "relation": "QUARRELS_WITH",
+      "object": "Kalganov",
+      "quote": "“How dare you!” Pan Vrublevsky, too, growled at Kalganov.",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Agrafena",
+      "relation": "QUARRELS_WITH",
+      "object": "Mitya",
+      "quote": "“How dare you defend me to him?” shrieked Grushenka.",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Agrafena",
+      "relation": "QUARRELS_WITH",
+      "object": "Pan Vrublevsky",
+      "quote": "“Don’t dare to shout like that,” cried Grushenka.",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Pan Vrublevsky",
+      "relation": "QUARRELS_WITH",
+      "object": "Grushenka",
+      "quote": "Vrublevsky, with a confused and infuriated face, shook his fist at Grushenka, shouting: “You low harlot!”",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Pan Vrublevsky",
+      "quote": "Mitya flew at him at once, clutched him in both hands, lifted him in the air, and in one instant had carried him into the room on the right",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Trifon Borissovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Pan Vrublevsky",
+      "quote": "“What are you shouting for? D’you want to split your throat?” he said, addressing Vrublevsky, with surprising rudeness. “Animal!” bellowed Pan Vrublevsky.",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    },
+    {
+      "subject": "Trifon Borissovitch",
+      "relation": "POSSESSES",
+      "object": "pack of cards",
+      "quote": "And going up to the sofa he thrust his fingers between the sofa back and the cushion, and pulled out an unopened pack of cards.",
+      "disputed": false,
+      "first_revealed_index": 52,
+      "doc_id": "ch052",
+      "label_ko": "8편 7장"
+    }
+  ],
+  "dropped_unquoted": 2
+}

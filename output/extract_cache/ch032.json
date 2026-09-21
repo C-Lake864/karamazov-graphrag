@@ -1,0 +1,218 @@
+{
+  "doc_id": "ch032",
+  "global_index": 32,
+  "label_ko": "5편 1장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "maman"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "elder"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "two hundred roubles",
+      "type": "Object",
+      "aliases": [
+        "notes"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "mamma"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazovs"
+      ]
+    },
+    {
+      "name": "Lise's letter",
+      "type": "Object",
+      "aliases": [
+        "letter"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "letter",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "my elder told me once to care for most people exactly as one would for children, and for some of them as one would for the sick in hospitals.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "FATHER_OF",
+      "object": "Lise",
+      "quote": "“_Merci, maman._ Come in, Alexey Fyodorovitch.” Alyosha went in.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Fyodorovitch",
+      "quote": "here I’ve brought you Alexey Fyodorovitch, whom you insulted so. He is not at all angry, I assure you",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "two hundred roubles",
+      "quote": "Mamma has just told me all about the two hundred roubles, Alexey Fyodorovitch, and your taking them to that poor officer",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "LOVES",
+      "object": "Alexey Fyodorovitch",
+      "quote": "“That makes it worse! Worse and better than all! Alyosha, I am awfully fond of you.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "“I don’t like your brother Ivan, Alyosha,” said Lise suddenly.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "Ah, you don’t know, but I, too, am a Karamazov.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "letter",
+      "quote": "Hold it in your hand, if you like, and I will read it so.” “No, I won’t show it to you.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    }
+  ],
+  "dropped_unquoted": 2
+}

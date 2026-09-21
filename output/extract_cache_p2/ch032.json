@@ -1,0 +1,190 @@
+{
+  "doc_id": "ch032",
+  "global_index": 32,
+  "label_ko": "5편 1장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "mamma"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "my elder",
+        "elder"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "mamma"
+      ]
+    },
+    {
+      "name": "Lise's letter",
+      "type": "Object",
+      "aliases": [
+        "the letter"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "letter",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "Do you know, Lise, my elder told me once to care for most people exactly as one would for children, and for some of them as one would for the sick in hospitals.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Fyodorovitch",
+      "quote": "here I’ve brought you Alexey Fyodorovitch, whom you insulted so. He is not at all angry, I assure you; on the contrary, he is surprised that you could suppose so.",
+      "disputed": true,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "“I don’t like your brother Ivan, Alyosha,” said Lise suddenly.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "LOVES",
+      "object": "Alexey Fyodorovitch",
+      "quote": "Alyosha, I am awfully fond of you. Just before you came this morning, I tried my fortune.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "ENGAGED_TO",
+      "object": "Lise",
+      "quote": "He has chosen me as his wife and is quite settled about it. He is sure I was in earnest.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "Lise's letter",
+      "quote": "The letter is with me now, and it was this morning, in this pocket. Here it is.” Alyosha pulled the letter out laughing, and showed it her at a distance.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Fyodorovitch",
+      "quote": "“Alexey Fyodorovitch, this is awful. This is all childish nonsense and ridiculous. I trust you won’t dream—It’s foolishness, nothing but foolishness!” she said, attacking him at once.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "letter",
+      "quote": "Hold it in your hand, if you like, and I will read it so.” “No, I won’t show it to you.",
+      "disputed": false,
+      "first_revealed_index": 32,
+      "doc_id": "ch032",
+      "label_ko": "5편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

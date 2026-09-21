@@ -1,0 +1,171 @@
+{
+  "doc_id": "ch022",
+  "global_index": 22,
+  "label_ko": "3편 9장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Æsop"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "Ivan and Alyosha ran after their father.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey",
+      "quote": "Ivan and Alyosha ran after their father.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "“He’s ‘insulted’ his father, not only you,” observed Ivan with a forced smile.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "“Brother, how will all this horror end between father and Dmitri?” exclaimed Alyosha.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "“We’ll look after him. My brother gave you a terrible blow—on the head.”",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "They had been struggling with him in the passage, refusing to admit him, acting on instructions given them by Fyodor Pavlovitch some days before.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "They had been struggling with him in the passage, refusing to admit him, acting on instructions given them by Fyodor Pavlovitch some days before.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "Beside himself with fury, Dmitri struck out, and hit Grigory with all his might.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "But Dmitri threw up both hands and suddenly clutched the old man by the two tufts of hair that remained on his temples, tugged at them, and flung him with a crash on the floor.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Dmitri",
+      "quote": "“I used to wash him in his tub. He’s insulted me,” repeated Grigory.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "see for yourself, which she means to choose, him or me. Eh? What? Can you?",
+      "disputed": true,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "Alyosha told Ivan that their father had waked up, was conscious, and had let him go back to sleep at the monastery.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

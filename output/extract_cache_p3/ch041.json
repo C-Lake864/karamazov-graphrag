@@ -1,0 +1,108 @@
+{
+  "doc_id": "ch041",
+  "global_index": 41,
+  "label_ko": "6편 3장",
+  "entities": [
+    {
+      "name": "Afanasy Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Afanasy"
+      ]
+    },
+    {
+      "name": "town of K.",
+      "type": "Place",
+      "aliases": [
+        "K."
+      ]
+    },
+    {
+      "name": "Russia",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Father Anfim",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alexey Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima",
+        "the elder"
+      ]
+    },
+    {
+      "name": "Death of Father Zossima",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Hermitage",
+      "type": "Place",
+      "aliases": [
+        "hermitage"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov's manuscript",
+      "type": "Object",
+      "aliases": [
+        "manuscript"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Afanasy Pavlovitch",
+      "relation": "LIVES_AT",
+      "object": "town of K.",
+      "quote": "In my wanderings I met in the town of K. my old orderly, Afanasy.",
+      "disputed": false,
+      "first_revealed_index": 41,
+      "doc_id": "ch041",
+      "label_ko": "6편 3장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "Alexey Fyodorovitch Karamazov's manuscript",
+      "quote": "Here Alexey Fyodorovitch Karamazov’s manuscript ends.",
+      "disputed": false,
+      "first_revealed_index": 41,
+      "doc_id": "ch041",
+      "label_ko": "6편 3장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "PRESENT_AT",
+      "object": "Death of Father Zossima",
+      "quote": "The elder’s death came in the end quite unexpectedly.",
+      "disputed": false,
+      "first_revealed_index": 41,
+      "doc_id": "ch041",
+      "label_ko": "6편 3장"
+    },
+    {
+      "subject": "Death of Father Zossima",
+      "relation": "OCCURRED_AT",
+      "object": "Hermitage",
+      "quote": "The news of his death spread at once through the hermitage and reached the monastery.",
+      "disputed": false,
+      "first_revealed_index": 41,
+      "doc_id": "ch041",
+      "label_ko": "6편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,194 @@
+{
+  "doc_id": "ch078",
+  "global_index": 78,
+  "label_ko": "11편 9장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Satan",
+      "type": "Character",
+      "aliases": [
+        "the devil",
+        "the gentleman",
+        "the guest"
+      ]
+    },
+    {
+      "name": "Count Mattei",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Milan",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Hoff's malt extract",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Korovkin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Gorbunov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Jonah",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "The hanging of Smerdyakov",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Alyosha",
+      "quote": "When you flew out at Alyosha under the lamp-post this evening and shouted to him, ‘You learnt it from _him_! How do you know that _he_ visits me?’",
+      "disputed": false,
+      "first_revealed_index": 78,
+      "doc_id": "ch078",
+      "label_ko": "11편 9장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Satan",
+      "quote": "“Fool!” Ivan snapped out. “But you are clever, anyway. You are scolding again? I didn’t ask out of sympathy.",
+      "disputed": false,
+      "first_revealed_index": 78,
+      "doc_id": "ch078",
+      "label_ko": "11편 9장"
+    },
+    {
+      "subject": "Count Mattei",
+      "relation": "LIVES_AT",
+      "object": "Milan",
+      "quote": "In despair I wrote to Count Mattei in Milan. He sent me a book and some drops, bless him",
+      "disputed": false,
+      "first_revealed_index": 78,
+      "doc_id": "ch078",
+      "label_ko": "11편 9장"
+    },
+    {
+      "subject": "Satan",
+      "relation": "POSSESSES",
+      "object": "Hoff's malt extract",
+      "quote": "Hoff’s malt extract cured me! I bought it by accident, drank a bottle and a half of it, and I was ready to dance",
+      "disputed": false,
+      "first_revealed_index": 78,
+      "doc_id": "ch078",
+      "label_ko": "11편 9장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LIVES_AT",
+      "object": "Moscow",
+      "quote": "I made up that anecdote and told it to a schoolfellow called Korovkin, it was at Moscow.",
+      "disputed": false,
+      "first_revealed_index": 78,
+      "doc_id": "ch078",
+      "label_ko": "11편 9장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "“it’s your brother Alyosha with the most interesting and surprising news, I’ll be bound!”",
+      "disputed": false,
+      "first_revealed_index": 78,
+      "doc_id": "ch078",
+      "label_ko": "11편 9장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "“it’s your brother Alyosha with the most interesting and surprising news, I’ll be bound!”",
+      "disputed": false,
+      "first_revealed_index": 78,
+      "doc_id": "ch078",
+      "label_ko": "11편 9장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "PRESENT_AT",
+      "object": "The hanging of Smerdyakov",
+      "quote": "“An hour ago Smerdyakov hanged himself,” Alyosha answered from the yard.",
+      "disputed": false,
+      "first_revealed_index": 78,
+      "doc_id": "ch078",
+      "label_ko": "11편 9장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

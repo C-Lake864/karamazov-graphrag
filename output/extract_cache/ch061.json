@@ -1,0 +1,261 @@
+{
+  "doc_id": "ch061",
+  "global_index": 61,
+  "label_ko": "9편 8장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Mussyalovitch",
+      "type": "Character",
+      "aliases": [
+        "Pan Mussyalovitch",
+        "the little Pole"
+      ]
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Fomitch Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Kalganov"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Examination of the witnesses",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Three thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "First carousal at Mokroe",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazovs"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "Mitya’s position with Agrafena Alexandrovna had certainly improved, and that she had said that she loved him.",
+      "disputed": true,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "RIVAL_OF",
+      "object": "Mussyalovitch",
+      "quote": "Mitya had tried to buy off Pan Mussyalovitch, and had offered him three thousand roubles to resign his claims",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Mussyalovitch",
+      "quote": "Pan Mussyalovitch spoke proudly and warmly, so that Mitya was roused at once and declared that he would not allow the “scoundrel” to speak like that in his presence!",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Maximov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "The old man at once confessed that he had done wrong, that he had borrowed “ten roubles in my poverty,” from Dmitri Fyodorovitch, and that he was ready to pay it back.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Pyotr Fomitch Kalganov",
+      "relation": "PRESENT_AT",
+      "object": "Examination of the witnesses",
+      "quote": "Kalganov, when called, came in reluctantly, frowning and ill-humored, and he spoke to the lawyers as though he had never met them before in his life",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Examination of the witnesses",
+      "relation": "OCCURRED_AT",
+      "object": "Mokroe",
+      "quote": "was the sum spent here, at Mokroe, by Mitya on the first occasion, a month before, three thousand or fifteen hundred?",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "she had not loved him, but had won his heart as well as his old father’s “in my nasty spite,” that she had seen that Mitya was very jealous of Fyodor Pavlovitch",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "she had not loved him, but had won his heart as well as his old father’s “in my nasty spite,” that she had seen that Mitya was very jealous of Fyodor Pavlovitch",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "“Agrafena Alexandrovna!” Mitya got up from his chair, “have faith in God and in me. I am not guilty of my father’s murder!”",
+      "disputed": true,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "and that she had replied to that that he hadn’t stolen it, and that he must pay the money back next day.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "Three thousand roubles",
+      "quote": "had heard him tell several people that he had three thousand with him.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "First carousal at Mokroe",
+      "relation": "OCCURRED_AT",
+      "object": "Mokroe",
+      "quote": "three thousand roubles had certainly been spent on the first carousal at Mokroe",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "First carousal at Mokroe",
+      "quote": "three thousand roubles had certainly been spent on the first carousal at Mokroe",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "and he wanted to do it at once, at once, regardless of all obstacles, with all the recklessness of the Karamazovs.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

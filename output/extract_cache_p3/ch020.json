@@ -1,0 +1,92 @@
+{
+  "doc_id": "ch020",
+  "global_index": 20,
+  "label_ko": "3편 7장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lukyanov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "Ivan listened with perfect seriousness to his father’s excited whisper.",
+      "disputed": false,
+      "first_revealed_index": 20,
+      "doc_id": "ch020",
+      "label_ko": "3편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Ivan",
+      "quote": "I love you as I do Alyosha. Don’t think I don’t love you.",
+      "disputed": false,
+      "first_revealed_index": 20,
+      "doc_id": "ch020",
+      "label_ko": "3편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "I love you as I do Alyosha. Don’t think I don’t love you.",
+      "disputed": false,
+      "first_revealed_index": 20,
+      "doc_id": "ch020",
+      "label_ko": "3편 7장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "He’s a rascal, that’s what he is!” burst from Grigory. He looked Smerdyakov wrathfully in the face.",
+      "disputed": false,
+      "first_revealed_index": 20,
+      "doc_id": "ch020",
+      "label_ko": "3편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory Vassilyevitch",
+      "quote": "You’re anathema accursed, as it is,” Grigory suddenly burst out, “and how dare you argue, you rascal, after that, if—”",
+      "disputed": false,
+      "first_revealed_index": 20,
+      "doc_id": "ch020",
+      "label_ko": "3편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

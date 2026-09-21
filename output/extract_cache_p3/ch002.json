@@ -1,0 +1,141 @@
+{
+  "doc_id": "ch002",
+  "global_index": 2,
+  "label_ko": "1편 2장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Adelaïda Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Pyotr Alexandrovitch"
+      ]
+    },
+    {
+      "name": "Proudhon",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Bakunin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Paris",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Paris Revolution of February 1848",
+      "type": "Event",
+      "aliases": [
+        "Revolution of February"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "this Mitya, or rather Dmitri Fyodorovitch, was the only one of Fyodor Pavlovitch’s three sons who grew up in the belief that he had property",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "a faithful servant of the family, Grigory, took the three-year-old Mitya into his care.",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "RELATED_TO",
+      "object": "Adelaïda Ivanovna",
+      "quote": "a cousin of Mitya’s mother, Pyotr Alexandrovitch Miüsov, happened to return from Paris.",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "RELATED_TO",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "a cousin of Mitya’s mother, Pyotr Alexandrovitch Miüsov, happened to return from Paris.",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "RAISED",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Mitya did, in fact, pass into this cousin’s keeping, but as the latter had no family of his own",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "LIVES_AT",
+      "object": "Paris",
+      "quote": "settling permanently in Paris he, too, forgot the child, especially when the Revolution of February broke out",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "PRESENT_AT",
+      "object": "Paris Revolution of February 1848",
+      "quote": "hinting that he himself had almost taken part in the fighting on the barricades.",
+      "disputed": true,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "came a second time to our little town to settle up once for all with his father, it turned out to his amazement that he had nothing",
+      "disputed": true,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

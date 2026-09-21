@@ -1,0 +1,201 @@
+{
+  "doc_id": "ch074",
+  "global_index": 74,
+  "label_ko": "11편 5장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise's letter",
+      "type": "Object",
+      "aliases": [
+        "Lise's note"
+      ]
+    },
+    {
+      "name": "Mitya's letter",
+      "type": "Object",
+      "aliases": [
+        "document in Mitya's writing"
+      ]
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna's house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "mounting the staircase, which was dimly lighted by a Chinese lantern, he saw a man coming down, and as they met, he recognized him as his brother.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "It was you, you who persuaded me that he murdered his father. It’s only you I believed!",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "It’s not he murdered father, not he!",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Alyosha saw at once that she had asked Ivan that question before, perhaps only a moment before he came in, and not for the first time, but for the hundredth, and that they had ended by quarreling.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Fyodorovitch",
+      "quote": "“Katerina Ivanovna loves you, brother,” said Alyosha sadly.",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "Lise's letter",
+      "quote": "“Oh, while I think of it, I have a letter for you,” said Alyosha timidly, and he took Lise’s note from his pocket and held it out to Ivan.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "Mitya's letter",
+      "quote": "She’s got a document in her hands, in Mitya’s own writing, that proves conclusively that he did murder Fyodor Pavlovitch.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "She’s got a document in her hands, in Mitya’s own writing, that proves conclusively that he did murder Fyodor Pavlovitch.",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "It was you, you who persuaded me that he murdered his father. It’s only you I believed!",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LIVES_AT",
+      "object": "Katerina Ivanovna's house",
+      "quote": "On the way to Ivan he had to pass the house where Katerina Ivanovna was living.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

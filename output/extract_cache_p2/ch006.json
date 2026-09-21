@@ -1,0 +1,130 @@
+{
+  "doc_id": "ch006",
+  "global_index": 6,
+  "label_ko": "2편 1장",
+  "entities": [
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov",
+        "Pyotr Alexandrovitch"
+      ]
+    },
+    {
+      "name": "Pyotr Fomitch Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Kalganov"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima"
+      ]
+    },
+    {
+      "name": "Father Superior",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varsonofy",
+      "type": "Character",
+      "aliases": [
+        "elder Varsonofy"
+      ]
+    },
+    {
+      "name": "Hermitage",
+      "type": "Place",
+      "aliases": [
+        "hermitage"
+      ]
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": [
+        "monastery"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "RELATED_TO",
+      "object": "Pyotr Fomitch Kalganov",
+      "quote": "First an elegant open carriage, drawn by two valuable horses, drove up with Miüsov and a distant relative of his, a young man of twenty, called Pyotr Fomitch Kalganov.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "In an ancient, jolting, but roomy, hired carriage, with a pair of old pinkish-gray horses, a long way behind Miüsov’s carriage, came Fyodor Pavlovitch, with his son Ivan.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "Hermitage",
+      "quote": "Father Zossima lives in the hermitage, apart, four hundred paces from the monastery, the other side of the copse.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "“Fyodor Pavlovitch, for the last time, your compact, do you hear? Behave properly or I will pay you out!” Miüsov had time to mutter again.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

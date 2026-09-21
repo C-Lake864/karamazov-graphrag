@@ -1,0 +1,314 @@
+{
+  "doc_id": "ch049",
+  "global_index": 49,
+  "label_ko": "8편 4장",
+  "entities": [
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lizaveta",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch's house",
+      "type": "Place",
+      "aliases": [
+        "Fyodor Pavlovitch's garden"
+      ]
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "clean white handkerchief",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Madame Hohlakov"
+      ]
+    },
+    {
+      "name": "widow Morozov",
+      "type": "Character",
+      "aliases": [
+        "widow Morozov"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": [
+        "Fenya"
+      ]
+    },
+    {
+      "name": "Nazar Ivanovitch",
+      "type": "Character",
+      "aliases": [
+        "Nazar Ivanovitch"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Agrafena Alexandrovna"
+      ]
+    },
+    {
+      "name": "Prohor",
+      "type": "Character",
+      "aliases": [
+        "Prohor"
+      ]
+    },
+    {
+      "name": "Timofey",
+      "type": "Character",
+      "aliases": [
+        "Timofey"
+      ]
+    },
+    {
+      "name": "widow Morozov's house",
+      "type": "Place",
+      "aliases": [
+        "widow Morozov’s house"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": [
+        "Mokroe"
+      ]
+    },
+    {
+      "name": "handkerchief",
+      "type": "Object",
+      "aliases": [
+        "clean white handkerchief"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "in answer to Alyosha’s question, “How can you say you’ll kill our father?”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "in answer to Alyosha’s question, “How can you say you’ll kill our father?”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "in answer to Alyosha’s question, “How can you say you’ll kill our father?”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "RIVAL_OF",
+      "object": "Mitya",
+      "quote": "A horrible fury of hatred suddenly surged up in Mitya’s heart: “There he was, his rival, the man who had tormented him, had ruined his life!”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "A horrible fury of hatred suddenly surged up in Mitya’s heart: “There he was, his rival, the man who had tormented him, had ruined his life!”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "“Grushenka, is it you? Is it you?” he said, in a sort of trembling half-whisper. “Where are you, my angel, where are you?”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "glancing to the left he saw his master’s window open. No one was looking out of it then.",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "He remembered afterwards clearly, that he had been awfully anxious to make sure whether he had broken the old man’s skull, or simply stunned him with the pestle.",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "brass pestle",
+      "quote": "Mitya was beside himself, he suddenly pulled the brass pestle out of his pocket.",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "clean white handkerchief",
+      "quote": "taking out of his pocket the clean white handkerchief with which he had provided himself for his visit to Madame Hohlakov",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LIVES_AT",
+      "object": "Fyodor Pavlovitch's house",
+      "quote": "All Fyodor Pavlovitch’s bedroom lay open before him. It was not a large room, and was divided in two parts by a red screen",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Nazar Ivanovitch",
+      "relation": "SERVANT_OF",
+      "object": "widow Morozov",
+      "quote": "Nazar Ivanovitch promised, but went upstairs to his mistress who had suddenly sent for him",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Prohor",
+      "relation": "RELATED_TO",
+      "object": "Nazar Ivanovitch",
+      "quote": "meeting his nephew, a boy of twenty, who had recently come from the country, on the way up told him to take his place",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "handkerchief",
+      "quote": "the handkerchief soaked with blood he held, crushed up in his right fist, and as he ran he thrust it into the back pocket of his coat.",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LIVES_AT",
+      "object": "widow Morozov's house",
+      "quote": "inform him with a good-humored smile that “Agrafena Alexandrovna is not at home now, you know.”",
+      "disputed": false,
+      "first_revealed_index": 49,
+      "doc_id": "ch049",
+      "label_ko": "8편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

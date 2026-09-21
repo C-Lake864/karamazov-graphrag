@@ -1,0 +1,122 @@
+{
+  "doc_id": "ch079",
+  "global_index": 79,
+  "label_ko": "11편 10장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "“He has worn you out,” said Alyosha, looking compassionately at his brother.",
+      "disputed": false,
+      "first_revealed_index": 79,
+      "doc_id": "ch079",
+      "label_ko": "11편 10장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "“He has worn you out,” said Alyosha, looking compassionately at his brother.",
+      "disputed": false,
+      "first_revealed_index": 79,
+      "doc_id": "ch079",
+      "label_ko": "11편 10장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "he wanted to save his brother and he confessed.",
+      "disputed": false,
+      "first_revealed_index": 79,
+      "doc_id": "ch079",
+      "label_ko": "11편 10장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "to confess you murdered your father, that the valet murdered him at your instigation.",
+      "disputed": false,
+      "first_revealed_index": 79,
+      "doc_id": "ch079",
+      "label_ko": "11편 10장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Lise",
+      "quote": "I like Lise. I said something nasty about her. It was a lie. I like her",
+      "disputed": false,
+      "first_revealed_index": 79,
+      "doc_id": "ch079",
+      "label_ko": "11편 10장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "I love your face, Alyosha. Did you know that I loved your face?",
+      "disputed": false,
+      "first_revealed_index": 79,
+      "doc_id": "ch079",
+      "label_ko": "11편 10장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "RIVAL_OF",
+      "object": "Dmitri",
+      "quote": "She thinks that I am ruining Mitya from jealousy on her account! Yes, she thinks that! But it’s not so.",
+      "disputed": true,
+      "first_revealed_index": 79,
+      "doc_id": "ch079",
+      "label_ko": "11편 10장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

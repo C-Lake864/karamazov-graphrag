@@ -1,0 +1,240 @@
+{
+  "doc_id": "ch033",
+  "global_index": 33,
+  "label_ko": "5편 2장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Pavel Fyodorovitch Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Smerdyakov",
+        "Pavel Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Agrafena Alexandrovna"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lake Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan",
+        "Brother Ivan"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lake Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Metropolis tavern",
+      "type": "Place",
+      "aliases": [
+        "the tavern",
+        "the restaurant"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "the thought had struck him that he must attempt some stratagem to find his brother Dmitri, who was evidently keeping out of his way.",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Pavel Fyodorovitch Smerdyakov",
+      "quote": "Twice already he’s threatened me with death.” “With death?” Alyosha exclaimed in surprise.",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Pavel Fyodorovitch Smerdyakov",
+      "quote": "His honor said to him the other day, ‘I’ll pound you in a mortar!’” added Marya Kondratyevna.",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Pavel Fyodorovitch Smerdyakov",
+      "quote": "You said yourself you had such a respect for Ivan Fyodorovitch.” “But he said I was a stinking lackey.",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Pavel Fyodorovitch Smerdyakov",
+      "quote": "Grigory Vassilyevitch blames me for rebelling against my birth, but I would have sanctioned their killing me before I was born",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "Lake Street",
+      "quote": "Ivan Fyodorovitch sent me first thing this morning to your brother’s lodging in Lake Street, without a letter",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "A minute later Alyosha was sitting beside his brother. Ivan was alone dining.",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Ivan Fyodorovitch sent me first thing this morning to your brother’s lodging in Lake Street, without a letter, but with a message to Dmitri Fyodorovitch",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "Lake Street",
+      "quote": "Ivan Fyodorovitch sent me first thing this morning to your brother’s lodging in Lake Street, without a letter, but with a message to Dmitri Fyodorovitch",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "PRESENT_AT",
+      "object": "Metropolis tavern",
+      "quote": "A minute later Alyosha was sitting beside his brother. Ivan was alone dining.",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "PRESENT_AT",
+      "object": "Metropolis tavern",
+      "quote": "A minute later Alyosha was sitting beside his brother. Ivan was alone dining.",
+      "disputed": false,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Twice already he’s threatened me with death.” “With death?” Alyosha exclaimed in surprise.",
+      "disputed": true,
+      "first_revealed_index": 33,
+      "doc_id": "ch033",
+      "label_ko": "5편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

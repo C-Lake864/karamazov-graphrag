@@ -1,0 +1,100 @@
+{
+  "doc_id": "ch089",
+  "global_index": 89,
+  "label_ko": "12편 10장",
+  "entities": [
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": [
+        "the famous orator"
+      ]
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "the prosecutor",
+        "my talented friend, the prosecutor",
+        "my opponent"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "the prisoner",
+        "my unfortunate client"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "old Grigory"
+      ]
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Brass pestle",
+      "type": "Object",
+      "aliases": [
+        "pestle"
+      ]
+    },
+    {
+      "name": "Murder of Mitya's father",
+      "type": "Event",
+      "aliases": [
+        "his father's murder"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fetyukovitch",
+      "relation": "LIVES_AT",
+      "object": "Petersburg",
+      "quote": "although he practiced in Petersburg, he had more than once visited provincial towns to defend prisoners",
+      "disputed": false,
+      "first_revealed_index": 89,
+      "doc_id": "ch089",
+      "label_ko": "12편 10장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "The prisoner, running away in the garden in the dark, climbed over the fence, was seized by the servant, and knocked him down with a brass pestle.",
+      "disputed": false,
+      "first_revealed_index": 89,
+      "doc_id": "ch089",
+      "label_ko": "12편 10장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "Brass pestle",
+      "quote": "that brass pestle which he had taken from the two women, and which they could always recognize afterwards as theirs, and prove that he had taken it from them.",
+      "disputed": false,
+      "first_revealed_index": 89,
+      "doc_id": "ch089",
+      "label_ko": "12편 10장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Mitya's father",
+      "quote": "And if he was capable of feeling grief and pity at having killed a man, it shows that he was innocent of his father’s murder.",
+      "disputed": true,
+      "first_revealed_index": 89,
+      "doc_id": "ch089",
+      "label_ko": "12편 10장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

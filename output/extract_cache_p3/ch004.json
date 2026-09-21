@@ -1,0 +1,197 @@
+{
+  "doc_id": "ch004",
+  "global_index": 4,
+  "label_ko": "1편 4장",
+  "entities": [
+    {
+      "name": "Alyosha Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Zossima",
+      "type": "Character",
+      "aliases": [
+        "elder Zossima"
+      ]
+    },
+    {
+      "name": "Yefim Petrovitch Polenov",
+      "type": "Character",
+      "aliases": [
+        "Yefim Petrovitch"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Odessa",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Adelaïda Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "elder Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "He was only twenty, his brother Ivan was in his twenty-fourth year at the time, while their elder brother Dmitri was twenty-seven.",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Alyosha Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "He was only twenty, his brother Ivan was in his twenty-fourth year at the time, while their elder brother Dmitri was twenty-seven.",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha Karamazov",
+      "quote": "he found in it at that time, as he thought, an extraordinary being, our celebrated elder, Zossima, to whom he became attached with all the warm first love of his ardent heart.",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha Karamazov",
+      "quote": "A year before the end of the course he suddenly announced to the ladies that he was going to see his father about a plan which had occurred to him.",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Yefim Petrovitch Polenov",
+      "relation": "RAISED",
+      "object": "Alyosha Karamazov",
+      "quote": "When he entered the household of his patron and benefactor, Yefim Petrovitch Polenov, he gained the hearts of all the family, so that they looked on him quite as their own child.",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LIVES_AT",
+      "object": "Odessa",
+      "quote": "Three or four years after his wife’s death he had gone to the south of Russia and finally turned up in Odessa, where he spent several years.",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "And, if it had not been for the same servant Grigory, who by that time had aged considerably too, and used to lo",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "He explained that this was his strong desire, and that he was solemnly asking his consent as his father.",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "And, if it had not been for the same servant Grigory, who by that time had aged considerably too, and used to look after him",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "elder Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "The old man knew that the elder Zossima, who was living in the monastery hermitage, had made a special impression upon his “gentle boy.”",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    },
+    {
+      "subject": "Adelaïda Ivanovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "but for the first, Adelaïda Ivanovna, who used to thrash him.",
+      "disputed": false,
+      "first_revealed_index": 4,
+      "doc_id": "ch004",
+      "label_ko": "1편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

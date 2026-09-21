@@ -1,0 +1,102 @@
+{
+  "doc_id": "ch068",
+  "global_index": 68,
+  "label_ko": "10편 6장",
+  "entities": [
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": [
+        "little Kolya"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mr. Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Kolya",
+      "relation": "MENTOR_OF",
+      "object": "Ilusha",
+      "quote": "I quite understand why you have had such an influence on this generous, morbidly sensitive boy",
+      "disputed": false,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "QUARRELS_WITH",
+      "object": "Mr. Rakitin",
+      "quote": "I often disagree with Mr. Rakitin. Though I mention Tatyana, I am not at all for the emancipation of women.",
+      "disputed": false,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    },
+    {
+      "subject": "Mr. Rakitin",
+      "relation": "MENTOR_OF",
+      "object": "Kolya",
+      "quote": "Ah, I know where you read that, and I am sure some one told you so!” cried Alyosha. “I say, what makes you think I read it?",
+      "disputed": true,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "I have heard you are a mystic and have been in the monastery. I know you are a mystic, but ... that hasn’t put me off.",
+      "disputed": true,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "LOVES",
+      "object": "Alyosha Karamazov",
+      "quote": "I did. I loved you awfully. I’ve been loving and dreaming of you.",
+      "disputed": false,
+      "first_revealed_index": 68,
+      "doc_id": "ch068",
+      "label_ko": "10편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

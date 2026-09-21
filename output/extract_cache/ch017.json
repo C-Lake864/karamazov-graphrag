@@ -1,0 +1,139 @@
+{
+  "doc_id": "ch017",
+  "global_index": 17,
+  "label_ko": "3편 4장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Agafya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katenka",
+        "Katya"
+      ]
+    },
+    {
+      "name": "Dr. Kravchenko",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "banknote for five thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "five thousand roubles"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Agafya Ivanovna",
+      "relation": "RELATED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "This second daughter is Katerina Ivanovna, and she was the child of the second wife",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Once I was bitten by a centipede, brother, and laid up a fortnight with fever from it.",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "POSSESSES",
+      "object": "banknote for five thousand roubles",
+      "quote": "opened the drawer and took out a banknote for five thousand roubles (it was lying in a French dictionary).",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "banknote for five thousand roubles",
+      "quote": "handed it to her, opened the door into the passage, and, stepping back, made her a deep bow, a most respectful, a most impressive bow, believe me!",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "But, on my oath, I looked at her for three seconds, or five perhaps, with fearful hatred—that hate which is only a hair’s-breadth from love, from the maddest love!",
+      "disputed": true,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

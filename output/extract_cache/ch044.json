@@ -1,0 +1,472 @@
+{
+  "doc_id": "ch044",
+  "global_index": 44,
+  "label_ko": "7편 3장",
+  "entities": [
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Kuzma Kuzmitch Samsonov",
+      "type": "Character",
+      "aliases": [
+        "Samsonov",
+        "Kuzma Kuzmitch"
+      ]
+    },
+    {
+      "name": "widow Morozov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "old Karamazov"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Mitya",
+        "the captain"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "eight thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Mihail Osipovitch Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Rakitin",
+        "Misha"
+      ]
+    },
+    {
+      "name": "Matryona",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "twenty-five rouble note",
+      "type": "Object",
+      "aliases": [
+        "twenty-five roubles"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Mihail Osipovitch Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Rakitin",
+        "Mihail Osipovitch"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "letter",
+      "type": "Object",
+      "aliases": [
+        "note"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "widow Morozov",
+      "relation": "RELATED_TO",
+      "object": "Kuzma Kuzmitch Samsonov",
+      "quote": "solely to please her kinsman, the merchant Samsonov",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Kuzma Kuzmitch Samsonov",
+      "relation": "RAISED",
+      "object": "Agrafena Alexandrovna",
+      "quote": "though Grushenka had been raised from destitution by the old man, Samsonov",
+      "disputed": true,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Kuzma Kuzmitch Samsonov",
+      "relation": "MENTOR_OF",
+      "object": "Agrafena Alexandrovna",
+      "quote": "He helped Grushenka with his advice to increase her capital and put business in her way.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "POSSESSES",
+      "object": "eight thousand roubles",
+      "quote": "when he gave her eight thousand roubles, “and you must look after yourself",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Fyodor Pavlovitch, who first came into contact with Grushenka over a piece of speculation, ended to his own surprise by falling madly in love with her",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Of late, when Dmitri too had come on the scene with his love, the old man left off laughing.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "although many in our town knew of the grotesque and monstrous rivalry of the Karamazovs, father and son, the object of which was Grushenka",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "rivalry of the Karamazovs, father and son, the object of which was Grushenka",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "I am afraid of your brother Mitya to-day, Alyosha.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Fenya",
+      "relation": "SERVANT_OF",
+      "object": "Agrafena Alexandrovna",
+      "quote": "her granddaughter, a smart young girl of twenty, who performed the duties of a maid.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Agrafena Alexandrovna",
+      "quote": "she received Dmitri Fyodorovitch simply from fear because “he threatened to murder her.”",
+      "disputed": true,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey",
+      "quote": "His elder died to-day, Father Zossima, the saint.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Fenya",
+      "relation": "SERVANT_OF",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Fenya, Fenya, bring us the bottle Mitya left! Look sharp!",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Katerina Ivanovna",
+      "quote": "I did insult her dreadfully. She sent for me, she wanted to make a conquest of me",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Agrafena Alexandrovna",
+      "quote": "don’t remind me of Dmitri Fyodorovitch, he has bruised my heart.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LOVES",
+      "object": "Alexey",
+      "quote": "You see, I love him with all my soul, that’s how it is! Alyosha, do you believe I love you with all my soul?",
+      "disputed": true,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey",
+      "quote": "don’t taunt me with having rebelled against God.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Matryona",
+      "relation": "SERVANT_OF",
+      "object": "Agrafena Alexandrovna",
+      "quote": "I used to hear it when I was a child from Matryona, my cook, who is still with me.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "OWES_MONEY_TO",
+      "object": "Mihail Osipovitch Rakitin",
+      "quote": "Take it. Rakitin, I owe it you, there’s no fear of your refusing it, you asked for it yourself.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Mihail Osipovitch Rakitin",
+      "relation": "POSSESSES",
+      "object": "twenty-five rouble note",
+      "quote": "He put the twenty-five rouble note in his pocket and he felt ashamed at Alyosha’s seeing it.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Mihail Osipovitch Rakitin",
+      "quote": "And you hush, Rakitin, because you are telling lies.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Why, are you in love with her? Agrafena Alexandrovna, our monk’s really in love with you, you’ve made a conquest!”",
+      "disputed": true,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "our monk’s really in love with you, you’ve made a conquest!” he cried, with a coarse laugh.",
+      "disputed": true,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Fenya",
+      "relation": "SERVANT_OF",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Fenya ran noisily into the room, crying out: “Mistress, mistress darling, a messenger has galloped up,”",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "Alyosha, give my greetings to your brother Mitya and tell him not to remember evil against me",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "And add, too, that Grushenka loved him only one hour, only one short hour she loved him",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Mihail Osipovitch Rakitin",
+      "quote": "Hush, evil tongue!” Grushenka cried angrily at him; “you never said such words to me as he has come to say.”",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Mihail Osipovitch Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Fyodorovitch Karamazov",
+      "quote": "Damnation take you all and each of you!” he cried suddenly, “why the devil did I take you up? I don’t want to know you from this time forward.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "POSSESSES",
+      "object": "letter",
+      "quote": "Grushenka snatched the letter from her and carried it to the candle.",
+      "disputed": false,
+      "first_revealed_index": 44,
+      "doc_id": "ch044",
+      "label_ko": "7편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

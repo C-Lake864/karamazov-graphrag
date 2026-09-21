@@ -1,0 +1,146 @@
+{
+  "doc_id": "ch022",
+  "global_index": 22,
+  "label_ko": "3편 9장",
+  "entities": [
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Æsop"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "“He’s ‘insulted’ his father, not only you,” observed Ivan with a forced smile.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "“Why do you run after him? He’ll murder you outright,” Ivan cried wrathfully at his father.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "“What does Ivan say? Alyosha, my dear, my only son, I’m afraid of Ivan.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Dmitri",
+      "quote": "“I used to wash him in his tub. He’s insulted me,” repeated Grigory.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "Beside himself with fury, Dmitri struck out, and hit Grigory with all his might.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "But Dmitri threw up both hands and suddenly clutched the old man by the two tufts of hair that remained on his temples, tugged at them, and flung him with a crash on the floor.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "“Brother, how will all this horror end between father and Dmitri?” exclaimed Alyosha.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "“Shouldn’t you put a wet bandage on your head and go to bed, too?” Alyosha said to him. “We’ll look after him. My brother gave you a terrible blow—on the head.”",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "see for yourself, which she means to choose, him or me. Eh? What? Can you?",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

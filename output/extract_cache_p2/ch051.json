@@ -1,0 +1,249 @@
+{
+  "doc_id": "ch051",
+  "global_index": 51,
+  "label_ko": "8편 6장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Fyodorovitch",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Timofey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Plastunov's inn",
+      "type": "Place",
+      "aliases": [
+        "Plastunov’s"
+      ]
+    },
+    {
+      "name": "loaded pistol",
+      "type": "Object",
+      "aliases": [
+        "pistol"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Mitya",
+        "Dmitri Fyodorovitch",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": [
+        "Trifon Borissovitch"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Agrafena Alexandrovna",
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Kalganov"
+      ]
+    },
+    {
+      "name": "Mr. Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Mr. Miüsov",
+        "Miüsov"
+      ]
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": [
+        "Maximov"
+      ]
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": [
+        "Andrey"
+      ]
+    },
+    {
+      "name": "box of pistols",
+      "type": "Object",
+      "aliases": [
+        "box of pistols",
+        "pistol-case"
+      ]
+    },
+    {
+      "name": "monastery in the town",
+      "type": "Place",
+      "aliases": [
+        "monastery in the town",
+        "monastery"
+      ]
+    },
+    {
+      "name": "pilgrimage",
+      "type": "Event",
+      "aliases": [
+        "pilgrimage"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "loaded pistol",
+      "quote": "the paper was lying there in his pocket, ready; the pistol was loaded; he had already resolved how, next morning, he would meet the first warm ray",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Never had this woman, who was such a fateful influence in his life, aroused such love in his breast, such new and unknown feeling, surprising even to himself",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "Mokroe",
+      "quote": "“Mokroe!” cried Andrey, pointing ahead with his whip. Through the pale darkness of the night loomed a solid black mass of buildings",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "Plastunov's inn",
+      "quote": "drove with a dash and pulled up his steaming, panting horses at the high flight of steps. Mitya jumped out of the cart just as the innkeeper, on his way to bed, peeped out from the steps",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "PRESENT_AT",
+      "object": "Plastunov's inn",
+      "quote": "“Agrafena Alexandrovna?” The inn-keeper understood at once, looking sharply into Mitya’s face. “She’s here, too ...”",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Trifon Borissovitch",
+      "relation": "PRESENT_AT",
+      "object": "Plastunov's inn",
+      "quote": "Mitya jumped out of the cart just as the innkeeper, on his way to bed, peeped out from the steps curious to see who had arrived. “Trifon Borissovitch, is that you?”",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Kalganov",
+      "relation": "RELATED_TO",
+      "object": "Mr. Miüsov",
+      "quote": "One’s quite a young gentleman, a relative of Mr. Miüsov, he must be, but I’ve forgotten his name",
+      "disputed": true,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Maximov",
+      "relation": "PRESENT_AT",
+      "object": "pilgrimage",
+      "quote": "He’s been on a pilgrimage, so he says, to the monastery in the town.",
+      "disputed": true,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "pilgrimage",
+      "relation": "OCCURRED_AT",
+      "object": "monastery in the town",
+      "quote": "He’s been on a pilgrimage, so he says, to the monastery in the town.",
+      "disputed": true,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "box of pistols",
+      "quote": "He turned to the cart and pulled out the box of pistols.",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,97 @@
+{
+  "doc_id": "ch027",
+  "global_index": 27,
+  "label_ko": "4편 3장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Krassotkin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Wisp of tow",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihailovsky Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "High Street",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Wisp of tow",
+      "relation": "QUARRELS_WITH",
+      "object": "Krassotkin",
+      "quote": "He is a beast, he stabbed Krassotkin in class the other day with a penknife.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Wisp of tow",
+      "relation": "QUARRELS_WITH",
+      "object": "Alyosha",
+      "quote": "the spiteful child had seized his left hand with both of his and bit his middle finger.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Smurov",
+      "relation": "QUARRELS_WITH",
+      "object": "Wisp of tow",
+      "quote": "But Smurov, the left-handed boy, needed no telling, and at once revenged himself; he threw a stone",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Wisp of tow",
+      "relation": "QUARRELS_WITH",
+      "object": "Smurov",
+      "quote": "“But I hit Smurov on the head!” cried the boy.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

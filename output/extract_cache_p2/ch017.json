@@ -1,0 +1,206 @@
+{
+  "doc_id": "ch017",
+  "global_index": 17,
+  "label_ko": "3편 4장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Agafya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katenka",
+        "Katya"
+      ]
+    },
+    {
+      "name": "Trifonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dr. Kravchenko",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "six thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "banknote for five thousand roubles",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "I am speaking figuratively, brother.",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "I am speaking figuratively, brother.",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "You’re the first, except Ivan, of course—Ivan knows everything.",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "I loved cruelty; am I not a bug, am I not a noxious insect? In fact a Karamazov!",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "That rogue Grushenka has an eye for men. She told me once that she’d devour you one day.",
+      "disputed": true,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "six thousand roubles",
+      "quote": "Just at that time father sent me six thousand roubles in return for my sending him a deed giving up all claims upon him",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "RELATED_TO",
+      "object": "Agafya Ivanovna",
+      "quote": "This second daughter is Katerina Ivanovna, and she was the child of the second wife, who belonged to a distinguished general’s family",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Once I was bitten by a centipede, brother, and laid up a fortnight with fever from it.",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "POSSESSES",
+      "object": "banknote for five thousand roubles",
+      "quote": "opened the drawer and took out a banknote for five thousand roubles (it was lying in a French dictionary).",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "But, on my oath, I looked at her for three seconds, or five perhaps, with fearful hatred—that hate which is only a hair’s-breadth from love, from the maddest love!",
+      "disputed": true,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

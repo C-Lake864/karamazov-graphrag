@@ -1,0 +1,229 @@
+{
+  "doc_id": "ch018",
+  "global_index": 18,
+  "label_ko": "3편 5장",
+  "entities": [
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya",
+        "K."
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Foma",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "Yes, formally and solemnly betrothed. It was all done on my arrival in Moscow, with great ceremony, with ikons, all in fine style.",
+      "disputed": false,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri Karamazov",
+      "quote": "‘I love you madly,’ she says, ‘even if you don’t love me, never mind. Be my husband. Don’t be afraid. I won’t hamper you in any way.",
+      "disputed": true,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "Yes, Ivan fell in love with her; he’s in love with her still. I know that.",
+      "disputed": true,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "He didn’t send your money then, but wasted it, because, like a low brute, he couldn’t control himself.",
+      "disputed": false,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "So I had that three thousand roubles in my pocket when I went to see Grushenka, and it was that money we spent at Mokroe.",
+      "disputed": false,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grushenka",
+      "quote": "You see, I went in the first place to beat her.",
+      "disputed": false,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "looking keenly at his brother’s frenzied face.",
+      "disputed": false,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "“Brother, what are you saying?”",
+      "disputed": false,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "I’ll be her husband if she deigns to have me, and when lovers come, I’ll go into the next room.",
+      "disputed": false,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "What, do you suppose I’d shoot myself because I can’t get three thousand to pay back?",
+      "disputed": false,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "ENGAGED_TO",
+      "object": "Grushenka",
+      "quote": "Grushenka is really perhaps not joking, and really means to marry me.",
+      "disputed": true,
+      "first_revealed_index": 18,
+      "doc_id": "ch018",
+      "label_ko": "3편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

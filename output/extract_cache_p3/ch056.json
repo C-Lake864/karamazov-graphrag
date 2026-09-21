@@ -1,0 +1,238 @@
+{
+  "doc_id": "ch056",
+  "global_index": 56,
+  "label_ko": "9편 3장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grusha"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "3000 roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles"
+      ]
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "death of your father, Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "study",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "murder",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "So you positively declare that you are not guilty of the death of your father, Fyodor Pavlovitch?” asked the investigating lawyer, softly but insistently.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "RAISED",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "That old man used to carry me in his arms, gentlemen. He used to wash me in the tub when I was a baby three years old, abandoned by every one, he was like a father to me!...",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ENGAGED_TO",
+      "object": "Grushenka",
+      "quote": "Gentlemen, she is my betrothed!” he said ecstatically and reverently, looking round at them all.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "“Grusha, my life, my blood, my holy one!” Mitya fell on his knees beside her and held her tight in his arms.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "And the very same day, in the evening I beat my father. I nearly killed him, and I swore I’d come again and kill him, before witnesses.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory Vassilyevitch",
+      "quote": "I am guilty of the blood of another old man but not of my father’s. And I weep for it! I killed, I killed the old man and knocked him down....",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "RELATED_TO",
+      "object": "Miüsov",
+      "quote": "I believe I’ve had the honor and pleasure of meeting you, Nikolay Parfenovitch, at my kinsman Miüsov’s.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "There was a dispute about three thousand roubles, I think, which you",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "So you positively declare that you are not guilty of the death of your father, Fyodor Pavlovitch?” asked the investigating lawyer, softly but insistently.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "But, gentlemen, that woman is the queen of my heart. Oh, let me tell you that. That one thing I’ll tell you now.... I see I’m with honorable men.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Did you hear her cry, ‘I’ll go to death with you’? And what have I, a penniless beggar, done for her? Why such love for me?",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "murder",
+      "quote": "I’m struck all of a heap myself, for who can have murdered him, if not I? That’s what it comes to, isn’t it?",
+      "disputed": true,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "murder",
+      "relation": "OCCURRED_AT",
+      "object": "study",
+      "quote": "We found him in his study, lying on his back on the floor, with his head battered in",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

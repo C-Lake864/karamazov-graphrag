@@ -1,0 +1,174 @@
+{
+  "doc_id": "ch087",
+  "global_index": 87,
+  "label_ko": "12편 8장",
+  "entities": [
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Fyodorovitch",
+        "Dmitri Karamazov"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Svyetlov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch's house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "catastrophe"
+      ]
+    },
+    {
+      "name": "envelope with the notes in it",
+      "type": "Object",
+      "aliases": [
+        "3000 roubles"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "his master, who was also perhaps his father—Fyodor Pavlovitch",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "they would, in fact, have suspected the son of the murdered man, Dmitri Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "deceived his master, whom he loved as his benefactor.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "on the night of the murder, there were five persons in Fyodor Pavlovitch’s—Fyodor Pavlovitch himself (but he did not kill himself, that’s evident); then his servant, Grigory",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Marfa Ignatyevna",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "the third person was Grigory’s wife, Marfa Ignatyevna, but it would be simply shameful to imagine her murdering her master.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "The first person who cried out that Smerdyakov had committed the murder was the prisoner himself at the moment of his arrest",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "If we are to believe the prisoner’s statement that he is not the murderer, then Smerdyakov must have been",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LOVES",
+      "object": "Fyodor Pavlovitch",
+      "quote": "So it may be supposed that the poor fellow suffered pangs of remorse at having deceived his master, whom he loved as his benefactor.",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "murder of Fyodor Pavlovitch",
+      "relation": "OCCURRED_AT",
+      "object": "Fyodor Pavlovitch's house",
+      "quote": "on the night of the murder, there were five persons in Fyodor Pavlovitch’s",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "envelope with the notes in it",
+      "quote": "appropriate the three thousand roubles he had seen his master put in the envelope.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

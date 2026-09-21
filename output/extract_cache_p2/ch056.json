@@ -1,0 +1,288 @@
+{
+  "doc_id": "ch056",
+  "global_index": 56,
+  "label_ko": "9편 3장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grusha"
+      ]
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": [
+        "police captain"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": [
+        "investigating lawyer"
+      ]
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "prosecutor"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Death of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "murder of my old father"
+      ]
+    },
+    {
+      "name": "3000 roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "The blue room",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "The interrogation of Dmitri Fyodorovitch Karamazov",
+      "type": "Event",
+      "aliases": [
+        "examination",
+        "inquiry"
+      ]
+    },
+    {
+      "name": "The murder of Mitya's father",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "So you positively declare that you are not guilty of the death of your father, Fyodor Pavlovitch?",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ENGAGED_TO",
+      "object": "Grushenka",
+      "quote": "Gentlemen, she is my betrothed!” he said ecstatically and reverently, looking round at them all.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Grusha, my life, my blood, my holy one!” Mitya fell on his knees beside her and held her tight in his arms.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Grigory Vassilyevitch",
+      "relation": "RAISED",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "That old man used to carry me in his arms, gentlemen. He used to wash me in the tub when I was a baby three years old, abandoned by every one, he was like a father to me!...",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "RELATED_TO",
+      "object": "Miüsov",
+      "quote": "I believe I’ve had the honor and pleasure of meeting you, Nikolay Parfenovitch, at my kinsman Miüsov’s.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "And the very same day, in the evening I beat my father. I nearly killed him, and I swore I’d come again and kill him, before witnesses....",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory Vassilyevitch",
+      "quote": "I am guilty of the blood of another old man but not of my father’s. And I weep for it! I killed, I killed the old man and knocked him down....",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Disputes about money?” “Yes, about money, too.” “There was a dispute about three thousand roubles, I think, which you",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "Death of Fyodor Pavlovitch",
+      "quote": "So you positively declare that you are not guilty of the death of your father, Fyodor Pavlovitch?",
+      "disputed": true,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "But, gentlemen, that woman is the queen of my heart. Oh, let me tell you that.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "Did you hear her cry, ‘I’ll go to death with you’? And what have I, a penniless beggar, done for her? Why such love for me?",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "The murder of Mitya's father",
+      "quote": "I’m struck all of a heap myself, for who can have murdered him, if not I? That’s what it comes to, isn’t it?",
+      "disputed": true,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "The interrogation of Dmitri Fyodorovitch Karamazov",
+      "quote": "When the scene was over, he came to himself again, sitting in the same place as before, opposite the investigating lawyer",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Nikolay Parfenovitch",
+      "relation": "PRESENT_AT",
+      "object": "The interrogation of Dmitri Fyodorovitch Karamazov",
+      "quote": "“We will continue,” interposed Nikolay Parfenovitch.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "Mihail Makarovitch",
+      "relation": "PRESENT_AT",
+      "object": "The interrogation of Dmitri Fyodorovitch Karamazov",
+      "quote": "At last Mihail Makarovitch, who had been absent, came hurriedly into the room, and said in a loud and excited voice to the prosecutor:",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    },
+    {
+      "subject": "The interrogation of Dmitri Fyodorovitch Karamazov",
+      "relation": "OCCURRED_AT",
+      "object": "The blue room",
+      "quote": "only into the room next but one from the blue room, in which the examination was proceeding.",
+      "disputed": false,
+      "first_revealed_index": 56,
+      "doc_id": "ch056",
+      "label_ko": "9편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

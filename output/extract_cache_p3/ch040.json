@@ -1,0 +1,160 @@
+{
+  "doc_id": "ch040",
+  "global_index": 40,
+  "label_ko": "6편 2장",
+  "entities": [
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Afanasy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Markel",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "K.",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Bible",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Afanasy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "the regiment",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Murder of the landowner's widow",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Siberia",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "New Testament",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "The Children's Magazine",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mihail",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Markel",
+      "relation": "BROTHER_OF",
+      "object": "Father Zossima",
+      "quote": "And then I remembered my brother Markel and what he said on his death-bed to his servants",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Afanasy",
+      "relation": "SERVANT_OF",
+      "object": "Father Zossima",
+      "quote": "He had not long been in my service and I had struck him before, but never with such ferocious cruelty.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "QUARRELS_WITH",
+      "object": "Afanasy",
+      "quote": "In the evening, returning home in a savage and brutal humor, I flew into a rage with my orderly Afanasy, and gave him two blows in the face with all my might, so that it was covered with blood.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "K.",
+      "quote": "After four years of this life, I chanced to be in the town of K. where our regiment was stationed at the time.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "POSSESSES",
+      "object": "Bible",
+      "quote": "I was fond of reading, yet strange to say, the Bible was the one book I never opened at that time, though I always carried it about with me, and I was never separated from it;",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Afanasy",
+      "relation": "MEMBER_OF",
+      "object": "the regiment",
+      "quote": "I had moved into her rooms simply because on my return from the duel I had sent Afanasy back to the regiment, as I felt ashamed to look him in the face after my last interview with him.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Pyotr",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of the landowner's widow",
+      "quote": "A serf of hers called Pyotr was at once suspected, and every circumstance confirmed the suspicion.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

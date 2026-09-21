@@ -1,0 +1,179 @@
+{
+  "doc_id": "ch017",
+  "global_index": 17,
+  "label_ko": "3편 4장",
+  "entities": [
+    {
+      "name": "Karamazov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Agafya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katenka",
+        "Katya"
+      ]
+    },
+    {
+      "name": "Trifonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "six thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "5,000 rouble banknote",
+      "type": "Object",
+      "aliases": [
+        "banknote for five thousand roubles"
+      ]
+    },
+    {
+      "name": "sword",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "I am speaking figuratively, brother. In the town I was in, there were no such back-alleys in the literal sense, but morally there were.",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "That rogue Grushenka has an eye for men. She told me once that she’d devour you one day.",
+      "disputed": true,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Agafya Ivanovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Karamazov",
+      "quote": "‘Ah, you scoundrel!’—that’s what she said. ‘You wicked scoundrel! How dare you!’",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "POSSESSES",
+      "object": "six thousand roubles",
+      "quote": "Just at that time father sent me six thousand roubles in return for my sending him a deed giving up all claims upon him",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Once I was bitten by a centipede, brother, and laid up a fortnight with fever from it.",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "POSSESSES",
+      "object": "5,000 rouble banknote",
+      "quote": "opened the drawer and took out a banknote for five thousand roubles (it was lying in a French dictionary).",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "5,000 rouble banknote",
+      "quote": "Then I showed it her in silence, folded it, handed it to her, opened the door into the passage, and, stepping back, made her a deep bow",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "POSSESSES",
+      "object": "sword",
+      "quote": "I was wearing my sword. I drew it and nearly stabbed myself with it on the spot; why, I don’t know.",
+      "disputed": false,
+      "first_revealed_index": 17,
+      "doc_id": "ch017",
+      "label_ko": "3편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

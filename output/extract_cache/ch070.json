@@ -1,0 +1,260 @@
+{
+  "doc_id": "ch070",
+  "global_index": 70,
+  "label_ko": "11편 1장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katerina"
+      ]
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": [
+        "Maximushka"
+      ]
+    },
+    {
+      "name": "Mr. Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pan Mussyalovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pan Vrublevsky",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "widow Morozov's house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katerina"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "The murder",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fenya",
+      "relation": "SERVANT_OF",
+      "object": "Grushenka",
+      "quote": "Fenya asked her mistress: “Is the gentleman going to stay the night, mistress?” “Yes; make him a bed on the sofa,” answered Grushenka.",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "ENGAGED_TO",
+      "object": "Mitya",
+      "quote": "betrothed to a man who had been arrested for a terrible crime, almost at the instant of their betrothal, in spite of her illness and the almost inevitable sentence hanging over Mitya",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "QUARRELS_WITH",
+      "object": "Mitya",
+      "quote": "We quarreled again, would you believe it? Whenever I go we quarrel.” Grushenka said all this in one breath in her agitation.",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "RIVAL_OF",
+      "object": "Katerina Ivanovna",
+      "quote": "The object of that uneasiness was the same as ever—Katerina Ivanovna, of whom Grushenka had even raved when she lay in delirium. Alyosha knew that she was fearfully jealous of her.",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "He loves you, that’s what it is: he loves you so much. And now he is particularly worried.",
+      "disputed": true,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LIVES_AT",
+      "object": "widow Morozov's house",
+      "quote": "Alyosha went towards the cathedral square to the widow Morozov’s house to see Grushenka",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "RIVAL_OF",
+      "object": "Pan Mussyalovitch",
+      "quote": "Only fancy, he is jealous of the Pole. ‘Why are you keeping him?’ he said. ‘So you’ve begun keeping him.’ He is jealous, jealous of me all the time, jealous eating and sleeping!",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Pan Mussyalovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Grushenka",
+      "quote": "In the letter was enclosed a receipt for the sum, with a promise to repay it within three months, signed by Pan Vrublevsky as well.",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "No, it’s not Rakitin; it’s his brother Ivan Fyodorovitch upsetting him.",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "First, that he loves you, loves you more than any one in the world, and you only, believe me.",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "So he loves her, if he’ll praise her to my face, more shame to him!",
+      "disputed": true,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "A week ago he suddenly told me that Ivan was in love with Katerina, because he often goes to see her.",
+      "disputed": true,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Grushenka",
+      "quote": "He’s treated me badly himself, so he attacked me, to make out I am in fault first and to throw it all on me.",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "The murder",
+      "quote": "prove that Mitya’s mad and committed the murder when he didn’t know what he was doing",
+      "disputed": false,
+      "first_revealed_index": 70,
+      "doc_id": "ch070",
+      "label_ko": "11편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

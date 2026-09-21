@@ -1,0 +1,286 @@
+{
+  "doc_id": "ch039",
+  "global_index": 39,
+  "label_ko": "6편 1장",
+  "entities": [
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima",
+        "the elder"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": [
+        "Païssy"
+      ]
+    },
+    {
+      "name": "Father Iosif",
+      "type": "Character",
+      "aliases": [
+        "Iosif"
+      ]
+    },
+    {
+      "name": "Father Mihaïl",
+      "type": "Character",
+      "aliases": [
+        "Mihaïl"
+      ]
+    },
+    {
+      "name": "Father Anfim",
+      "type": "Character",
+      "aliases": [
+        "Anfim"
+      ]
+    },
+    {
+      "name": "Porfiry",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lizaveta",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Markel",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Vishegorye",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Kostroma",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "V.",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Markel",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Cadet Corps",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "A Hundred and Four Stories from the Old and New Testament",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Jacob",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Joseph",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Benjamin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Judah",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Anfim",
+      "type": "Character",
+      "aliases": [
+        "Anfim"
+      ]
+    },
+    {
+      "name": "Egypt",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Russia",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Markel",
+      "relation": "BROTHER_OF",
+      "object": "Father Zossima",
+      "quote": "There were two of us, my elder brother Markel and I.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey Fyodorovitch Karamazov",
+      "quote": "Notes of the Life of the deceased Priest and Monk, the Elder Zossima, taken from his own words by Alexey Fyodorovitch Karamazov.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Porfiry",
+      "relation": "SERVANT_OF",
+      "object": "Father Zossima",
+      "quote": "Do you hear this, Porfiry?” he turned to the novice who waited on him.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LOVES",
+      "object": "Alexey Fyodorovitch Karamazov",
+      "quote": "Many times I’ve seen in your face as it were a look of mortification that I love Alexey more than you.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LOVES",
+      "object": "Porfiry",
+      "quote": "Now you know why that was so, but I love you too, know that, and many times I grieved at your mortification.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "Kostroma",
+      "quote": "when Father Zossima first began his life as a monk in a poor and little monastery at Kostroma",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "BROTHER_OF",
+      "object": "Markel",
+      "quote": "In the sixth week in Lent, my brother, who was never strong and had a tendency to consumption, was taken ill.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "Petersburg",
+      "quote": "She brought me to Petersburg and put me into the Cadet Corps, and I never saw her again.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MEMBER_OF",
+      "object": "Cadet Corps",
+      "quote": "She brought me to Petersburg and put me into the Cadet Corps, and I never saw her again.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "POSSESSES",
+      "object": "A Hundred and Four Stories from the Old and New Testament",
+      "quote": "called _A Hundred and Four Stories from the Old and New Testament_, and I learned to read from it.",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Jacob",
+      "relation": "FATHER_OF",
+      "object": "Joseph",
+      "quote": "how happy old Jacob was on learning that his darling boy was still alive, and how he went to Egypt leaving his own country",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Joseph",
+      "relation": "BROTHER_OF",
+      "object": "Benjamin",
+      "quote": "tormented them, accused them, kept his brother Benjamin, and all through love: “I love you, and loving you I torment you.”",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Benjamin",
+      "relation": "BROTHER_OF",
+      "object": "Joseph",
+      "quote": "tormented them, accused them, kept his brother Benjamin, and all through love: “I love you, and loving you I torment you.”",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    },
+    {
+      "subject": "Jacob",
+      "relation": "RELATED_TO",
+      "object": "Judah",
+      "quote": "bequeathing his great prophecy that had lain mysteriously hidden in his meek and timid heart all his life, that from his offspring, from Judah, will come the great hope of the world",
+      "disputed": false,
+      "first_revealed_index": 39,
+      "doc_id": "ch039",
+      "label_ko": "6편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

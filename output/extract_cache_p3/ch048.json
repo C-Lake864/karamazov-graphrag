@@ -1,0 +1,446 @@
+{
+  "doc_id": "ch048",
+  "global_index": 48,
+  "label_ko": "8편 3장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch's house",
+      "type": "Place",
+      "aliases": [
+        "Fyodor Pavlovitch's"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov's house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Metropolis tavern",
+      "type": "Place",
+      "aliases": [
+        "Metropolis"
+      ]
+    },
+    {
+      "name": "dueling pistols",
+      "type": "Object",
+      "aliases": [
+        "pistols"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Belmesov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Shtchedrin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "tiny silver ikon",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Fyodorovitch",
+        "the captain"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Madame Hohlakov"
+      ]
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katerina Ivanovna"
+      ]
+    },
+    {
+      "name": "Kuzma Kuzmitch Samsonov",
+      "type": "Character",
+      "aliases": [
+        "Kuzma Kuzmitch",
+        "Samsonov"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna Svetlova",
+      "type": "Character",
+      "aliases": [
+        "Agrafena Alexandrovna",
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": [
+        "Fenya"
+      ]
+    },
+    {
+      "name": "Matryona",
+      "type": "Character",
+      "aliases": [
+        "Matryona"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov's house",
+      "type": "Place",
+      "aliases": [
+        "Hohlakovs’ house"
+      ]
+    },
+    {
+      "name": "Grushenka's house",
+      "type": "Place",
+      "aliases": [
+        "house where Grushenka lived"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": [
+        "Mokroe"
+      ]
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": [
+        "pestle",
+        "small brass pestle"
+      ]
+    },
+    {
+      "name": "3000 roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "At the sight of Grushenka, Mitya’s jealousy vanished, and, for an instant he became trustful and generous, and positively despised himself for his evil feelings.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "She had detested him from the first because he was engaged to Katerina Ivanovna, while she had, for some reason, suddenly conceived the desire that Katerina Ivanovna should throw him over",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "he heard with interest, too, that his brother Ivan had set off that morning for Moscow.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "dueling pistols",
+      "quote": "He had a brace of fine dueling pistols in a case, which he had not pawned till then because he prized them above all his possessions.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Marya Kondratyevna",
+      "relation": "LIVES_AT",
+      "object": "Fyodor Pavlovitch's house",
+      "quote": "From Marya Kondratyevna (the woman living near Fyodor Pavlovitch’s) he learned the very disturbing fact of Smerdyakov’s illness.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "She had detested him from the first because he was engaged to Katerina Ivanovna",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "PRESENT_AT",
+      "object": "Metropolis tavern",
+      "quote": "In the “Metropolis” tavern he had some time since made acquaintance with a young official and had learnt that this very opulent bachelor was passionately fond of weapons.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "PRESENT_AT",
+      "object": "Madame Hohlakov's house",
+      "quote": "Yet, when he mounted the steps of Madame Hohlakov’s house he felt a shiver of fear run down his spine.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "PRESENT_AT",
+      "object": "Fyodor Pavlovitch's house",
+      "quote": "Ivan Fyodorovitch had been there the night; everything had been perfectly as usual.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "RELATED_TO",
+      "object": "Madame Belmesov",
+      "quote": "You have most likely heard of my cousin, Madame Belmesov.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Shtchedrin",
+      "relation": "MENTOR_OF",
+      "object": "Madame Hohlakov",
+      "quote": "I wrote a letter to the author, Shtchedrin, on that subject. He has taught me so much, so much about the vocation of woman.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Miüsov",
+      "quote": "I’m quarreling with my steward about it, and I’ve just borrowed five hundred roubles from Miüsov, myself.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "tiny silver ikon",
+      "quote": "In extreme embarrassment, Mitya bent down and helped her, and at last he got it under his neck-tie and collar through his shirt to his chest.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Pyotr Alexandrovitch Miüsov",
+      "quote": "ust borrowed five hundred roubles from Miüsov, myself. No, no, I’ve no money.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "if he did not get hold of the three thousand that would pay his debt to Katerina Ivanovna",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Matryona",
+      "relation": "RELATED_TO",
+      "object": "Fenya",
+      "quote": "Fenya was sitting with her grandmother, the old cook, Matryona, in the kitchen",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "brass pestle",
+      "quote": "Mitya already had opened the door with one hand when, with the other, he snatched up the pestle, and thrust it in his side-pocket.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna Svetlova",
+      "relation": "LIVES_AT",
+      "object": "Grushenka's house",
+      "quote": "He ran with all his might to the house where Grushenka lived.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "LIVES_AT",
+      "object": "Madame Hohlakov's house",
+      "quote": "burst out crying like a little child a few steps from the Hohlakovs’ house.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,172 @@
+{
+  "doc_id": "ch027",
+  "global_index": 27,
+  "label_ko": "4편 3장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Krassotkin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Wisp of Tow",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihailovsky Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "High Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Schoolboys' stone fight",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha's meeting with Grushenka",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Handkerchief",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha",
+      "relation": "PRESENT_AT",
+      "object": "Alyosha's meeting with Grushenka",
+      "quote": "or I might have to tell him of my meeting with Grushenka yesterday.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "PRESENT_AT",
+      "object": "Alyosha's meeting with Grushenka",
+      "quote": "or I might have to tell him of my meeting with Grushenka yesterday.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "PRESENT_AT",
+      "object": "Schoolboys' stone fight",
+      "quote": "Both sides threw stones incessantly. Many of the group had their pockets full too. “What are you about! Aren’t you ashamed? Six against one! Why, you’ll kill him,” cried Alyosha.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Smurov",
+      "relation": "PRESENT_AT",
+      "object": "Schoolboys' stone fight",
+      "quote": "“Give it him, hit him back, Smurov,” they all shouted. But Smurov, the left-handed boy, needed no telling, and at once revenged himself;",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Wisp of Tow",
+      "relation": "PRESENT_AT",
+      "object": "Schoolboys' stone fight",
+      "quote": "They all shouted: “Aha, he is funking, he is running away. Wisp of tow!”",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Schoolboys' stone fight",
+      "relation": "OCCURRED_AT",
+      "object": "Mihailovsky Street",
+      "quote": "coming out into Mihailovsky Street, which is divided by a small ditch from the High Street (our whole town is intersected by ditches), he saw a group of schoolboys",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Wisp of Tow",
+      "relation": "QUARRELS_WITH",
+      "object": "Krassotkin",
+      "quote": "He is a beast, he stabbed Krassotkin in class the other day with a penknife.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Wisp of Tow",
+      "relation": "QUARRELS_WITH",
+      "object": "Smurov",
+      "quote": "“But I hit Smurov on the head!” cried the boy.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Wisp of Tow",
+      "relation": "QUARRELS_WITH",
+      "object": "Alyosha",
+      "quote": "he flew at Alyosha himself, and before Alyosha had time to move, the spiteful child had seized his left hand with both of his and bit his middle finger.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "POSSESSES",
+      "object": "Handkerchief",
+      "quote": "Alyosha took out his handkerchief and bound it tightly round his injured hand.",
+      "disputed": false,
+      "first_revealed_index": 27,
+      "doc_id": "ch027",
+      "label_ko": "4편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

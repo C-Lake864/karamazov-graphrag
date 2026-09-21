@@ -1,0 +1,205 @@
+{
+  "doc_id": "ch025",
+  "global_index": 25,
+  "label_ko": "4편 1장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Prohorovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Vassenka",
+      "type": "Character",
+      "aliases": [
+        "Vassya"
+      ]
+    },
+    {
+      "name": "Father Ferapont",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Iona",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Ferapont",
+      "type": "Character",
+      "aliases": [
+        "Ferapont"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": [
+        "Païssy"
+      ]
+    },
+    {
+      "name": "Father Iosif",
+      "type": "Character",
+      "aliases": [
+        "Iosif"
+      ]
+    },
+    {
+      "name": "Porfiry",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Ferapont's cell",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Prohorovna",
+      "relation": "FATHER_OF",
+      "object": "Vassenka",
+      "quote": "an old woman from the town, a sergeant's widow, called Prohorovna. She had inquired whether she might pray for the rest of the soul of her son, Vassenka",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "“I’ve been teaching you so many years, and therefore I’ve been talking aloud so many years, that I’ve got into the habit of talking",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    },
+    {
+      "subject": "Father Ferapont",
+      "relation": "QUARRELS_WITH",
+      "object": "Father Zossima",
+      "quote": "This Father Ferapont was that aged monk so devout in fasting and observing silence who has been mentioned already, as antagonistic to Father Zossima",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    },
+    {
+      "subject": "Father Païssy",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "he suddenly realized that he had met a new and unexpected friend, a warmly loving teacher, in this austere monk who had hitherto treated him sternly.",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "Remember this especially, young man, since you are being sent into the world by your departing elder.",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "LOVES",
+      "object": "Father Zossima",
+      "quote": "To you, dear son, because you love me. But now go to keep your promise.",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    },
+    {
+      "subject": "Father Ferapont",
+      "relation": "LIVES_AT",
+      "object": "Father Ferapont's cell",
+      "quote": "Father Ferapont was sitting at the door of his cell on a low bench.",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    },
+    {
+      "subject": "Father Païssy",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "As Alyosha left the monastery and thought them over, he suddenly realized that he had met a new and unexpected friend, a warmly loving teacher, in this austere monk who had hitherto treated him sternly.",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "oung man, since you are being sent into the world by your departing elder.",
+      "disputed": false,
+      "first_revealed_index": 25,
+      "doc_id": "ch025",
+      "label_ko": "4편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

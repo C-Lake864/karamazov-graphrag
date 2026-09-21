@@ -1,0 +1,134 @@
+{
+  "doc_id": "ch006",
+  "global_index": 6,
+  "label_ko": "2편 1장",
+  "entities": [
+    {
+      "name": "Pyotr Alexandrovitch Mi#sov",
+      "type": "Character",
+      "aliases": [
+        "Mi#sov",
+        "Pyotr Alexandrovitch"
+      ]
+    },
+    {
+      "name": "Pyotr Fomitch Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Kalganov",
+        "young Kalganov"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima",
+        "the elder"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varsonofy",
+      "type": "Character",
+      "aliases": [
+        "elder Varsonofy"
+      ]
+    },
+    {
+      "name": "the monastery",
+      "type": "Place",
+      "aliases": [
+        "monastery"
+      ]
+    },
+    {
+      "name": "the hermitage",
+      "type": "Place",
+      "aliases": [
+        "hermitage"
+      ]
+    },
+    {
+      "name": "Interview with Elder Zossima",
+      "type": "Event",
+      "aliases": [
+        "interview with the elder"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "the hermitage",
+      "quote": "“Father Zossima lives in the hermitage, apart, four hundred paces from the monastery, the other side of the copse.”",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Mi#sov",
+      "relation": "PRESENT_AT",
+      "object": "Interview with Elder Zossima",
+      "quote": "The interview with the elder had been fixed for half-past eleven, immediately after late mass. Our visitors did not take part in the service, but arrived just as it was over.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "PRESENT_AT",
+      "object": "Interview with Elder Zossima",
+      "quote": "The interview with the elder had been fixed for half-past eleven, immediately after late mass. Our visitors did not take part in the service, but arrived just as it was over.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Interview with Elder Zossima",
+      "relation": "OCCURRED_AT",
+      "object": "the hermitage",
+      "quote": "“Father Zossima lives in the hermitage, apart, four hundred paces from the monastery, the other side of the copse.”",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    }
+  ],
+  "dropped_unquoted": 3
+}

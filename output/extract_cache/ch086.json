@@ -1,0 +1,207 @@
+{
+  "doc_id": "ch086",
+  "global_index": 86,
+  "label_ko": "12편 7장",
+  "entities": [
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "prisoner"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "the old man"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "young person",
+        "the enchantress"
+      ]
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "the prosecutor"
+      ]
+    },
+    {
+      "name": "Mr. Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Rakitin"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": [
+        "pestle"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "the murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "the murder"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "suspecting that she would go to Fyodor Pavlovitch in his absence, he returned at last to the town, to find, to his joy, that she had not been near his father.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Here Ippolit Kirillovitch described at length the prisoner’s fatal passion for Grushenka.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "At the same time the prisoner’s father was captivated by the same young person—a strange and fatal coincidence, for they both lost their hearts to her simultaneously, though both had known her before.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "when he knelt before her, stretching out hands that were already stained with the blood of his father and rival.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "that very three thousand roubles, which the son looked upon as his own property, part of his inheritance from his mother, of which his father was cheating him.",
+      "disputed": true,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "brass pestle",
+      "quote": "But note, frantic as he was, he took with him a brass pestle.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "The old man, who worshiped money, at once set aside three thousand roubles as a reward for one visit from her",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "the murder of Fyodor Pavlovitch",
+      "quote": "And, in fact, from that letter we see that the whole fact of the murder was premeditated.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "the murder of Fyodor Pavlovitch",
+      "quote": "At this point Ippolit Kirillovitch broke off to discuss exhaustively the suspected connection of Smerdyakov with the murder.",
+      "disputed": true,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "and there learns that Smerdyakov is in a fit, that the other servant is ill—the coast is clear and he knows the ‘signals’",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LIVES_AT",
+      "object": "Mokroe",
+      "quote": "Had the maid told him that her mistress was at Mokroe with her former lover, nothing would have happened.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

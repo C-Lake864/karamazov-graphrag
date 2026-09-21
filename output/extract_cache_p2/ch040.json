@@ -1,0 +1,228 @@
+{
+  "doc_id": "ch040",
+  "global_index": 40,
+  "label_ko": "6편 2장",
+  "entities": [
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Afanasy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Markel",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "K.",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "The Bible",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "The Duel",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Afanasy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr",
+      "type": "Character",
+      "aliases": [
+        "the prisoner",
+        "the servant",
+        "the innocent servant"
+      ]
+    },
+    {
+      "name": "The Landowner's Widow",
+      "type": "Character",
+      "aliases": [
+        "the widow of a landowner",
+        "a wealthy and handsome young woman"
+      ]
+    },
+    {
+      "name": "The Mysterious Visitor",
+      "type": "Character",
+      "aliases": [
+        "my mysterious visitor",
+        "my friend"
+      ]
+    },
+    {
+      "name": "The Officer",
+      "type": "Character",
+      "aliases": [
+        "an officer of noble birth"
+      ]
+    },
+    {
+      "name": "The Murder of the Landowner's Widow",
+      "type": "Event",
+      "aliases": [
+        "the murder",
+        "his crime"
+      ]
+    },
+    {
+      "name": "Siberia",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "New Testament",
+      "type": "Object",
+      "aliases": [
+        "Gospel of St. John",
+        "Epistle to the Hebrews"
+      ]
+    },
+    {
+      "name": "The Children’s Magazine",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mihail",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "dagger",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Markel",
+      "relation": "BROTHER_OF",
+      "object": "Father Zossima",
+      "quote": "And then I remembered my brother Markel and what he said on his death-bed to his servants",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Afanasy",
+      "relation": "SERVANT_OF",
+      "object": "Father Zossima",
+      "quote": "In the evening, returning home in a savage and brutal humor, I flew into a rage with my orderly Afanasy",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "QUARRELS_WITH",
+      "object": "Afanasy",
+      "quote": "I flew into a rage with my orderly Afanasy, and gave him two blows in the face with all my might, so that it was covered with blood.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "POSSESSES",
+      "object": "The Bible",
+      "quote": "the Bible was the one book I never opened at that time, though I always carried it about with me, and I was never separated from it",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "K.",
+      "quote": "After four years of this life, I chanced to be in the town of K. where our regiment was stationed at the time.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "PRESENT_AT",
+      "object": "The Duel",
+      "quote": "We were placed twelve paces apart; he had the first shot. I stood gayly, looking him full in the face; I did not twitch an eyelash",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Pyotr",
+      "relation": "SERVANT_OF",
+      "object": "The Landowner's Widow",
+      "quote": "A serf of hers called Pyotr was at once suspected, and every circumstance confirmed the suspicion.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Pyotr",
+      "relation": "ACCUSED_OF",
+      "object": "The Murder of the Landowner's Widow",
+      "quote": "They arrested him, and he was tried for the murder; but a week after the arrest, the prisoner fell sick of a fever and died unconscious in the hospital.",
+      "disputed": true,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "The Mysterious Visitor",
+      "relation": "LOVES",
+      "object": "The Landowner's Widow",
+      "quote": "He fell passionately in love with her, declared his feeling and tried to persuade her to marry him.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "The Landowner's Widow",
+      "relation": "LOVES",
+      "object": "The Officer",
+      "quote": "But she had already given her heart to another man, an officer of noble birth and high rank in the service",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "The Mysterious Visitor",
+      "relation": "PRESENT_AT",
+      "object": "The Murder of the Landowner's Widow",
+      "quote": "He made his way in the dark to her bedroom, where a light was burning.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

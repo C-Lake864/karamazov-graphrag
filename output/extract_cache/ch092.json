@@ -1,0 +1,56 @@
+{
+  "doc_id": "ch092",
+  "global_index": 92,
+  "label_ko": "12편 13장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "old Karamazov"
+      ]
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": [
+        "Herzenstube"
+      ]
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": [
+        "fatal pestle"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fetyukovitch",
+      "relation": "LIVES_AT",
+      "object": "Petersburg",
+      "quote": "I will not yield the defense of the prisoner to the lawyer who has come down from Petersburg.",
+      "disputed": false,
+      "first_revealed_index": 92,
+      "doc_id": "ch092",
+      "label_ko": "12편 13장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,276 @@
+{
+  "doc_id": "ch042",
+  "global_index": 42,
+  "label_ko": "7편 1장",
+  "entities": [
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "elder"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Iosif",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Job",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Varsonofy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Hermitage",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Death of Father Zossima",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Decomposition of Father Zossima's body",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "ikon of the Saviour",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": [
+        "Païssy"
+      ]
+    },
+    {
+      "name": "Father Iosif",
+      "type": "Character",
+      "aliases": [
+        "Iosif"
+      ]
+    },
+    {
+      "name": "Father Ferapont",
+      "type": "Character",
+      "aliases": [
+        "Ferapont"
+      ]
+    },
+    {
+      "name": "Father Varsonofy",
+      "type": "Character",
+      "aliases": [
+        "Varsonofy"
+      ]
+    },
+    {
+      "name": "monk from Obdorsk",
+      "type": "Character",
+      "aliases": [
+        "the monk from Obdorsk"
+      ]
+    },
+    {
+      "name": "Athos",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "cruel irons",
+      "type": "Object",
+      "aliases": [
+        "irons"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": [
+        "Païssy"
+      ]
+    },
+    {
+      "name": "Father Ferapont",
+      "type": "Character",
+      "aliases": [
+        "Ferapont"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima",
+        "the elder",
+        "dead elder"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Hermitage",
+      "type": "Place",
+      "aliases": [
+        "hermitage"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "POSSESSES",
+      "object": "ikon of the Saviour",
+      "quote": "In his hands was put an ikon of the Saviour.",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Death of Father Zossima",
+      "relation": "OCCURRED_AT",
+      "object": "Hermitage",
+      "quote": "waked and heard of the death of Father Zossima, she was overtaken with such intense curiosity that she promptly dispatched Rakitin to the hermitage",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Decomposition of Father Zossima's body",
+      "relation": "OCCURRED_AT",
+      "object": "Hermitage",
+      "quote": "by three o’clock those signs had become so clear and unmistakable, that the news swiftly reached all the monks and visitors in the hermitage",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Father Païssy",
+      "relation": "LIVES_AT",
+      "object": "Hermitage",
+      "quote": "As he walked round the hermitage, Father Païssy remembered Alyosha",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "PRESENT_AT",
+      "object": "Decomposition of Father Zossima's body",
+      "quote": "exerted a very strong influence on the heart and soul of the chief, though future, hero of my story, Alyosha, forming a crisis and turning-point in his spiritual development",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Father Ferapont",
+      "relation": "QUARRELS_WITH",
+      "object": "Father Zossima",
+      "quote": "As every one was aware, Father Ferapont particularly disliked Father Zossima.",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Father Ferapont",
+      "relation": "QUARRELS_WITH",
+      "object": "Father Païssy",
+      "quote": "“What have I come for? You ask why? What is your faith?” shouted Father Ferapont crazily.",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Father Ferapont",
+      "relation": "POSSESSES",
+      "object": "cruel irons",
+      "quote": "As soon as he began waving his arms, the cruel irons he wore under his gown could be heard clanking.",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "his former guide, the former sovereign of his heart and mind, his beloved elder, had confided him as he lay dying.",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Father Ferapont",
+      "relation": "QUARRELS_WITH",
+      "object": "Father Païssy",
+      "quote": "“I’ve come here to drive out your visitors, the unclean devils. I’ve come to see how many have gathered here while I have been away. I want to sweep them out with a birch broom.”",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "LIVES_AT",
+      "object": "Hermitage",
+      "quote": "“Are you leaving the hermitage? What, without asking leave, without asking a blessing?”",
+      "disputed": false,
+      "first_revealed_index": 42,
+      "doc_id": "ch042",
+      "label_ko": "7편 1장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

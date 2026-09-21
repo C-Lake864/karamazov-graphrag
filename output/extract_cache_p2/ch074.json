@@ -1,0 +1,254 @@
+{
+  "doc_id": "ch074",
+  "global_index": 74,
+  "label_ko": "11편 5장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise's note",
+      "type": "Object",
+      "aliases": [
+        "letter"
+      ]
+    },
+    {
+      "name": "document in Mitya's writing",
+      "type": "Object",
+      "aliases": [
+        "document"
+      ]
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "murder"
+      ]
+    },
+    {
+      "name": "house of working people",
+      "type": "Place",
+      "aliases": [
+        "lodgings"
+      ]
+    },
+    {
+      "name": "lodge attached to a fine house",
+      "type": "Place",
+      "aliases": [
+        "lodge"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna's lodging",
+      "type": "Place",
+      "aliases": [
+        "a tiny, slanting, wooden house"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch's death",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "as they met, he recognized him as his brother.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Alyosha saw at once that she had asked Ivan that question before, perhaps only a moment before he came in, and not for the first time, but for the hundredth, and that they had ended by quarreling.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "It was you, you who persuaded me that he murdered his father. It’s only you I believed!",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "It was you, you who persuaded me that he murdered his father.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "She’s got a document in her hands, in Mitya’s own writing, that proves conclusively that he did murder Fyodor Pavlovitch.",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "document in Mitya's writing",
+      "quote": "She’s got a document in her hands, in Mitya’s own writing, that proves conclusively that he did murder Fyodor Pavlovitch.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "Lise's note",
+      "quote": "and he took Lise’s note from his pocket and held it out to Ivan.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Fyodorovitch",
+      "quote": "“Katerina Ivanovna loves you, brother,” said Alyosha sadly.",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Fyodorovitch",
+      "quote": "I break off all relations with you from this moment and probably for ever.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "house of working people",
+      "quote": "Alyosha had a furnished room in the house of some working people.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "lodge attached to a fine house",
+      "quote": "He had taken a roomy and fairly comfortable lodge attached to a fine house",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Marya Kondratyevna",
+      "relation": "LIVES_AT",
+      "object": "Marya Kondratyevna's lodging",
+      "quote": "She had sold their little house, and was now living here with her mother.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LIVES_AT",
+      "object": "Marya Kondratyevna's lodging",
+      "quote": "Smerdyakov, who was ill—almost dying—had been with them ever since Fyodor Pavlovitch’s death.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

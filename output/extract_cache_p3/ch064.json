@@ -1,0 +1,143 @@
+{
+  "doc_id": "ch064",
+  "global_index": 64,
+  "label_ko": "10편 2장",
+  "entities": [
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Krassotkin",
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Madame Krassotkin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Anna Fyodorovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agafya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nastya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kostya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "little bronze cannon",
+      "type": "Object",
+      "aliases": [
+        "cannon"
+      ]
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Krassotkin",
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Agafya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Agafya",
+      "relation": "SERVANT_OF",
+      "object": "Madame Krassotkin",
+      "quote": "Agafya, Madame Krassotkin’s servant, a stout woman of forty, marked with small-pox, appeared in the doorway.",
+      "disputed": false,
+      "first_revealed_index": 64,
+      "doc_id": "ch064",
+      "label_ko": "10편 2장"
+    },
+    {
+      "subject": "Kostya",
+      "relation": "BROTHER_OF",
+      "object": "Nastya",
+      "quote": "Nastya, the elder, a girl of eight, could read, and Kostya, the boy, aged seven, was very fond of being read to by her.",
+      "disputed": false,
+      "first_revealed_index": 64,
+      "doc_id": "ch064",
+      "label_ko": "10편 2장"
+    },
+    {
+      "subject": "Kostya",
+      "relation": "QUARRELS_WITH",
+      "object": "Nastya",
+      "quote": "They were both sitting as before at the table, not reading but warmly disputing about something.",
+      "disputed": false,
+      "first_revealed_index": 64,
+      "doc_id": "ch064",
+      "label_ko": "10편 2장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "POSSESSES",
+      "object": "little bronze cannon",
+      "quote": "Krassotkin put his hand in his satchel, and pulling out a little bronze cannon stood it on the table.",
+      "disputed": false,
+      "first_revealed_index": 64,
+      "doc_id": "ch064",
+      "label_ko": "10편 2장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "QUARRELS_WITH",
+      "object": "Agafya",
+      "quote": "“Why are you late, female?” asked Krassotkin sternly. “Female, indeed! Go on with you, you brat.”",
+      "disputed": false,
+      "first_revealed_index": 64,
+      "doc_id": "ch064",
+      "label_ko": "10편 2장"
+    },
+    {
+      "subject": "Agafya",
+      "relation": "SERVANT_OF",
+      "object": "Kolya Krassotkin",
+      "quote": "She seemed quite pleased, in fact, to enjoy a skirmish with her merry young master.",
+      "disputed": false,
+      "first_revealed_index": 64,
+      "doc_id": "ch064",
+      "label_ko": "10편 2장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "QUARRELS_WITH",
+      "object": "Agafya",
+      "quote": "“Why are you late, female?” asked Krassotkin sternly. “Female, indeed! Go on with you, you brat.”",
+      "disputed": false,
+      "first_revealed_index": 64,
+      "doc_id": "ch064",
+      "label_ko": "10편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

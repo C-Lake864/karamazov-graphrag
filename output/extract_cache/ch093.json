@@ -1,0 +1,159 @@
+{
+  "doc_id": "ch093",
+  "global_index": 93,
+  "label_ko": "12편 14장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Mitenka"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "envelope",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Trial of Mitya",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Mitenka"
+      ]
+    },
+    {
+      "name": "Katya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "The trial",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "The murder",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "envelope",
+      "quote": "Fyodor Pavlovitch, while waiting for his mistress, tears open the envelope and throws it on the floor.",
+      "disputed": true,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Fetyukovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Ippolit Kirillovitch",
+      "quote": "As for the prosecutor’s charge of uttering unorthodox opinions, Fetyukovitch hinted that it was a personal insinuation",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "Trial of Mitya",
+      "quote": "Then the prisoner was allowed to speak. Mitya stood up, but said very little.",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Ippolit Kirillovitch",
+      "relation": "PRESENT_AT",
+      "object": "Trial of Mitya",
+      "quote": "And it was at this moment that Ippolit Kirillovitch got up to make certain objections.",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "I thank the prosecutor, he told me many things about myself that I did not know; but it’s not true that I killed my father, the prosecutor is mistaken.",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "The murder",
+      "quote": "“Did the prisoner commit the murder for the sake of robbery and with premeditation?”",
+      "disputed": true,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "The trial",
+      "quote": "At that instant Mitya suddenly stood up and cried in a heartrending voice, stretching his hands out before him:",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "PRESENT_AT",
+      "object": "The trial",
+      "quote": "From the farthest corner at the back of the gallery came a piercing shriek—it was Grushenka. She had succeeded in begging admittance to the court again",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

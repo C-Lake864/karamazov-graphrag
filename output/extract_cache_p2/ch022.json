@@ -1,0 +1,174 @@
+{
+  "doc_id": "ch022",
+  "global_index": 22,
+  "label_ko": "3편 9장",
+  "entities": [
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Æsop",
+        "the old man",
+        "father"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "old servant"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "the monastery",
+      "type": "Place",
+      "aliases": [
+        "monastery"
+      ]
+    },
+    {
+      "name": "the key",
+      "type": "Object",
+      "aliases": [
+        "key"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "“He’s ‘insulted’ his father, not only you,” observed Ivan with a forced smile.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "“What does Ivan say? Alyosha, my dear, my only son, I’m afraid of Ivan.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "“Why do you run after him? He’ll murder you outright,” Ivan cried wrathfully at his father.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Alyosha felt that his brother had taken the first step towards him, and that he had certainly done this with some definite motive.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Dmitri",
+      "quote": "“I used to wash him in his tub. He’s insulted me,” repeated Grigory.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "Beside himself with fury, Dmitri struck out, and hit Grigory with all his might.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "But Dmitri threw up both hands and suddenly clutched the old man by the two tufts of hair that remained on his temples, tugged at them, and flung him with a crash on the floor.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "POSSESSES",
+      "object": "the key",
+      "quote": "He had, of course, found the other entrance locked, and the key actually was in Fyodor Pavlovitch’s pocket.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "RIVAL_OF",
+      "object": "Dmitri",
+      "quote": "see for yourself, which she means to choose, him or me. Eh? What? Can you?",
+      "disputed": true,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "LIVES_AT",
+      "object": "the monastery",
+      "quote": "And I’ll let you go back to the monastery.... I was joking this morning, don’t be angry with me.",
+      "disputed": false,
+      "first_revealed_index": 22,
+      "doc_id": "ch022",
+      "label_ko": "3편 9장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

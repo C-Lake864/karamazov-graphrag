@@ -1,0 +1,167 @@
+{
+  "doc_id": "ch035",
+  "global_index": 35,
+  "label_ko": "5편 4장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "John the Merciful",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Richard",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Geneva",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Bulgaria",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nekrassov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Richard",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "“Brother, what are you driving at?” asked Alyosha.",
+      "disputed": false,
+      "first_revealed_index": 35,
+      "doc_id": "ch035",
+      "label_ko": "5편 4장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "“By the way, a Bulgarian I met lately in Moscow,” Ivan went on, seeming not to hear his brother’s words",
+      "disputed": false,
+      "first_revealed_index": 35,
+      "doc_id": "ch035",
+      "label_ko": "5편 4장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "“Father Zossima has talked of that more than once,” observed Alyosha; “he, too, said that the face of a man often hinders many people not practiced in love, from loving him.",
+      "disputed": false,
+      "first_revealed_index": 35,
+      "doc_id": "ch035",
+      "label_ko": "5편 4장"
+    },
+    {
+      "subject": "Richard",
+      "relation": "LIVES_AT",
+      "object": "Geneva",
+      "quote": "The savage began to earn his living as a day laborer in Geneva.",
+      "disputed": false,
+      "first_revealed_index": 35,
+      "doc_id": "ch035",
+      "label_ko": "5편 4장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha Karamazov",
+      "quote": "Do you understand that, friend and brother, you pious and humble novice?",
+      "disputed": false,
+      "first_revealed_index": 35,
+      "doc_id": "ch035",
+      "label_ko": "5편 4장"
+    },
+    {
+      "subject": "Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha Karamazov",
+      "quote": "You are dear to me, I don’t want to let you go, and I won’t give you up to your Zossima.",
+      "disputed": false,
+      "first_revealed_index": 35,
+      "doc_id": "ch035",
+      "label_ko": "5편 4장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "“No, I can’t admit it. Brother,” said Alyosha suddenly, with flashing eyes",
+      "disputed": false,
+      "first_revealed_index": 35,
+      "doc_id": "ch035",
+      "label_ko": "5편 4장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "“No, I can’t admit it. Brother,” said Alyosha suddenly, with flashing eyes",
+      "disputed": false,
+      "first_revealed_index": 35,
+      "doc_id": "ch035",
+      "label_ko": "5편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,19 @@
+{
+  "doc_id": "ch092",
+  "global_index": 92,
+  "label_ko": "12편 13장",
+  "entities": [
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Russia",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [],
+  "dropped_unquoted": 0
+}

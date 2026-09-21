@@ -1,0 +1,220 @@
+{
+  "doc_id": "ch013",
+  "global_index": 13,
+  "label_ko": "2편 8장",
+  "entities": [
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov",
+        "Pyotr Alexandrovitch"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Father Iosif",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Pyotr Alexandrovitch",
+      "type": "Character",
+      "aliases": [
+        "Mi#sov"
+      ]
+    },
+    {
+      "name": "Father Superior",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Iosif",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Pa#ssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": [
+        "von Sohn"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "begged me, and his son Ivan Fyodorovitch, to convey to you his apologies and regrets.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey",
+      "quote": "My son, Alexey, is here, being saved. I am his father; I care for his welfare, and it is my duty to care.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "RELATED_TO",
+      "object": "Pyotr Alexandrovitch Miüsov",
+      "quote": "You stung him by what you said about family harmony, Father Superior, he does not admit he is my relation.",
+      "disputed": true,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "He felt that he ought to have disdained that despicable wretch, Fyodor Pavlovitch, too much to have been upset by him in Father Zossima’s cell, and so to have forgotten himself.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "My son, Alexey, is here, being saved. I am his father; I care for his welfare, and it is my duty to care.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Father Iosif",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "Father Iosif, Father Païssy, and one other monk were the only inmates of the monastery invited.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Father Païssy",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "Father Iosif, Father Païssy, and one other monk were the only inmates of the monastery invited.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey",
+      "quote": "at the first opportunity I shall write to the Synod, and I shall take my son, Alexey, home.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Ivan Fyodorovitch, my most dutiful son, permit me to order you to follow me.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Maximov",
+      "quote": "Ivan, who had by now taken his seat, without a word gave Maximov a violent punch in the breast and sent him flying.",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Father Superior",
+      "quote": "Holy Father, I am indignant with you. Confession is a great sacrament, before which I am ready to bow down reverently",
+      "disputed": false,
+      "first_revealed_index": 13,
+      "doc_id": "ch013",
+      "label_ko": "2편 8장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,195 @@
+{
+  "doc_id": "ch028",
+  "global_index": 28,
+  "label_ko": "4편 4장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "mamma"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov's house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Alexey Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": [
+        "Lise"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Madame Hohlakov",
+        "mamma"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katerina Ivanovna"
+      ]
+    },
+    {
+      "name": "Ivan Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": [
+        "monastery"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "LIVES_AT",
+      "object": "Madame Hohlakov's house",
+      "quote": "Alyosha soon reached Madame Hohlakov’s house, a handsome stone house of two stories, one of the finest in our town.",
+      "disputed": false,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "And your brother Dmitri Fyodorovitch, what do you think of him?—my goodness!",
+      "disputed": false,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "your brother is in there with her, not that dreadful brother who was so shocking yesterday, but the other, Ivan Fyodorovitch",
+      "disputed": false,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "I believe I couldn’t find a better wife than you, and Father Zossima tells me I must marry.",
+      "disputed": false,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "ENGAGED_TO",
+      "object": "Lise",
+      "quote": "when you reach the legal age we will be married. I shall love you.",
+      "disputed": true,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    },
+    {
+      "subject": "Ivan Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch Karamazov",
+      "quote": "She loves your brother, Ivan, and she is doing her utmost to persuade herself she loves your brother, Dmitri.",
+      "disputed": false,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch Karamazov",
+      "quote": "She loves your brother, Ivan, and she is doing her utmost to persuade herself she loves your brother, Dmitri.",
+      "disputed": false,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Karamazov",
+      "quote": "She loves your brother, Ivan, and she is doing her utmost to persuade herself she loves your brother, Dmitri.",
+      "disputed": true,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri Karamazov",
+      "quote": "She loves your brother, Ivan, and she is doing her utmost to persuade herself she loves your brother, Dmitri.",
+      "disputed": true,
+      "first_revealed_index": 28,
+      "doc_id": "ch028",
+      "label_ko": "4편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

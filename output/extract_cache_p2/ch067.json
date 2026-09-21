@@ -1,0 +1,416 @@
+{
+  "doc_id": "ch067",
+  "global_index": 67,
+  "label_ko": "10편 5장",
+  "entities": [
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "snegiryov",
+        "the captain"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Krassotkin",
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvara",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Snegiryov family",
+      "type": "Group",
+      "aliases": [
+        "Snegiryovs"
+      ]
+    },
+    {
+      "name": "two hundred roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Krassotkin",
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Madame Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "mamma"
+      ]
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Morozov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Borovikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fedotovs",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "little bronze cannon",
+      "type": "Object",
+      "aliases": [
+        "cannon"
+      ]
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya",
+        "Krassotkin"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kartashov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kolbasnikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dardanelov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smaragdov",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolbasnikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mr. Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "Snegiryov",
+        "the captain"
+      ]
+    },
+    {
+      "name": "carriage",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "His father was terribly concerned about him. He even gave up drinking and was almost crazy with terror that his boy would die.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Nina",
+      "quote": "Nina, Ilusha’s gentle, crippled sister, did not like her father’s buffoonery either",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "BROTHER_OF",
+      "object": "Nina",
+      "quote": "Nina, Ilusha’s gentle, crippled sister, did not like her father’s buffoonery either",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Kolya Krassotkin",
+      "quote": "Perhaps the bitterest of all his bitter memories was his stabbing Krassotkin, who had been his one friend and protector.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Fyodorovitch",
+      "quote": "He had not been to school since the day he met Alyosha and bit his finger.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Varvara",
+      "relation": "LIVES_AT",
+      "object": "Petersburg",
+      "quote": "Varvara had been gone for some time past to Petersburg to study at the university",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "MEMBER_OF",
+      "object": "Snegiryov family",
+      "quote": "The room inhabited by the family of the retired captain Snegiryov is already familiar to the reader.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "POSSESSES",
+      "object": "two hundred roubles",
+      "quote": "He had taken the two hundred roubles from Katerina Ivanovna just as Alyosha had predicted he would.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "POSSESSES",
+      "object": "little bronze cannon",
+      "quote": "And Kolya hurriedly pulled out of his satchel the little bronze cannon.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Madame Snegiryov",
+      "relation": "POSSESSES",
+      "object": "little bronze cannon",
+      "quote": "taking the cannon from Ilusha, he handed it himself to mamma with a polite bow.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Morozov",
+      "relation": "POSSESSES",
+      "object": "little bronze cannon",
+      "quote": "It belonged to Morozov, it was no use to him, he had it from his brother.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "LOVES",
+      "object": "Madame Snegiryov",
+      "quote": "Ilusha, darling, he’s the one who loves his mamma!” she said tenderly",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolbasnikov",
+      "relation": "MENTOR_OF",
+      "object": "Kolya Krassotkin",
+      "quote": "The classical master, Kolbasnikov, was particularly shocked about it, but Dardanelov got me off again.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Dardanelov",
+      "relation": "MENTOR_OF",
+      "object": "Kolya Krassotkin",
+      "quote": "The classical master, Kolbasnikov, was particularly shocked about it, but Dardanelov got me off again.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "POSSESSES",
+      "object": "Smaragdov",
+      "quote": "a secret which could only be discovered by reading Smaragdov, and no one had Smaragdov but Kolya.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "QUARRELS_WITH",
+      "object": "Kartashov",
+      "quote": "“Before you talk of a historical event like the foundation of a nationality, you must first understand what you mean by it,” he admonished him in stern, incisive tones.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolbasnikov",
+      "relation": "MENTOR_OF",
+      "object": "Kolya",
+      "quote": "Besides, what I said just now about the classics being translated our teacher Kolbasnikov has said to the whole of the third class.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "POSSESSES",
+      "object": "carriage",
+      "quote": "A carriage belonging to Madame Hohlakov drove up to the gate.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

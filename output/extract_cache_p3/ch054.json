@@ -1,0 +1,200 @@
+{
+  "doc_id": "ch054",
+  "global_index": 54,
+  "label_ko": "9편 1장",
+  "entities": [
+    {
+      "name": "Pyotr Ilyitch Perhotin",
+      "type": "Character",
+      "aliases": [
+        "Pyotr Ilyitch",
+        "Perhotin"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Fyodorovitch",
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch",
+        "his father",
+        "his old father"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": [
+        "police captain"
+      ]
+    },
+    {
+      "name": "pestle",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "holy ikon",
+      "type": "Object",
+      "aliases": [
+        "ikon"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Pyotr Ilyitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "K. Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Madame Hohlakov"
+      ]
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov",
+      "type": "Group",
+      "aliases": [
+        "Brothers Karamazov"
+      ]
+    },
+    {
+      "name": "ikon",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "Dmitri Fyodorovitch could have gone nowhere but to his father’s house",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Pyotr Ilyitch Perhotin",
+      "quote": "At five o’clock this afternoon Dmitri Fyodorovitch borrowed ten roubles from me",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Madame Hohlakov",
+      "quote": "He ran out in a fury, stamping. He rushed at me, but I slipped away.",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "pestle",
+      "quote": "when Dmitri Fyodorovitch had run out to look for Grushenka, he had snatched up a pestle from the mortar",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "POSSESSES",
+      "object": "holy ikon",
+      "quote": "I put the holy ikon from the relics of the holy martyr, Saint Varvara, on his neck",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov",
+      "quote": "I’ve never in my life lent to that unhappy man, Dmitri Fyodorovitch Karamazov (for, in spite of all, he is unhappy), three thousand roubles to-day.",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "K. Hohlakov",
+      "quote": "and only fancy, with the ikon on his neck he spat at me.... He only spat, it’s true, he didn’t murder me and ... he dashed away!",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "ikon",
+      "quote": "and only fancy, with the ikon on his neck he spat at me.... He only spat, it’s true, he didn’t murder me and ... he dashed away!",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "K. Hohlakov",
+      "quote": "I’ve never in my life lent to that unhappy man, Dmitri Fyodorovitch Karamazov (for, in spite of all, he is unhappy), three thousand roubles to-day.",
+      "disputed": true,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

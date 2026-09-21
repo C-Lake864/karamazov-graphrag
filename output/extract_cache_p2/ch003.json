@@ -1,0 +1,311 @@
+{
+  "doc_id": "ch003",
+  "global_index": 3,
+  "label_ko": "1편 3장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Sofya Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Sofya",
+        "Sofya Ivanovna"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Adelaïda Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Adelaïda Ivanovna"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan",
+        "Ivan Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alexey",
+        "little Alexey"
+      ]
+    },
+    {
+      "name": "Yefim Petrovitch Polenov",
+      "type": "Character",
+      "aliases": [
+        "Yefim Petrovitch",
+        "Yefim Petrovitch Polenov"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov"
+      ]
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": [
+        "monastery"
+      ]
+    },
+    {
+      "name": "Paris",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "Very shortly after getting his four-year-old Mitya off his hands Fyodor Pavlovitch married a second time.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Yet she bore Fyodor Pavlovitch two sons, Ivan and Alexey, the eldest in the first year of marriage and the second three years later.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey",
+      "quote": "Yet she bore Fyodor Pavlovitch two sons, Ivan and Alexey, the eldest in the first year of marriage and the second three years later.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "Yet she bore Fyodor Pavlovitch two sons, Ivan and Alexey, the eldest in the first year of marriage and the second three years later.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Yet she bore Fyodor Pavlovitch two sons, Ivan and Alexey, the eldest in the first year of marriage and the second three years later.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "At her death almost exactly the same thing happened to the two little boys as to their elder brother, Mitya.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "At her death almost exactly the same thing happened to the two little boys as to their elder brother, Mitya.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Grigory, the gloomy, stupid, obstinate, argumentative servant, who had always hated his first mistress, Adelaïda Ivanovna, took the side of his new mistress.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "He championed her cause, abusing Fyodor Pavlovitch in a manner little befitting a servant, and on one occasion broke up the revels and drove all the disorderly women out of the house.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Yefim Petrovitch Polenov",
+      "relation": "RAISED",
+      "object": "Alexey",
+      "quote": "He became especially fond of the younger, Alexey, who lived for a long while as one of his family.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Yefim Petrovitch Polenov",
+      "relation": "RAISED",
+      "object": "Ivan Fyodorovitch",
+      "quote": "And to Yefim Petrovitch, a man of a generosity and humanity rarely to be met with, the young people were more indebted for their education and bringing up than to any one.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Ivan Fyodorovitch",
+      "quote": "They were looked after by the same Grigory and lived in his cottage, where they were found by the tyrannical old lady who had brought up their mother.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Alexey",
+      "quote": "They were looked after by the same Grigory and lived in his cottage, where they were found by the tyrannical old lady who had brought up their mother.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "Learning the author’s name, they were interested in his being a native of the town and the son of “that Fyodor Pavlovitch.”",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey",
+      "quote": "though he was always afraid that his sons Ivan and Alexey would also come to ask him for it.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "Ivan had come partly at the request of, and in the interests of, his elder brother, Dmitri",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "RELATED_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Pyotr Alexandrovitch Miüsov, of whom we have spoken already, the cousin of Fyodor Pavlovitch’s first wife",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "his elder brother Dmitri, who was in open quarrel with his father and even planning to bring an action against him.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "Yes, he had been for the last year in our monastery, and seemed willing to be cloistered there for the rest of his life.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "LIVES_AT",
+      "object": "Paris",
+      "quote": "He had come from Paris, which was his permanent home.",
+      "disputed": false,
+      "first_revealed_index": 3,
+      "doc_id": "ch003",
+      "label_ko": "1편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

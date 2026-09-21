@@ -1,0 +1,134 @@
+{
+  "doc_id": "ch006",
+  "global_index": 6,
+  "label_ko": "2편 1장",
+  "entities": [
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov",
+        "Pyotr Alexandrovitch"
+      ]
+    },
+    {
+      "name": "Pyotr Fomitch Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Kalganov",
+        "young Kalganov"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": [
+        "landowner of Tula"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima",
+        "the elder"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Harkov lady"
+      ]
+    },
+    {
+      "name": "Varsonofy",
+      "type": "Character",
+      "aliases": [
+        "elder Varsonofy"
+      ]
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Hermitage",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Pyotr Fomitch Kalganov",
+      "relation": "RELATED_TO",
+      "object": "Pyotr Alexandrovitch Miüsov",
+      "quote": "drove up with Miüsov and a distant relative of his, a young man of twenty, called Pyotr Fomitch Kalganov.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch Karamazov",
+      "quote": "came Fyodor Pavlovitch, with his son Ivan.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "“Fyodor Pavlovitch, for the last time, your compact, do you hear? Behave properly or I will pay you out!”",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "Hermitage",
+      "quote": "Father Zossima lives in the hermitage, apart, four hundred paces from the monastery, the other side of the copse.",
+      "disputed": false,
+      "first_revealed_index": 6,
+      "doc_id": "ch006",
+      "label_ko": "2편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

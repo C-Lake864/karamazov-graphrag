@@ -1,0 +1,175 @@
+{
+  "doc_id": "ch051",
+  "global_index": 51,
+  "label_ko": "8편 6장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Fyodorovitch",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Plastunov's Inn",
+      "type": "Place",
+      "aliases": [
+        "Plastunov’s inn",
+        "inn"
+      ]
+    },
+    {
+      "name": "Pistol",
+      "type": "Object",
+      "aliases": [
+        "loaded pistol"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Mitya",
+        "Dmitri Fyodorovitch",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mr. Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "box of pistols",
+      "type": "Object",
+      "aliases": [
+        "pistol-case"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Never had this woman, who was such a fateful influence in his life, aroused such love in his breast, such new and unknown feeling",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Fenya",
+      "relation": "SERVANT_OF",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Why, Fenya threw herself at your feet just now, and begged you not to harm her mistress, and some one else, too",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "Pistol",
+      "quote": "the paper was lying there in his pocket, ready; the pistol was loaded; he had already resolved how, next morning, he would meet the first warm ray",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LIVES_AT",
+      "object": "Plastunov's Inn",
+      "quote": "“Agrafena Alexandrovna?” The inn-keeper understood at once, looking sharply into Mitya’s face. “She’s here, too ...”",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Kalganov",
+      "relation": "RELATED_TO",
+      "object": "Mr. Miüsov",
+      "quote": "One’s quite a young gentleman, a relative of Mr. Miüsov, he must be, but I’ve forgotten his name",
+      "disputed": true,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "box of pistols",
+      "quote": "He turned to the cart and pulled out the box of pistols.",
+      "disputed": false,
+      "first_revealed_index": 51,
+      "doc_id": "ch051",
+      "label_ko": "8편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

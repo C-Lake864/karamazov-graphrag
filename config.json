@@ -1,0 +1,194 @@
+{
+  "domain": "The Brothers Karamazov (Dostoevsky, Garnett 역) 인물 관계 그래프",
+  "corpus": {
+    "unit": "chapter",
+    "n_docs": 96,
+    "source": "Project Gutenberg #28054 (퍼블릭 도메인)",
+    "spoiler_key": "global_index"
+  },
+  "node_types": {
+    "Character": "인물. 이름이 있는 사람만. 군중·하인들 같은 집합 명사는 제외",
+    "Place": "장소. 수도원, 표도르의 집, 모크로예, 법정 등",
+    "Group": "집단·기관. 카라마조프 가문, 수도원 등",
+    "Event": "사건. 이름 붙일 수 있는 일회성 사건. 살인, 재판, 장로의 죽음 등",
+    "Object": "물건·모티프. 3000루블, 절굿공이, 편지 등 줄거리를 움직이는 물건만"
+  },
+  "relation_types": {
+    "FATHER_OF": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "아버지→자식",
+      "hint_en": "SUBJECT is the father of OBJECT. (subject = parent, object = child)"
+    },
+    "BROTHER_OF": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "형제",
+      "hint_en": "SUBJECT is a brother of OBJECT."
+    },
+    "SERVANT_OF": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "하인→주인",
+      "hint_en": "SUBJECT is the servant/valet/employee of OBJECT. (subject = servant, object = master)"
+    },
+    "MENTOR_OF": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "스승→제자",
+      "hint_en": "SUBJECT is the spiritual guide/teacher of OBJECT. (subject = teacher, object = pupil)"
+    },
+    "LOVES": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "연정",
+      "hint_en": "SUBJECT is in love with OBJECT."
+    },
+    "ENGAGED_TO": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "약혼",
+      "hint_en": "SUBJECT is betrothed/engaged to OBJECT."
+    },
+    "RIVAL_OF": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "연적·경쟁",
+      "hint_en": "SUBJECT is a rival of OBJECT, usually over a third person."
+    },
+    "QUARRELS_WITH": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "다툼·원한",
+      "hint_en": "SUBJECT quarrels with, insults, strikes or bears a grudge against OBJECT."
+    },
+    "OWES_MONEY_TO": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "금전 채무·분쟁",
+      "hint_en": "SUBJECT owes money to OBJECT, or disputes money with OBJECT. (subject = debtor)"
+    },
+    "MEMBER_OF": {
+      "from": "Character",
+      "to": "Group",
+      "desc": "소속",
+      "hint_en": "SUBJECT belongs to the family/order/institution OBJECT."
+    },
+    "LIVES_AT": {
+      "from": "Character",
+      "to": "Place",
+      "desc": "거주·체류",
+      "hint_en": "SUBJECT lives at or is staying at the place OBJECT."
+    },
+    "PRESENT_AT": {
+      "from": "Character",
+      "to": "Event",
+      "desc": "사건 참여·목격",
+      "hint_en": "SUBJECT takes part in or witnesses the event OBJECT."
+    },
+    "ACCUSED_OF": {
+      "from": "Character",
+      "to": "Event",
+      "desc": "혐의",
+      "hint_en": "SUBJECT is suspected or accused of the event OBJECT."
+    },
+    "POSSESSES": {
+      "from": "Character",
+      "to": "Object",
+      "desc": "소지·관리",
+      "hint_en": "SUBJECT holds, carries or controls the object OBJECT."
+    },
+    "OCCURRED_AT": {
+      "from": "Event",
+      "to": "Place",
+      "desc": "사건 발생 장소",
+      "hint_en": "The event SUBJECT happens at the place OBJECT."
+    },
+    "RAISED": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "키움·양육 (부모가 아닌 사람이 맡아 기른 경우)",
+      "hint_en": "SUBJECT brought up, reared or took charge of OBJECT as a child. (subject = carer, object = child)"
+    },
+    "RELATED_TO": {
+      "from": "Character",
+      "to": "Character",
+      "desc": "친족 (부모·형제 외의 혈연·인척: 사촌, 친척)",
+      "hint_en": "SUBJECT is a relative of OBJECT other than parent or sibling (cousin, kin, 'a relation of mine')."
+    }
+  },
+  "excluded_relations": {
+    "TALKS_TO / MEETS": "거의 모든 인물 쌍에 붙어 그래프가 통째로 연결됨. 멀티홉이 의미를 잃음",
+    "THINKS_ABOUT / BELIEVES": "주관적이라 근거 인용문으로 검증 불가",
+    "SIMILAR_TO": "추출기가 마음대로 만들어내기 쉬움"
+  },
+  "retrieval": {
+    "max_hops": 2,
+    "fallback_hops": 3,
+    "fallback_when": "2홉 결과가 근거 삼중항 3개 미만일 때만 3홉으로 넓힌다",
+    "max_triples": 40,
+    "hub_policy": {
+      "rule": "허브 노드는 '경유'하지 않는다. 시작점이나 도착점으로는 쓸 수 있다",
+      "threshold": "등장 장 수 20장 이상(96장 중) 또는 연결 40개 이상",
+      "why": "허브를 경유시키면 아무 두 인물이나 2홉으로 이어져 경로가 무의미해진다",
+      "why_this_threshold": "처음엔 '연결 상위 5%'로 잡았는데, 연결 수 중앙값이 1인 극단적 분포라 상위 5%가 16명이나 되어 일류샤(연결 14)까지 허브가 됐다. 일류샤는 오히려 질문의 시작 개체라 이러면 안 된다. 등장 장 수로 보니 경계가 뚜렷했다 — 카라마조프 4부자만 23~44장이고 그다음이 17장이라 뚝 끊긴다. '책의 5분의 1 이상에 나오는 인물'을 기준으로 바꿔 4명만 남겼다.",
+      "relax_on_fallback": true,
+      "why_relax": "허브를 아예 막으면 '하인 -> 주인 -> 그 주인의 아들' 처럼 허브를 반드시 지나야 하는 질문이 통째로 못 풀린다. 그래서 기본 반경에서는 막고, 근거가 모자라 넓힐 때만 열어준다."
+    }
+  },
+  "spoiler_gate": {
+    "unit": "chapter",
+    "range": [
+      1,
+      96
+    ],
+    "rule": "삼중항의 first_revealed_index > 읽은 지점 이면 검색 결과에서 제거",
+    "applies_to": [
+      "nodes",
+      "edges",
+      "aliases",
+      "chapter_titles"
+    ],
+    "why_aliases": "부칭(父稱)을 합쳐 보여주는 것만으로 혈연이 암시될 수 있어, 별칭도 밝혀진 장 기준으로 거른다"
+  },
+  "extraction": {
+    "model": "gemini-3.6-flash",
+    "chunk_chars": 12000,
+    "required_edge_fields": [
+      "subject",
+      "relation",
+      "object",
+      "quote",
+      "first_revealed_index"
+    ],
+    "model_openai": "gpt-5-mini"
+  },
+  "answering": {
+    "model": "gemini-3.6-flash",
+    "language": "ko",
+    "rule": "제공된 근거 삼중항 안에서만 답한다. 근거가 없으면 '읽은 범위 안에는 아직 나오지 않았다'고 답한다",
+    "quote_language": "en",
+    "model_openai": "gpt-5"
+  },
+  "schema_history": [
+    {
+      "version": "v1",
+      "note": "관계 15종. 평가에서 '키웠다'와 '친척' 관계가 없어 G06·G07·G09 가 색인 단계에서 깨지는 것을 확인."
+    },
+    {
+      "version": "v2",
+      "note": "RAISED·RELATED_TO 추가. 둘 다 본문에서 인용문으로 확인 가능한 관계라 제외 기준(주관적·과다연결)에 걸리지 않는다."
+    }
+  ],
+  "provider": "google",
+  "provider_note": "google / openai 중 선택. 모델 이름도 같이 바꿔야 한다. OpenAI 로 만든 추출 결과와 Gemini 로 만든 것을 섞으면 측정이 오염되므로, 제공자를 바꾸면 output/extract_cache*/ 를 비우고 다시 뽑는다. gemini-2.5 계열은 신규 사용자에게 닫혀 있어 3.6 세대를 쓴다.",
+  "embedding": {
+    "model": "gemini-embedding-001",
+    "model_openai": "text-embedding-3-small",
+    "dim": 768
+  },
+  "judge": {
+    "model": "gemini-3.1-pro-preview",
+    "model_openai": "gpt-5"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "doc_id": "ch034",
+  "global_index": 34,
+  "label_ko": "5편 3장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazovs",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "There’s such a difference between fifteen and eleven that brothers are never companions at those ages.",
+      "disputed": false,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "Am I my brother Dmitri’s keeper?” Ivan snapped irritably, but then he suddenly smiled bitterly.",
+      "disputed": false,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "LOVES",
+      "object": "Ivan",
+      "quote": "“I do love you, Ivan. Dmitri says of you—Ivan is a tomb! I say of you, Ivan is a riddle.",
+      "disputed": false,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "Ah, she knew how I loved her! She loved me and not Dmitri,” Ivan insisted gayly.",
+      "disputed": true,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan",
+      "quote": "She loved me and not Dmitri,” Ivan insisted gayly.",
+      "disputed": true,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "RIVAL_OF",
+      "object": "Dmitri",
+      "quote": "Do you imagine I am jealous of Dmitri, that I’ve been trying to steal his beautiful Katerina Ivanovna for the last three months?",
+      "disputed": true,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "MEMBER_OF",
+      "object": "Karamazovs",
+      "quote": "It’s a feature of the Karamazovs, it’s true, that thirst for life regardless of everything; you have it no doubt too",
+      "disputed": false,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "MEMBER_OF",
+      "object": "Karamazovs",
+      "quote": "It’s a feature of the Karamazovs, it’s true, that thirst for life regardless of everything; you have it no doubt too",
+      "disputed": false,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "I don’t want to wound my little brother who has been watching me with such expectation for three months.",
+      "disputed": false,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "“No, brother, we had better not drink,” said Alyosha suddenly.",
+      "disputed": false,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "To talk of my love for Katerina Ivanovna, of the old man and Dmitri? of foreign travel? of the fatal position of Russia?",
+      "disputed": true,
+      "first_revealed_index": 34,
+      "doc_id": "ch034",
+      "label_ko": "5편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,185 @@
+{
+  "doc_id": "ch059",
+  "global_index": 59,
+  "label_ko": "9편 6장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Mitya Karamazov",
+        "Dmitri Karamazov",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "the prosecutor"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Mr. Kalganov"
+      ]
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Gridyenko",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Mitya's father",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Mitya's father",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Official envelope",
+      "type": "Object",
+      "aliases": [
+        "envelope"
+      ]
+    },
+    {
+      "name": "Three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "the money"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "that has been given us by Grigory, the old man you wounded.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Nikolay Parfenovitch",
+      "quote": "He looked too closely at my socks, and turned them inside out on purpose to show every one how dirty they were—the scoundrel!",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Mitya's father",
+      "quote": "could I have looked at you and at the world like this, if I had really been the murderer of my father",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "that has been given us by Grigory, the old man you wounded.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Nikolay Parfenovitch",
+      "relation": "POSSESSES",
+      "object": "Official envelope",
+      "quote": "Nikolay Parfenovitch laid upon the table a large and thick official envelope, on which three seals still remained intact.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "Three thousand roubles",
+      "quote": "the source from which you obtained the money which was so suddenly seen in your hands",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Mitya's father",
+      "quote": "It’s he who’s murdered him! He’s robbed him! No one else knew where the old man hid the envelope.",
+      "disputed": true,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Mitya's father",
+      "quote": "On the one hand we have the evidence of the open door from which you ran out, a fact which overwhelms you and us.",
+      "disputed": true,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

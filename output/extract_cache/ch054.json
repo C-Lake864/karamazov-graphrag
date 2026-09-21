@@ -1,0 +1,222 @@
+{
+  "doc_id": "ch054",
+  "global_index": 54,
+  "label_ko": "9편 1장",
+  "entities": [
+    {
+      "name": "Pyotr Ilyitch Perhotin",
+      "type": "Character",
+      "aliases": [
+        "Pyotr Ilyitch",
+        "Perhotin"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Fyodorovitch",
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch",
+        "old father"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov’s house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch’s house",
+      "type": "Place",
+      "aliases": [
+        "Fyodor Pavlovitch’s"
+      ]
+    },
+    {
+      "name": "widow Morozov’s house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "pestle",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "bundle of hundred-rouble notes",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles"
+      ]
+    },
+    {
+      "name": "ten roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "holy ikon",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch Karamazov",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Ilyitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "K. HOHLAKOV"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "Dmitri Fyodorovitch could have gone nowhere but to his father’s house",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Pyotr Ilyitch Perhotin",
+      "quote": "At five o’clock this afternoon Dmitri Fyodorovitch borrowed ten roubles from me, and I know for a fact he had no money.",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Madame Hohlakov",
+      "quote": "He ran out in a fury, stamping. He rushed at me, but I slipped away.... And let me tell you, as I wish to hide nothing from you now, that he positively spat at me.",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "pestle",
+      "quote": "when Dmitri Fyodorovitch had run out to look for Grushenka, he had snatched up a pestle from the mortar",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "bundle of hundred-rouble notes",
+      "quote": "he came to see me with a bundle of hundred-rouble notes in his hand, about two or three thousand roubles.",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch Karamazov",
+      "quote": "“Good God! He must have killed his old father!” she cried, clasping her hands.",
+      "disputed": true,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "POSSESSES",
+      "object": "holy ikon",
+      "quote": "I put the holy ikon from the relics of the holy martyr, Saint Varvara, on his neck",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "LIVES_AT",
+      "object": "Madame Hohlakov’s house",
+      "quote": "It was exactly eleven o’clock when he entered Madame Hohlakov’s house.",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "LIVES_AT",
+      "object": "Fyodor Pavlovitch’s house",
+      "quote": "The most direct and the easiest thing for him to do would have been to go straight to Fyodor Pavlovitch’s",
+      "disputed": false,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Madame Hohlakov",
+      "quote": "I’ve never in my life lent to that unhappy man, Dmitri Fyodorovitch Karamazov (for, in spite of all, he is unhappy), three thousand roubles to-day.",
+      "disputed": true,
+      "first_revealed_index": 54,
+      "doc_id": "ch054",
+      "label_ko": "9편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

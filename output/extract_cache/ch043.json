@@ -1,0 +1,209 @@
+{
+  "doc_id": "ch043",
+  "global_index": 43,
+  "label_ko": "7편 2장",
+  "entities": [
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "elder",
+        "adored teacher"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "brother Dmitri"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": [
+        "brother Ivan"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha's father",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Ferapont",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Two hundred roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Sausage",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Hermitage",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey",
+      "quote": "what he saw before all was one figure—the figure of his beloved elder, the figure of that holy man whom he revered with such adoration.",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "He remembered afterwards how, on that terrible day, he had entirely forgotten his brother Dmitri, about whom he had been so anxious and troubled the day before",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alexey",
+      "quote": "If your little brother Ivan could see this—wouldn’t he be surprised! By the way, your brother Ivan set off to Moscow this morning, did you know?",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Ilusha's father",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "he had forgotten, too, to take the two hundred roubles to Ilusha’s father, though he had so warmly intended to do so the preceding evening.",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Rakitin",
+      "quote": "Your brother Ivan declared once that I was a ‘liberal booby with no talents whatsoever.’",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "QUARRELS_WITH",
+      "object": "Rakitin",
+      "quote": "Once you, too, could not resist letting me know I was ‘dishonorable.’",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "POSSESSES",
+      "object": "Sausage",
+      "quote": "I’ve got some sausage in my pocket; I’ve brought it from the town in case of need, only you won’t eat sausage....",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Alexey",
+      "relation": "LIVES_AT",
+      "object": "Monastery",
+      "quote": "And a whole year of life in the monastery had formed the habit of this expectation in his heart.",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Alyosha",
+      "quote": "first a revengeful desire to see “the downfall of the righteous,” and Alyosha’s fall “from the saints to the sinners,” over which he was already gloating in his imagination",
+      "disputed": false,
+      "first_revealed_index": 43,
+      "doc_id": "ch043",
+      "label_ko": "7편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,295 @@
+{
+  "doc_id": "ch030",
+  "global_index": 30,
+  "label_ko": "4편 6장",
+  "entities": [
+    {
+      "name": "Alexey Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Ilyitch Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "Captain Snegiryov",
+        "captain"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvara",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Foma",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lake Street",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Alexey Fyodorovitch",
+        "Mr. Tchernomazov",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Ilyitch",
+      "type": "Character",
+      "aliases": [
+        "the captain"
+      ]
+    },
+    {
+      "name": "Arina Petrovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvara",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexandr Alexandrovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nastasya Petrovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "The Metropolis",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "Katerina Ivanovna’s commission took him to Lake Street, and his brother Dmitri lived close by, in a turning out of Lake Street.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey Karamazov",
+      "quote": "And Father Zossima sent me to reconcile and bring them together. Is this the way to bring them together?",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Nikolay Ilyitch Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "And do you suppose I’d thrash him? That I’d take my Ilusha and thrash him before you for your satisfaction?",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Karamazov",
+      "quote": "I asked him what I had done to him. And then he rushed at me and bit my finger badly, I don’t know why.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Nikolay Ilyitch Snegiryov",
+      "quote": "So your boy is a good boy, he loves his father, and he attacked me as the brother of your assailant.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "LOVES",
+      "object": "Nikolay Ilyitch Snegiryov",
+      "quote": "So your boy is a good boy, he loves his father, and he attacked me as the brother of your assailant.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Nikolay Ilyitch Snegiryov",
+      "relation": "LIVES_AT",
+      "object": "Lake Street",
+      "quote": "At last he found the house in Lake Street. It was a decrepit little house, sunk on one side",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch Karamazov",
+      "quote": "my brother Dmitri Fyodorovitch regrets his action, I know that, and if only it is possible for him to come to you",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "my brother Dmitri Fyodorovitch regrets his action, I know that, and if only it is possible for him to come to you",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Nikolay Ilyitch",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "So your boy is a good boy, he loves his father, and he attacked me as the brother of your assailant.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Nikolay Ilyitch",
+      "relation": "FATHER_OF",
+      "object": "Varvara",
+      "quote": "Wait a little, Varvara!” cried her father, speaking peremptorily but looking at her quite approvingly.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Nikolay Ilyitch",
+      "relation": "FATHER_OF",
+      "object": "Nina",
+      "quote": "This girl sitting here is my daughter Nina; I forgot to introduce her to you.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "LOVES",
+      "object": "Nikolay Ilyitch",
+      "quote": "So your boy is a good boy, he loves his father, and he attacked me as the brother of your assailant.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "LOVES",
+      "object": "Arina Petrovna",
+      "quote": "There’s only Ilusha who comes home from school and loves me. Yesterday he brought me an apple.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Fyodorovitch Karamazov",
+      "quote": "he attacked me as the brother of your assailant.... Now I understand it,” he repeated thoughtfully.",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Nikolay Ilyitch",
+      "quote": "After pulling out my beard, you mean, he will ask my forgiveness? And he thinks that will be a satisfactory finish, doesn’t he?",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    },
+    {
+      "subject": "Nikolay Ilyitch",
+      "relation": "RELATED_TO",
+      "object": "Arina Petrovna",
+      "quote": "But now let me present you to my wife, Arina Petrovna. She is crippled, she is forty-three",
+      "disputed": false,
+      "first_revealed_index": 30,
+      "doc_id": "ch030",
+      "label_ko": "4편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

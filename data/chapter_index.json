@@ -1,0 +1,962 @@
+[
+  {
+    "doc_id": "ch001",
+    "global_index": 1,
+    "part": 1,
+    "book_no": 1,
+    "book_title": "The History Of A Family",
+    "chapter_no": 1,
+    "chapter_title": "Fyodor Pavlovitch Karamazov",
+    "n_chars": 7650
+  },
+  {
+    "doc_id": "ch002",
+    "global_index": 2,
+    "part": 1,
+    "book_no": 1,
+    "book_title": "The History Of A Family",
+    "chapter_no": 2,
+    "chapter_title": "He Gets Rid Of His Eldest Son",
+    "n_chars": 7233
+  },
+  {
+    "doc_id": "ch003",
+    "global_index": 3,
+    "part": 1,
+    "book_no": 1,
+    "book_title": "The History Of A Family",
+    "chapter_no": 3,
+    "chapter_title": "The Second Marriage And The Second Family",
+    "n_chars": 14578
+  },
+  {
+    "doc_id": "ch004",
+    "global_index": 4,
+    "part": 1,
+    "book_no": 1,
+    "book_title": "The History Of A Family",
+    "chapter_no": 4,
+    "chapter_title": "The Third Son, Alyosha",
+    "n_chars": 19341
+  },
+  {
+    "doc_id": "ch005",
+    "global_index": 5,
+    "part": 1,
+    "book_no": 1,
+    "book_title": "The History Of A Family",
+    "chapter_no": 5,
+    "chapter_title": "Elders",
+    "n_chars": 20357
+  },
+  {
+    "doc_id": "ch006",
+    "global_index": 6,
+    "part": 1,
+    "book_no": 2,
+    "book_title": "An Unfortunate Gathering",
+    "chapter_no": 1,
+    "chapter_title": "They Arrive At The Monastery",
+    "n_chars": 10189
+  },
+  {
+    "doc_id": "ch007",
+    "global_index": 7,
+    "part": 1,
+    "book_no": 2,
+    "book_title": "An Unfortunate Gathering",
+    "chapter_no": 2,
+    "chapter_title": "The Old Buffoon",
+    "n_chars": 19426
+  },
+  {
+    "doc_id": "ch008",
+    "global_index": 8,
+    "part": 1,
+    "book_no": 2,
+    "book_title": "An Unfortunate Gathering",
+    "chapter_no": 3,
+    "chapter_title": "Peasant Women Who Have Faith",
+    "n_chars": 16912
+  },
+  {
+    "doc_id": "ch009",
+    "global_index": 9,
+    "part": 1,
+    "book_no": 2,
+    "book_title": "An Unfortunate Gathering",
+    "chapter_no": 4,
+    "chapter_title": "A Lady Of Little Faith",
+    "n_chars": 16301
+  },
+  {
+    "doc_id": "ch010",
+    "global_index": 10,
+    "part": 1,
+    "book_no": 2,
+    "book_title": "An Unfortunate Gathering",
+    "chapter_no": 5,
+    "chapter_title": "So Be It! So Be It!",
+    "n_chars": 21263
+  },
+  {
+    "doc_id": "ch011",
+    "global_index": 11,
+    "part": 1,
+    "book_no": 2,
+    "book_title": "An Unfortunate Gathering",
+    "chapter_no": 6,
+    "chapter_title": "Why Is Such A Man Alive?",
+    "n_chars": 22521
+  },
+  {
+    "doc_id": "ch012",
+    "global_index": 12,
+    "part": 1,
+    "book_no": 2,
+    "book_title": "An Unfortunate Gathering",
+    "chapter_no": 7,
+    "chapter_title": "A Young Man Bent On A Career",
+    "n_chars": 19293
+  },
+  {
+    "doc_id": "ch013",
+    "global_index": 13,
+    "part": 1,
+    "book_no": 2,
+    "book_title": "An Unfortunate Gathering",
+    "chapter_no": 8,
+    "chapter_title": "The Scandalous Scene",
+    "n_chars": 19510
+  },
+  {
+    "doc_id": "ch014",
+    "global_index": 14,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 1,
+    "chapter_title": "In The Servants’ Quarters",
+    "n_chars": 12584
+  },
+  {
+    "doc_id": "ch015",
+    "global_index": 15,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 2,
+    "chapter_title": "Lizaveta",
+    "n_chars": 9151
+  },
+  {
+    "doc_id": "ch016",
+    "global_index": 16,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 3,
+    "chapter_title": "The Confession Of A Passionate Heart—In Verse",
+    "n_chars": 17891
+  },
+  {
+    "doc_id": "ch017",
+    "global_index": 17,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 4,
+    "chapter_title": "The Confession Of A Passionate Heart—In Anecdote",
+    "n_chars": 18093
+  },
+  {
+    "doc_id": "ch018",
+    "global_index": 18,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 5,
+    "chapter_title": "The Confession Of A Passionate Heart—“Heels Up”",
+    "n_chars": 18026
+  },
+  {
+    "doc_id": "ch019",
+    "global_index": 19,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 6,
+    "chapter_title": "Smerdyakov",
+    "n_chars": 12177
+  },
+  {
+    "doc_id": "ch020",
+    "global_index": 20,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 7,
+    "chapter_title": "The Controversy",
+    "n_chars": 12150
+  },
+  {
+    "doc_id": "ch021",
+    "global_index": 21,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 8,
+    "chapter_title": "Over The Brandy",
+    "n_chars": 15698
+  },
+  {
+    "doc_id": "ch022",
+    "global_index": 22,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 9,
+    "chapter_title": "The Sensualists",
+    "n_chars": 11437
+  },
+  {
+    "doc_id": "ch023",
+    "global_index": 23,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 10,
+    "chapter_title": "Both Together",
+    "n_chars": 25155
+  },
+  {
+    "doc_id": "ch024",
+    "global_index": 24,
+    "part": 1,
+    "book_no": 3,
+    "book_title": "The Sensualists",
+    "chapter_no": 11,
+    "chapter_title": "Another Reputation Ruined",
+    "n_chars": 17297
+  },
+  {
+    "doc_id": "ch025",
+    "global_index": 25,
+    "part": 2,
+    "book_no": 4,
+    "book_title": "Lacerations",
+    "chapter_no": 1,
+    "chapter_title": "Father Ferapont",
+    "n_chars": 23046
+  },
+  {
+    "doc_id": "ch026",
+    "global_index": 26,
+    "part": 2,
+    "book_no": 4,
+    "book_title": "Lacerations",
+    "chapter_no": 2,
+    "chapter_title": "At His Father’s",
+    "n_chars": 10317
+  },
+  {
+    "doc_id": "ch027",
+    "global_index": 27,
+    "part": 2,
+    "book_no": 4,
+    "book_title": "Lacerations",
+    "chapter_no": 3,
+    "chapter_title": "A Meeting With The Schoolboys",
+    "n_chars": 9850
+  },
+  {
+    "doc_id": "ch028",
+    "global_index": 28,
+    "part": 2,
+    "book_no": 4,
+    "book_title": "Lacerations",
+    "chapter_no": 4,
+    "chapter_title": "At The Hohlakovs’",
+    "n_chars": 12709
+  },
+  {
+    "doc_id": "ch029",
+    "global_index": 29,
+    "part": 2,
+    "book_no": 4,
+    "book_title": "Lacerations",
+    "chapter_no": 5,
+    "chapter_title": "A Laceration In The Drawing-Room",
+    "n_chars": 25179
+  },
+  {
+    "doc_id": "ch030",
+    "global_index": 30,
+    "part": 2,
+    "book_no": 4,
+    "book_title": "Lacerations",
+    "chapter_no": 6,
+    "chapter_title": "A Laceration In The Cottage",
+    "n_chars": 18067
+  },
+  {
+    "doc_id": "ch031",
+    "global_index": 31,
+    "part": 2,
+    "book_no": 4,
+    "book_title": "Lacerations",
+    "chapter_no": 7,
+    "chapter_title": "And In The Open Air",
+    "n_chars": 23096
+  },
+  {
+    "doc_id": "ch032",
+    "global_index": 32,
+    "part": 2,
+    "book_no": 5,
+    "book_title": "Pro And Contra",
+    "chapter_no": 1,
+    "chapter_title": "The Engagement",
+    "n_chars": 23644
+  },
+  {
+    "doc_id": "ch033",
+    "global_index": 33,
+    "part": 2,
+    "book_no": 5,
+    "book_title": "Pro And Contra",
+    "chapter_no": 2,
+    "chapter_title": "Smerdyakov With A Guitar",
+    "n_chars": 13849
+  },
+  {
+    "doc_id": "ch034",
+    "global_index": 34,
+    "part": 2,
+    "book_no": 5,
+    "book_title": "Pro And Contra",
+    "chapter_no": 3,
+    "chapter_title": "The Brothers Make Friends",
+    "n_chars": 20562
+  },
+  {
+    "doc_id": "ch035",
+    "global_index": 35,
+    "part": 2,
+    "book_no": 5,
+    "book_title": "Pro And Contra",
+    "chapter_no": 4,
+    "chapter_title": "Rebellion",
+    "n_chars": 27036
+  },
+  {
+    "doc_id": "ch036",
+    "global_index": 36,
+    "part": 2,
+    "book_no": 5,
+    "book_title": "Pro And Contra",
+    "chapter_no": 5,
+    "chapter_title": "The Grand Inquisitor",
+    "n_chars": 50188
+  },
+  {
+    "doc_id": "ch037",
+    "global_index": 37,
+    "part": 2,
+    "book_no": 5,
+    "book_title": "Pro And Contra",
+    "chapter_no": 6,
+    "chapter_title": "For Awhile A Very Obscure One",
+    "n_chars": 24147
+  },
+  {
+    "doc_id": "ch038",
+    "global_index": 38,
+    "part": 2,
+    "book_no": 5,
+    "book_title": "Pro And Contra",
+    "chapter_no": 7,
+    "chapter_title": "“It’s Always Worth While Speaking To A Clever Man”",
+    "n_chars": 18548
+  },
+  {
+    "doc_id": "ch039",
+    "global_index": 39,
+    "part": 2,
+    "book_no": 6,
+    "book_title": "The Russian Monk",
+    "chapter_no": 1,
+    "chapter_title": "Father Zossima And His Visitors",
+    "n_chars": 33983
+  },
+  {
+    "doc_id": "ch040",
+    "global_index": 40,
+    "part": 2,
+    "book_no": 6,
+    "book_title": "The Russian Monk",
+    "chapter_no": 2,
+    "chapter_title": "The Duel",
+    "n_chars": 48064
+  },
+  {
+    "doc_id": "ch041",
+    "global_index": 41,
+    "part": 2,
+    "book_no": 6,
+    "book_title": "The Russian Monk",
+    "chapter_no": 3,
+    "chapter_title": "Conversations And Exhortations Of Father Zossima",
+    "n_chars": 33493
+  },
+  {
+    "doc_id": "ch042",
+    "global_index": 42,
+    "part": 3,
+    "book_no": 7,
+    "book_title": "Alyosha",
+    "chapter_no": 1,
+    "chapter_title": "The Breath Of Corruption",
+    "n_chars": 29323
+  },
+  {
+    "doc_id": "ch043",
+    "global_index": 43,
+    "part": 3,
+    "book_no": 7,
+    "book_title": "Alyosha",
+    "chapter_no": 2,
+    "chapter_title": "A Critical Moment",
+    "n_chars": 13443
+  },
+  {
+    "doc_id": "ch044",
+    "global_index": 44,
+    "part": 3,
+    "book_no": 7,
+    "book_title": "Alyosha",
+    "chapter_no": 3,
+    "chapter_title": "An Onion",
+    "n_chars": 41927
+  },
+  {
+    "doc_id": "ch045",
+    "global_index": 45,
+    "part": 3,
+    "book_no": 7,
+    "book_title": "Alyosha",
+    "chapter_no": 4,
+    "chapter_title": "Cana Of Galilee",
+    "n_chars": 11138
+  },
+  {
+    "doc_id": "ch046",
+    "global_index": 46,
+    "part": 3,
+    "book_no": 8,
+    "book_title": "Mitya",
+    "chapter_no": 1,
+    "chapter_title": "Kuzma Samsonov",
+    "n_chars": 26519
+  },
+  {
+    "doc_id": "ch047",
+    "global_index": 47,
+    "part": 3,
+    "book_no": 8,
+    "book_title": "Mitya",
+    "chapter_no": 2,
+    "chapter_title": "Lyagavy",
+    "n_chars": 16433
+  },
+  {
+    "doc_id": "ch048",
+    "global_index": 48,
+    "part": 3,
+    "book_no": 8,
+    "book_title": "Mitya",
+    "chapter_no": 3,
+    "chapter_title": "Gold-Mines",
+    "n_chars": 26421
+  },
+  {
+    "doc_id": "ch049",
+    "global_index": 49,
+    "part": 3,
+    "book_no": 8,
+    "book_title": "Mitya",
+    "chapter_no": 4,
+    "chapter_title": "In The Dark",
+    "n_chars": 13429
+  },
+  {
+    "doc_id": "ch050",
+    "global_index": 50,
+    "part": 3,
+    "book_no": 8,
+    "book_title": "Mitya",
+    "chapter_no": 5,
+    "chapter_title": "A Sudden Resolution",
+    "n_chars": 35151
+  },
+  {
+    "doc_id": "ch051",
+    "global_index": 51,
+    "part": 3,
+    "book_no": 8,
+    "book_title": "Mitya",
+    "chapter_no": 6,
+    "chapter_title": "“I Am Coming, Too!”",
+    "n_chars": 17315
+  },
+  {
+    "doc_id": "ch052",
+    "global_index": 52,
+    "part": 3,
+    "book_no": 8,
+    "book_title": "Mitya",
+    "chapter_no": 7,
+    "chapter_title": "The First And Rightful Lover",
+    "n_chars": 36454
+  },
+  {
+    "doc_id": "ch053",
+    "global_index": 53,
+    "part": 3,
+    "book_no": 8,
+    "book_title": "Mitya",
+    "chapter_no": 8,
+    "chapter_title": "Delirium",
+    "n_chars": 30223
+  },
+  {
+    "doc_id": "ch054",
+    "global_index": 54,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 1,
+    "chapter_title": "The Beginning Of Perhotin’s Official Career",
+    "n_chars": 15419
+  },
+  {
+    "doc_id": "ch055",
+    "global_index": 55,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 2,
+    "chapter_title": "The Alarm",
+    "n_chars": 15643
+  },
+  {
+    "doc_id": "ch056",
+    "global_index": 56,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 3,
+    "chapter_title": "The Sufferings Of A Soul, The First Ordeal",
+    "n_chars": 19932
+  },
+  {
+    "doc_id": "ch057",
+    "global_index": 57,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 4,
+    "chapter_title": "The Second Ordeal",
+    "n_chars": 16938
+  },
+  {
+    "doc_id": "ch058",
+    "global_index": 58,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 5,
+    "chapter_title": "The Third Ordeal",
+    "n_chars": 24776
+  },
+  {
+    "doc_id": "ch059",
+    "global_index": 59,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 6,
+    "chapter_title": "The Prosecutor Catches Mitya",
+    "n_chars": 18002
+  },
+  {
+    "doc_id": "ch060",
+    "global_index": 60,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 7,
+    "chapter_title": "Mitya’s Great Secret. Received With Hisses",
+    "n_chars": 25906
+  },
+  {
+    "doc_id": "ch061",
+    "global_index": 61,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 8,
+    "chapter_title": "The Evidence Of The Witnesses. The Babe",
+    "n_chars": 22313
+  },
+  {
+    "doc_id": "ch062",
+    "global_index": 62,
+    "part": 3,
+    "book_no": 9,
+    "book_title": "The Preliminary Investigation",
+    "chapter_no": 9,
+    "chapter_title": "They Carry Mitya Away",
+    "n_chars": 8626
+  },
+  {
+    "doc_id": "ch063",
+    "global_index": 63,
+    "part": 4,
+    "book_no": 10,
+    "book_title": "The Boys",
+    "chapter_no": 1,
+    "chapter_title": "Kolya Krassotkin",
+    "n_chars": 12551
+  },
+  {
+    "doc_id": "ch064",
+    "global_index": 64,
+    "part": 4,
+    "book_no": 10,
+    "book_title": "The Boys",
+    "chapter_no": 2,
+    "chapter_title": "Children",
+    "n_chars": 12687
+  },
+  {
+    "doc_id": "ch065",
+    "global_index": 65,
+    "part": 4,
+    "book_no": 10,
+    "book_title": "The Boys",
+    "chapter_no": 3,
+    "chapter_title": "The Schoolboy",
+    "n_chars": 16218
+  },
+  {
+    "doc_id": "ch066",
+    "global_index": 66,
+    "part": 4,
+    "book_no": 10,
+    "book_title": "The Boys",
+    "chapter_no": 4,
+    "chapter_title": "The Lost Dog",
+    "n_chars": 17202
+  },
+  {
+    "doc_id": "ch067",
+    "global_index": 67,
+    "part": 4,
+    "book_no": 10,
+    "book_title": "The Boys",
+    "chapter_no": 5,
+    "chapter_title": "By Ilusha’s Bedside",
+    "n_chars": 36562
+  },
+  {
+    "doc_id": "ch068",
+    "global_index": 68,
+    "part": 4,
+    "book_no": 10,
+    "book_title": "The Boys",
+    "chapter_no": 6,
+    "chapter_title": "Precocity",
+    "n_chars": 14483
+  },
+  {
+    "doc_id": "ch069",
+    "global_index": 69,
+    "part": 4,
+    "book_no": 10,
+    "book_title": "The Boys",
+    "chapter_no": 7,
+    "chapter_title": "Ilusha",
+    "n_chars": 7948
+  },
+  {
+    "doc_id": "ch070",
+    "global_index": 70,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 1,
+    "chapter_title": "At Grushenka’s",
+    "n_chars": 21436
+  },
+  {
+    "doc_id": "ch071",
+    "global_index": 71,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 2,
+    "chapter_title": "The Injured Foot",
+    "n_chars": 23571
+  },
+  {
+    "doc_id": "ch072",
+    "global_index": 72,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 3,
+    "chapter_title": "A Little Demon",
+    "n_chars": 13632
+  },
+  {
+    "doc_id": "ch073",
+    "global_index": 73,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 4,
+    "chapter_title": "A Hymn And A Secret",
+    "n_chars": 31437
+  },
+  {
+    "doc_id": "ch074",
+    "global_index": 74,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 5,
+    "chapter_title": "Not You, Not You!",
+    "n_chars": 12535
+  },
+  {
+    "doc_id": "ch075",
+    "global_index": 75,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 6,
+    "chapter_title": "The First Interview With Smerdyakov",
+    "n_chars": 22127
+  },
+  {
+    "doc_id": "ch076",
+    "global_index": 76,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 7,
+    "chapter_title": "The Second Visit To Smerdyakov",
+    "n_chars": 21201
+  },
+  {
+    "doc_id": "ch077",
+    "global_index": 77,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 8,
+    "chapter_title": "The Third And Last Interview With Smerdyakov",
+    "n_chars": 34762
+  },
+  {
+    "doc_id": "ch078",
+    "global_index": 78,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 9,
+    "chapter_title": "The Devil. Ivan’s Nightmare",
+    "n_chars": 43508
+  },
+  {
+    "doc_id": "ch079",
+    "global_index": 79,
+    "part": 4,
+    "book_no": 11,
+    "book_title": "Ivan",
+    "chapter_no": 10,
+    "chapter_title": "“It Was He Who Said That”",
+    "n_chars": 12014
+  },
+  {
+    "doc_id": "ch080",
+    "global_index": 80,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 1,
+    "chapter_title": "The Fatal Day",
+    "n_chars": 16140
+  },
+  {
+    "doc_id": "ch081",
+    "global_index": 81,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 2,
+    "chapter_title": "Dangerous Witnesses",
+    "n_chars": 21939
+  },
+  {
+    "doc_id": "ch082",
+    "global_index": 82,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 3,
+    "chapter_title": "The Medical Experts And A Pound Of Nuts",
+    "n_chars": 12923
+  },
+  {
+    "doc_id": "ch083",
+    "global_index": 83,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 4,
+    "chapter_title": "Fortune Smiles On Mitya",
+    "n_chars": 22360
+  },
+  {
+    "doc_id": "ch084",
+    "global_index": 84,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 5,
+    "chapter_title": "A Sudden Catastrophe",
+    "n_chars": 22969
+  },
+  {
+    "doc_id": "ch085",
+    "global_index": 85,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 6,
+    "chapter_title": "The Prosecutor’s Speech. Sketches Of Character",
+    "n_chars": 22594
+  },
+  {
+    "doc_id": "ch086",
+    "global_index": 86,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 7,
+    "chapter_title": "An Historical Survey",
+    "n_chars": 11625
+  },
+  {
+    "doc_id": "ch087",
+    "global_index": 87,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 8,
+    "chapter_title": "A Treatise On Smerdyakov",
+    "n_chars": 22770
+  },
+  {
+    "doc_id": "ch088",
+    "global_index": 88,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 9,
+    "chapter_title": "The Galloping Troika. The End Of The Prosecutor’s Speech.",
+    "n_chars": 25525
+  },
+  {
+    "doc_id": "ch089",
+    "global_index": 89,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 10,
+    "chapter_title": "The Speech For The Defense. An Argument That Cuts Both Ways",
+    "n_chars": 9604
+  },
+  {
+    "doc_id": "ch090",
+    "global_index": 90,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 11,
+    "chapter_title": "There Was No Money. There Was No Robbery",
+    "n_chars": 15442
+  },
+  {
+    "doc_id": "ch091",
+    "global_index": 91,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 12,
+    "chapter_title": "And There Was No Murder Either",
+    "n_chars": 19031
+  },
+  {
+    "doc_id": "ch092",
+    "global_index": 92,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 13,
+    "chapter_title": "A Corrupter Of Thought",
+    "n_chars": 18704
+  },
+  {
+    "doc_id": "ch093",
+    "global_index": 93,
+    "part": 4,
+    "book_no": 12,
+    "book_title": "A Judicial Error",
+    "chapter_no": 14,
+    "chapter_title": "The Peasants Stand Firm",
+    "n_chars": 14448
+  },
+  {
+    "doc_id": "ch094",
+    "global_index": 94,
+    "part": 4,
+    "book_no": 13,
+    "book_title": "Epilogue",
+    "chapter_no": 1,
+    "chapter_title": "Plans For Mitya’s Escape",
+    "n_chars": 11887
+  },
+  {
+    "doc_id": "ch095",
+    "global_index": 95,
+    "part": 4,
+    "book_no": 13,
+    "book_title": "Epilogue",
+    "chapter_no": 2,
+    "chapter_title": "For A Moment The Lie Becomes Truth",
+    "n_chars": 16672
+  },
+  {
+    "doc_id": "ch096",
+    "global_index": 96,
+    "part": 4,
+    "book_no": 13,
+    "book_title": "Epilogue",
+    "chapter_no": 3,
+    "chapter_title": "Ilusha’s Funeral. The Speech At The Stone",
+    "n_chars": 22529
+  }
+]

@@ -1,0 +1,292 @@
+{
+  "doc_id": "ch055",
+  "global_index": 55,
+  "label_ko": "9편 2장",
+  "entities": [
+    {
+      "name": "Mihail Makarovitch Makarov",
+      "type": "Character",
+      "aliases": [
+        "Mihail Makarovitch"
+      ]
+    },
+    {
+      "name": "Olga Mihailovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Ilyitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvinsky",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch Nelyudov",
+      "type": "Character",
+      "aliases": [
+        "Nikolay Parfenovitch"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Foma",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "house of Mihail Makarovitch Makarov",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "house of Fyodor Pavlovitch",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "the crime"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Pyotr Ilyitch",
+      "type": "Character",
+      "aliases": [
+        "Ilyitch"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mavriky Mavrikyevitch Schmertsov",
+      "type": "Character",
+      "aliases": [
+        "Mavriky Mavrikyevitch"
+      ]
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch's house",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "pistols",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Olga Mihailovna",
+      "relation": "RELATED_TO",
+      "object": "Mihail Makarovitch Makarov",
+      "quote": "they attracted all the young men of fashion to their grandfather’s house.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "He has murdered ... his father murdered....",
+      "disputed": true,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Murder of Fyodor Pavlovitch",
+      "relation": "OCCURRED_AT",
+      "object": "house of Fyodor Pavlovitch",
+      "quote": "old Fyodor Pavlovitch really had been murdered that evening in his own house, murdered and robbed.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LIVES_AT",
+      "object": "house of Fyodor Pavlovitch",
+      "quote": "old Fyodor Pavlovitch really had been murdered that evening in his own house, murdered and robbed.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Marfa Ignatyevna",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "seeing that her master’s window was open and that there was a candle alight in the window, she ran there and began calling Fyodor Pavlovitch.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "though Fyodor Pavlovitch had for the last week locked himself in every night and did not allow even Grigory to come in on any pretext.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Mihail Makarovitch Makarov",
+      "relation": "LIVES_AT",
+      "object": "house of Mihail Makarovitch Makarov",
+      "quote": "There was card-playing every evening at his house, if only at one table.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Olga Mihailovna",
+      "relation": "LIVES_AT",
+      "object": "house of Mihail Makarovitch Makarov",
+      "quote": "His widowed daughter lived with him, with her two unmarried daughters, grown-up girls, who had finished their education.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "“A present of three thousand roubles for my angel Grushenka, if she is willing to come.” And below had been added by Fyodor Pavlovitch, “For my little chicken.”",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "The doctor remained at Fyodor Pavlovitch’s to make a post-mortem next day on the body. But he was particularly interested in the condition of the servant, Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "pistols",
+      "quote": "had taken the pistols, loaded them before him, written a letter, put it in his pocket, etc.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Trifon Borissovitch",
+      "relation": "POSSESSES",
+      "object": "pistols",
+      "quote": "The box with the pistols had been carried off by Trifon Borissovitch and put in a suitable place.",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "Mokroe",
+      "quote": "He was instructed to avoid raising the alarm when he reached Mokroe, but to keep constant watch over the “criminal” till the arrival of the proper authorities",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LIVES_AT",
+      "object": "Fyodor Pavlovitch's house",
+      "quote": "enter Fyodor Pavlovitch’s house and there to open an inquiry on the spot",
+      "disputed": false,
+      "first_revealed_index": 55,
+      "doc_id": "ch055",
+      "label_ko": "9편 2장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

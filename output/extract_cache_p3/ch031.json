@@ -1,0 +1,214 @@
+{
+  "doc_id": "ch031",
+  "global_index": 31,
+  "label_ko": "4편 7장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Krassotkin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvara",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "pen-knife",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvara",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "two hundred roubles",
+      "type": "Object",
+      "aliases": [
+        "two hundred-rouble notes",
+        "the notes"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "two notes",
+      "type": "Object",
+      "aliases": [
+        "notes"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "your brother Dmitri Fyodorovitch was pulling me by my beard",
+      "disputed": false,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "I’ll make him or he is no brother of mine!",
+      "disputed": false,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "He was avenging you on me as a Karamazov, I see that now.",
+      "disputed": false,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Krassotkin",
+      "quote": "They say he stabbed a boy called Krassotkin with a pen-knife not long ago.",
+      "disputed": true,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "POSSESSES",
+      "object": "pen-knife",
+      "quote": "They say he stabbed a boy called Krassotkin with a pen-knife not long ago.",
+      "disputed": true,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "You must thank your brother, Alexey Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "That same brother of mine, Dmitri, has insulted his betrothed, too, a noble-hearted girl of whom you have probably heard.",
+      "disputed": false,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "two hundred roubles",
+      "quote": "and Alyosha held out two new rainbow-colored hundred-rouble notes.",
+      "disputed": false,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "POSSESSES",
+      "object": "two notes",
+      "quote": "When he was out of sight, Alyosha picked up the two notes.",
+      "disputed": false,
+      "first_revealed_index": 31,
+      "doc_id": "ch031",
+      "label_ko": "4편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

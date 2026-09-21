@@ -1,0 +1,122 @@
+{
+  "doc_id": "ch072",
+  "global_index": 72,
+  "label_ko": "11편 3장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Yulia",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Dmitri Fyodorovitch's father",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "letter",
+      "type": "Object",
+      "aliases": [
+        "note"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "I sent your brother, Dmitri Fyodorovitch, some sweets in prison.",
+      "disputed": false,
+      "first_revealed_index": 72,
+      "doc_id": "ch072",
+      "label_ko": "11편 3장"
+    },
+    {
+      "subject": "Kalganov",
+      "relation": "LOVES",
+      "object": "Lise",
+      "quote": "But he’ll be married soon for all that; he’s been making love to me already.",
+      "disputed": false,
+      "first_revealed_index": 72,
+      "doc_id": "ch072",
+      "label_ko": "11편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Dmitri Fyodorovitch's father",
+      "quote": "Listen, your brother is being tried now for murdering his father and every one loves his having killed his father.",
+      "disputed": false,
+      "first_revealed_index": 72,
+      "doc_id": "ch072",
+      "label_ko": "11편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "“Go to your brother, the prison will be shut; go, here’s your hat. Give my love to Mitya, go, go!”",
+      "disputed": false,
+      "first_revealed_index": 72,
+      "doc_id": "ch072",
+      "label_ko": "11편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "POSSESSES",
+      "object": "letter",
+      "quote": "when he was suddenly aware of a letter in his right hand, a tiny letter folded up tight and sealed.",
+      "disputed": false,
+      "first_revealed_index": 72,
+      "doc_id": "ch072",
+      "label_ko": "11편 3장"
+    }
+  ],
+  "dropped_unquoted": 2
+}

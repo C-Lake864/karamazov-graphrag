@@ -1,0 +1,225 @@
+{
+  "doc_id": "ch083",
+  "global_index": 83,
+  "label_ko": "12편 4장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "fifteen hundred roubles",
+      "type": "Object",
+      "aliases": [
+        "little bag"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "his father",
+        "the old man"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mikhail Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Rakitin"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "his warm sympathy for his unhappy brother was unmistakable.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "That’s right, Alyosha, it was the little bag I struck with my fist.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "through his passion for Grushenka and his rivalry with his father, his brother had been of late in an intolerable position.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "RIVAL_OF",
+      "object": "Katerina Ivanovna",
+      "quote": "As for the rivalry of the two “ladies,” as the prosecutor expressed it—that is, of Grushenka and Katya—he answered evasively",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "Katerina Ivanovna replied firmly that she had been formerly betrothed to the prisoner",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "which he might have returned to Katerina Ivanovna as half of what he owed her",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "POSSESSES",
+      "object": "fifteen hundred roubles",
+      "quote": "pointing to the fifteen hundred roubles which were on his breast, just below the neck",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "I was once indebted to him for assistance in money for more than three thousand, and I took it, although I could not at that time foresee that I should ever be in a position to repay my debt.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "I knew he had a feud with his father and have always believed that he had been unfairly treated by his father.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Mikhail Rakitin",
+      "relation": "RELATED_TO",
+      "object": "Grushenka",
+      "quote": "Why, he is my cousin. His mother was my mother’s sister. But he’s always besought me not to tell any one here of it, he is so dreadfully ashamed of me.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "RIVAL_OF",
+      "object": "Katerina Ivanovna",
+      "quote": "The woman who came between us has ruined him; she is the cause of it all, let me tell you,” Grushenka added.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "When the prisoner was arrested at Mokroe,” the prosecutor asked, “every one saw and heard you run out of the next room and cry out: ‘It’s all my fault. We’ll go to Siberia together!’",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

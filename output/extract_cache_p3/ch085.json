@@ -1,0 +1,145 @@
+{
+  "doc_id": "ch085",
+  "global_index": 85,
+  "label_ko": "12편 6장",
+  "entities": [
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "the prosecutor"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mr. Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Rakitin"
+      ]
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "formerly the servant, and possibly the illegitimate son, of Fyodor Pavlovitch, Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 85,
+      "doc_id": "ch085",
+      "label_ko": "12편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "formerly the servant, and possibly the illegitimate son, of Fyodor Pavlovitch, Smerdyakov.",
+      "disputed": true,
+      "first_revealed_index": 85,
+      "doc_id": "ch085",
+      "label_ko": "12편 6장"
+    },
+    {
+      "subject": "Ivan Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "which justifies me in speaking rather openly of him now, of course, not as an individual, but as a member of the Karamazov family.",
+      "disputed": false,
+      "first_revealed_index": 85,
+      "doc_id": "ch085",
+      "label_ko": "12편 6장"
+    },
+    {
+      "subject": "Ivan Karamazov",
+      "relation": "MENTOR_OF",
+      "object": "Smerdyakov",
+      "quote": "‘Everything in the world is lawful according to him, and nothing must be forbidden in the future—that is what he always taught me.’",
+      "disputed": false,
+      "first_revealed_index": 85,
+      "doc_id": "ch085",
+      "label_ko": "12편 6장"
+    },
+    {
+      "subject": "Ippolit Kirillovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan",
+      "quote": "unworthy motives in his criticism of Ivan, because the latter had on one or two occasions got the better of him in argument, and Ippolit Kirillovitch, remembering it, tried now to take his revenge.",
+      "disputed": true,
+      "first_revealed_index": 85,
+      "doc_id": "ch085",
+      "label_ko": "12편 6장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "appropriated that three thousand unconditionally, and squandered it in two days with the new object of his affections.",
+      "disputed": false,
+      "first_revealed_index": 85,
+      "doc_id": "ch085",
+      "label_ko": "12편 6장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "Because he was of the broad Karamazov character—that’s just what I am leading up to—capable of combining the most incongruous contradictions",
+      "disputed": false,
+      "first_revealed_index": 85,
+      "doc_id": "ch085",
+      "label_ko": "12편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

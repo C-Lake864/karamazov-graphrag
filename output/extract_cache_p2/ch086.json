@@ -1,0 +1,170 @@
+{
+  "doc_id": "ch086",
+  "global_index": 86,
+  "label_ko": "12편 7장",
+  "entities": [
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "the prisoner"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "the old man",
+        "his father"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "young person",
+        "enchantress",
+        "false mistress"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "the prosecutor"
+      ]
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": [
+        "pestle"
+      ]
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "the murder"
+      ]
+    },
+    {
+      "name": "meeting of the family at the monastery",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "suspecting that she would go to Fyodor Pavlovitch in his absence, he returned at last to the town, to find, to his joy, that she had not been near his father.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Here Ippolit Kirillovitch described at length the prisoner’s fatal passion for Grushenka.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "At the same time the prisoner’s father was captivated by the same young person—a strange and fatal coincidence, for they both lost their hearts to her simultaneously",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "when he knelt before her, stretching out hands that were already stained with the blood of his father and rival.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "by means of that very three thousand roubles, which the son looked upon as his own property, part of his inheritance from his mother, of which his father was cheating him.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "Then the prosecutor went on to describe how the idea of murdering his father had entered the prisoner’s head, and illustrated his theory with facts.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "At this point Ippolit Kirillovitch broke off to discuss exhaustively the suspected connection of Smerdyakov with the murder.",
+      "disputed": true,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "brass pestle",
+      "quote": "But note, frantic as he was, he took with him a brass pestle. Why that? Why not some other weapon?",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "meeting of the family at the monastery",
+      "quote": "Here the prosecutor described the meeting of the family at the monastery, the conversations with Alyosha, and the horrible scene of violence when the prisoner had rushed into his father’s house",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "PRESENT_AT",
+      "object": "meeting of the family at the monastery",
+      "quote": "Here the prosecutor described the meeting of the family at the monastery, the conversations with Alyosha, and the horrible scene of violence",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

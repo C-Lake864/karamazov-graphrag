@@ -1,0 +1,326 @@
+{
+  "doc_id": "ch075",
+  "global_index": 75,
+  "label_ko": "11편 6장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": [
+        "Herzenstube"
+      ]
+    },
+    {
+      "name": "Varvinsky",
+      "type": "Character",
+      "aliases": [
+        "Mr. Varvinsky"
+      ]
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "hospital",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "the murder",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Pavel Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Smerdyakov"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Fyodorovitch",
+        "Dmitri",
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Alexei Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": [
+        "Marfa"
+      ]
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": [
+        "Herzenstube"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "By the way, let us say a word or two of Ivan’s feeling to his brother Dmitri.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Ivan looked with indignation on Katerina Ivanovna’s love for his brother.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan",
+      "quote": "He even succeeded in insulting Ivan during their first interview, telling him sharply that it was not for people who declared that “everything was lawful,” to suspect and question him.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "the murder",
+      "quote": "he refused to entertain a suspicion against Mitya, and spoke openly of Smerdyakov as the murderer.",
+      "disputed": true,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "the murder",
+      "quote": "hearing the details of the charge and the arrest, he was still more surprised at Alyosha, and ascribed his opinion only to his exaggerated brotherly feeling and sympathy with Mitya",
+      "disputed": true,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LIVES_AT",
+      "object": "hospital",
+      "quote": "He put that off till he had seen Smerdyakov, who was at that time in the hospital.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "“You are cunning with me, damn you!” he exclaimed, getting angry.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch Karamazov",
+      "quote": "foreseeing such a calamity you deserted your own father, and would not protect us",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Alexei Fyodorovitch Karamazov",
+      "quote": "Alyosha turned rather pale, and looked silently into his brother’s face.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "My brother directly accuses you of the murder and theft.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "he abandoned himself hopelessly to his mad and consuming passion for Katerina Ivanovna.",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Fyodorovitch Karamazov",
+      "quote": "the sternly virtuous girl did not abandon herself altogether to the man she loved",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "Do you remember when Dmitri burst in after dinner and beat father, and afterwards I told you in the yard that I reserved ‘the right to desire’?",
+      "disputed": false,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "In the following days he became convinced of Mitya’s guilt, as he got to know all the weight of evidence against him.",
+      "disputed": true,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    },
+    {
+      "subject": "Pavel Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "Alyosha persisted that Dmitri was not the murderer, and that “in all probability” Smerdyakov was.",
+      "disputed": true,
+      "first_revealed_index": 75,
+      "doc_id": "ch075",
+      "label_ko": "11편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

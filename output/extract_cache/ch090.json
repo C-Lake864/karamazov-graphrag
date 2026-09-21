@@ -1,0 +1,287 @@
+{
+  "doc_id": "ch090",
+  "global_index": 90,
+  "label_ko": "12편 11장",
+  "entities": [
+    {
+      "name": "Karamazov",
+      "type": "Character",
+      "aliases": [
+        "the prisoner"
+      ]
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Svyetlov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "the fatal three thousand roubles"
+      ]
+    },
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "the prisoner"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "the old man"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "fifteen hundred roubles",
+      "type": "Object",
+      "aliases": [
+        "little bag"
+      ]
+    },
+    {
+      "name": "Robbery of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Karamazov",
+      "quote": "as he expected to receive shortly from his father the three thousand roubles that he reckoned was owing to him.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Karamazov",
+      "quote": "He had spoken of it to the prisoner and his brother, Ivan Fyodorovitch, before the catastrophe.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "What if his master had taken the notes from under his bed and put them back in his cash-box without telling him?",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "A man of weak will, who had brought himself to take the three thousand so insultingly offered by his betrothed",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "A month before the catastrophe the prisoner was entrusted by Katerina Ivanovna with three thousand roubles to send off by post.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "LOVES",
+      "object": "Madame Svyetlov",
+      "quote": "If she were to say to him, ‘I am yours, I won’t have Fyodor Pavlovitch,’ then he must have money to take her away.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "on the contrary, the latter heard that he meant to use this sum to seduce the woman he, the prisoner, loved.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "as he expected to receive shortly from his father the three thousand roubles that he reckoned was owing to him.",
+      "disputed": true,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "After that he had no prospect of getting it from any one; his father would not give it him after that beating.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "burst in himself and ended by beating the old man in the presence of witnesses.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Alexey Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "He sent his younger brother to beg for the last time for the three thousand roubles",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "on the contrary, the latter heard that he meant to use this sum to seduce the woman he, the prisoner, loved.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "RIVAL_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "on the contrary, the latter heard that he meant to use this sum to seduce the woman he, the prisoner, loved.",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "‘If Fyodor Pavlovitch doesn’t give the money,’ he thought, ‘I shall be put in the position of a thief before Katerina Ivanovna.’",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "POSSESSES",
+      "object": "fifteen hundred roubles",
+      "quote": "lay before her the fifteen hundred roubles he still carried round his neck",
+      "disputed": false,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Robbery of Fyodor Pavlovitch",
+      "quote": "and that letter is the chief, the most stupendous proof of the prisoner having committed robbery!",
+      "disputed": true,
+      "first_revealed_index": 90,
+      "doc_id": "ch090",
+      "label_ko": "12편 11장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

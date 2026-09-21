@@ -1,0 +1,240 @@
+{
+  "doc_id": "ch074",
+  "global_index": 74,
+  "label_ko": "11편 5장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "father"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan's lodge",
+      "type": "Place",
+      "aliases": [
+        "roomy and fairly comfortable lodge"
+      ]
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Lise's note",
+      "type": "Object",
+      "aliases": [
+        "letter"
+      ]
+    },
+    {
+      "name": "Mitya's document",
+      "type": "Object",
+      "aliases": [
+        "document in her hands, in Mitya's own writing"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "tiny, slanting, wooden house",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "saw a man coming down, and as they met, he recognized him as his brother.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "saw a man coming down, and as they met, he recognized him as his brother.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "It was you, you who persuaded me that he murdered his father.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "It’s not he murdered father, not he!",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan Fyodorovitch",
+      "quote": "“Katerina Ivanovna loves you, brother,” said Alyosha sadly.",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "Lise's note",
+      "quote": "he took Lise’s note from his pocket and held it out to Ivan.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "Mitya's document",
+      "quote": "She’s got a document in her hands, in Mitya’s own writing, that proves conclusively that he did murder Fyodor Pavlovitch.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "It was you, you who persuaded me that he murdered his father. It’s only you I believed!",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "She’s got a document in her hands, in Mitya’s own writing, that proves conclusively that he did murder Fyodor Pavlovitch.",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "You have accused yourself and have confessed to yourself that you are the murderer and no one else.",
+      "disputed": true,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "Ivan's lodge",
+      "quote": "Ivan lived some distance from him. He had taken a roomy and fairly comfortable lodge attached to a fine house",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Marya Kondratyevna",
+      "relation": "LIVES_AT",
+      "object": "tiny, slanting, wooden house",
+      "quote": "where Marya Kondratyevna, the neighbor who used to come to Fyodor Pavlovitch’s kitchen for soup and to whom Smerdyakov had once sung his songs and played on the guitar, was now lodging.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LIVES_AT",
+      "object": "tiny, slanting, wooden house",
+      "quote": "Smerdyakov, who was ill—almost dying—had been with them ever since Fyodor Pavlovitch’s death.",
+      "disputed": false,
+      "first_revealed_index": 74,
+      "doc_id": "ch074",
+      "label_ko": "11편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

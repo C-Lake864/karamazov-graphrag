@@ -1,0 +1,239 @@
+{
+  "doc_id": "ch053",
+  "global_index": 53,
+  "label_ko": "8편 8장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Stepanida",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya",
+      "type": "Character",
+      "aliases": [
+        "little Marya"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Mityenka"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Timofey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ex-Lieutenant Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "the old man"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "Grusha"
+      ]
+    },
+    {
+      "name": "Katya",
+      "type": "Character",
+      "aliases": [
+        "young lady"
+      ]
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch Karamazov",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Andrey",
+      "quote": "Mitya remembered Andrey again, and ordered punch to be sent out to him. “I was rude to him just now,” he repeated with a sinking, softened voice.",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "She was ashamed, and from her eyes he could see now whom she loved. Now he had everything to make life happy",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Mitya",
+      "quote": "Mitya, Mitya, how could I be such a fool as to think I could love any one after you? Do you forgive me, Mitya? Do you forgive me or not? Do you love me? Do you love me?",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "He jumped up and ran back to the room—to her, to her, his queen for ever! Was not one moment of her love worth all the rest of life, even in the agonies of disgrace?",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "QUARRELS_WITH",
+      "object": "Mitya",
+      "quote": "You will forgive me for having tormented you? It was through spite I tormented you all. It was for spite I drove the old man out of his mind....",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Kalganov",
+      "quote": "“Leave off laughing at Poland,” said Kalganov sententiously.",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Ex-Lieutenant Karamazov",
+      "quote": "Ex-Lieutenant Karamazov, it is my duty to inform you that you are charged with the murder of your father, Fyodor Pavlovitch Karamazov, perpetrated this night....",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Ex-Lieutenant Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch Karamazov",
+      "quote": "Ex-Lieutenant Karamazov, it is my duty to inform you that you are charged with the murder of your father, Fyodor Pavlovitch Karamazov, perpetrated this night....",
+      "disputed": true,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Ex-Lieutenant Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "I love you. I love only you. I’ll love you in Siberia....",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Ex-Lieutenant Karamazov",
+      "quote": "I was with some one I loved, with you. And far, far away. I was holding you and kissing you, nestling close to you.",
+      "disputed": false,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    },
+    {
+      "subject": "Ex-Lieutenant Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katya",
+      "quote": "Grusha, you wanted to be honest, but I’m a thief. But I’ve stolen money from Katya.... Disgrace, a disgrace!",
+      "disputed": true,
+      "first_revealed_index": 53,
+      "doc_id": "ch053",
+      "label_ko": "8편 8장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

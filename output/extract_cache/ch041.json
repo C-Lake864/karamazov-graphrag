@@ -1,0 +1,129 @@
+{
+  "doc_id": "ch041",
+  "global_index": 41,
+  "label_ko": "6편 3장",
+  "entities": [
+    {
+      "name": "Afanasy Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Afanasy"
+      ]
+    },
+    {
+      "name": "K.",
+      "type": "Place",
+      "aliases": [
+        "town of K."
+      ]
+    },
+    {
+      "name": "Russia",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Europe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Father Anfim",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "The Monastery",
+      "type": "Group",
+      "aliases": [
+        "monastery"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "the elder"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alexey Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Hermitage",
+      "type": "Place",
+      "aliases": [
+        "the hermitage"
+      ]
+    },
+    {
+      "name": "Monastery",
+      "type": "Place",
+      "aliases": [
+        "the monastery"
+      ]
+    },
+    {
+      "name": "Death of Father Zossima",
+      "type": "Event",
+      "aliases": [
+        "the elder's death",
+        "his death"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov's manuscript",
+      "type": "Object",
+      "aliases": [
+        "Alexey Fyodorovitch's manuscript"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Afanasy Pavlovitch",
+      "relation": "LIVES_AT",
+      "object": "K.",
+      "quote": "In my wanderings I met in the town of K. my old orderly, Afanasy.",
+      "disputed": false,
+      "first_revealed_index": 41,
+      "doc_id": "ch041",
+      "label_ko": "6편 3장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "PRESENT_AT",
+      "object": "Death of Father Zossima",
+      "quote": "The elder’s death came in the end quite unexpectedly.",
+      "disputed": false,
+      "first_revealed_index": 41,
+      "doc_id": "ch041",
+      "label_ko": "6편 3장"
+    },
+    {
+      "subject": "Death of Father Zossima",
+      "relation": "OCCURRED_AT",
+      "object": "Hermitage",
+      "quote": "The news of his death spread at once through the hermitage and reached the monastery.",
+      "disputed": false,
+      "first_revealed_index": 41,
+      "doc_id": "ch041",
+      "label_ko": "6편 3장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "Alexey Fyodorovitch Karamazov's manuscript",
+      "quote": "Here Alexey Fyodorovitch Karamazov’s manuscript ends.",
+      "disputed": false,
+      "first_revealed_index": 41,
+      "doc_id": "ch041",
+      "label_ko": "6편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,186 @@
+{
+  "doc_id": "ch059",
+  "global_index": 59,
+  "label_ko": "9편 6장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Mitya Karamazov",
+        "Dmitri Karamazov",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": [
+        "Nikolay Parfenovitch"
+      ]
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": [
+        "Ippolit Kirillovitch",
+        "the prosecutor"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Mr. Kalganov",
+        "Kalganov"
+      ]
+    },
+    {
+      "name": "Smoky topaz ring",
+      "type": "Object",
+      "aliases": [
+        "ring",
+        "smoky topaz"
+      ]
+    },
+    {
+      "name": "Kalganov's clothes",
+      "type": "Object",
+      "aliases": [
+        "clothes"
+      ]
+    },
+    {
+      "name": "Murder of Mitya's father",
+      "type": "Event",
+      "aliases": [
+        "murder of my father"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "official envelope",
+      "type": "Object",
+      "aliases": [
+        "envelope"
+      ]
+    },
+    {
+      "name": "pistols",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Nikolay Parfenovitch",
+      "quote": "Mitya flew into a passion. “I won’t have other people’s clothes!” he shouted menacingly, “give me my own!” “It’s impossible!” “Give me my own. Damn Kalganov and his clothes, too!”",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Ippolit Kirillovitch",
+      "quote": "“Well, what now? Are you going to flog me? That’s all that’s left for you,” he said, clenching his teeth and addressing the prosecutor.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Nikolay Parfenovitch",
+      "relation": "POSSESSES",
+      "object": "Smoky topaz ring",
+      "quote": "He pointed to one of the three large rings adorning Nikolay Parfenovitch’s right hand. “Ring?” repeated Nikolay Parfenovitch with surprise.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Mitya's father",
+      "quote": "Can you suppose that I would conceal it from you, if I had really killed my father, that I would shuffle, lie, and hide myself?",
+      "disputed": true,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "given us by Grigory, the old man you wounded.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "pistols",
+      "quote": "you pledged your pistols for the sake of ten roubles!",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Nikolay Parfenovitch",
+      "relation": "POSSESSES",
+      "object": "official envelope",
+      "quote": "Nikolay Parfenovitch laid upon the table a large and thick official envelope, on which three seals still remained intact.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "It’s Smerdyakov, that’s clear, now!",
+      "disputed": true,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    }
+  ],
+  "dropped_unquoted": 2
+}

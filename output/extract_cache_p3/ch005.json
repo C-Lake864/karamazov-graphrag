@@ -1,0 +1,173 @@
+{
+  "doc_id": "ch005",
+  "global_index": 5,
+  "label_ko": "1편 5장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima",
+        "elder Zossima"
+      ]
+    },
+    {
+      "name": "Païssy Velitchkovsky",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Apostle Thomas",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Caucasus",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "elder Zossima",
+        "the elder"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "He had, no doubt, impressed Alyosha by some peculiar quality of his soul. Alyosha lived in the cell of the elder, who was very fond of him and let him wait upon him.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "Caucasus",
+      "quote": "The elder Zossima was sixty-five. He came of a family of landowners, had been in the army in early youth, and served in the Caucasus as an officer.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "for he fully believed in the spiritual power of his teacher and rejoiced in his fame, in his glory, as though it were his own triumph.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "He more quickly made friends with his half-brother Dmitri (though he arrived later) than with his own brother Ivan.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "He more quickly made friends with his half-brother Dmitri (though he arrived later) than with his own brother Ivan.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "From him Alyosha learnt all the details of the important affair which had of late formed such a close and remarkable bond between the two elder brothers.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "It was at this time that the discord between Dmitri and his father seemed at its acutest stage and their relations had become insufferably strained.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "It was at this time that the discord between Dmitri and his father seemed at its acutest stage and their relations had become insufferably strained.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "It must be noted that he was not, like Ivan, staying with his father, but living apart at the other end of the town.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "LOVES",
+      "object": "Dmitri",
+      "quote": "He only sent word the day before, through a friend, to his brother Dmitri, that he loved him and expected him to keep his promise.",
+      "disputed": false,
+      "first_revealed_index": 5,
+      "doc_id": "ch005",
+      "label_ko": "1편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

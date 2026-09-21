@@ -1,0 +1,286 @@
+{
+  "doc_id": "ch087",
+  "global_index": 87,
+  "label_ko": "12편 8장",
+  "entities": [
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Dmitri Fyodorovitch",
+        "Dmitri Karamazov",
+        "the prisoner"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Madame Svyetlov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "the murder",
+        "catastrophe"
+      ]
+    },
+    {
+      "name": "Dmitri Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Ivan Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "the crime"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Smerdyakov",
+      "quote": "his master, who was also perhaps his father—Fyodor Pavlovitch;",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "his master’s elder son, Ivan Fyodorovitch,",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "they would, in fact, have suspected the son of the murdered man, Dmitri Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "The charge is confirmed by three persons only—the two brothers of the prisoner",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "He was naturally very honest and enjoyed the complete confidence of his master",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "then his servant, Grigory, but he was almost killed himself;",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Marfa Ignatyevna",
+      "relation": "RELATED_TO",
+      "object": "Grigory",
+      "quote": "the third person was Grigory’s wife, Marfa Ignatyevna,",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "The first person who cried out that Smerdyakov had committed the murder was the prisoner himself at the moment of his arrest",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "for the last two months he has completely shared our conviction of his brother’s guilt",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Ivan Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "The man is dead, I can throw the blame on him and save my brother.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Karamazov",
+      "quote": "He did not run respectfully and timidly away from his father’s window, though he was firmly convinced that the object of his affections was with him.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Most likely he killed him in anger, burning with resentment, as soon as he looked on his hated rival.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Had it been Smerdyakov, for instance, murdering his master to rob him, he would have simply carried away the envelope with him",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "he heard behind him the servant cry out; the old man caught him, stopped him and was felled to the ground by the brass pestle.",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "POSSESSES",
+      "object": "brass pestle",
+      "quote": "having killed him, probably with one blow of the brass pestle, and having convinced himself, after careful search, that she was not there",
+      "disputed": false,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Dmitri Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "Supposing that he did agree, it would still follow that Dmitri Karamazov is the murderer and the instigator, and Smerdyakov is only a passive accomplice",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "As soon as he is arrested the prisoner instantly throws all the blame on Smerdyakov, not accusing him of being his accomplice, but of being himself the murderer.",
+      "disputed": true,
+      "first_revealed_index": 87,
+      "doc_id": "ch087",
+      "label_ko": "12편 8장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

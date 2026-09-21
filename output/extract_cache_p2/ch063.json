@@ -1,0 +1,141 @@
+{
+  "doc_id": "ch063",
+  "global_index": 63,
+  "label_ko": "10편 1장",
+  "entities": [
+    {
+      "name": "Anna Fyodorovna",
+      "type": "Character",
+      "aliases": [
+        "Madame Krassotkin"
+      ]
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": [
+        "Krassotkin"
+      ]
+    },
+    {
+      "name": "Dardanelov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Dardanelov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perezvon",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Anna Fyodorovna",
+      "relation": "RAISED",
+      "object": "Kolya",
+      "quote": "From the day of his death she had devoted herself heart and soul to the bringing up of her precious treasure, her boy Kolya.",
+      "disputed": false,
+      "first_revealed_index": 63,
+      "doc_id": "ch063",
+      "label_ko": "10편 1장"
+    },
+    {
+      "subject": "Anna Fyodorovna",
+      "relation": "LOVES",
+      "object": "Kolya",
+      "quote": "Though she had loved him passionately those fourteen years, he had caused her far more suffering than happiness.",
+      "disputed": false,
+      "first_revealed_index": 63,
+      "doc_id": "ch063",
+      "label_ko": "10편 1장"
+    },
+    {
+      "subject": "Kolya",
+      "relation": "LOVES",
+      "object": "Anna Fyodorovna",
+      "quote": "His mother was mistaken; he was very fond of her.",
+      "disputed": false,
+      "first_revealed_index": 63,
+      "doc_id": "ch063",
+      "label_ko": "10편 1장"
+    },
+    {
+      "subject": "Dardanelov",
+      "relation": "LOVES",
+      "object": "Anna Fyodorovna",
+      "quote": "Dardanelov was a middle-aged bachelor, who had been passionately in love with Madame Krassotkin for many years past",
+      "disputed": false,
+      "first_revealed_index": 63,
+      "doc_id": "ch063",
+      "label_ko": "10편 1장"
+    },
+    {
+      "subject": "Dardanelov",
+      "relation": "MENTOR_OF",
+      "object": "Kolya",
+      "quote": "He was fond of the boy, though he would have felt it beneath him to try and win him over, and was severe and strict with him in class.",
+      "disputed": false,
+      "first_revealed_index": 63,
+      "doc_id": "ch063",
+      "label_ko": "10편 1장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "the boy already known to the reader as the son of Captain Snegiryov. Ilusha had been defending his father",
+      "disputed": false,
+      "first_revealed_index": 63,
+      "doc_id": "ch063",
+      "label_ko": "10편 1장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Kolya Krassotkin",
+      "quote": "Kolya Krassotkin was the boy stabbed with a penknife by the boy already known to the reader as the son of Captain Snegiryov.",
+      "disputed": false,
+      "first_revealed_index": 63,
+      "doc_id": "ch063",
+      "label_ko": "10편 1장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "POSSESSES",
+      "object": "Perezvon",
+      "quote": "“Perezvon,” the big, shaggy, mangy dog, which he had picked up a month before, brought home, and kept for some reason secretly indoors",
+      "disputed": false,
+      "first_revealed_index": 63,
+      "doc_id": "ch063",
+      "label_ko": "10편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

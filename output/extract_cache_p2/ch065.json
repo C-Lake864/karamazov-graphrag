@@ -1,0 +1,139 @@
+{
+  "doc_id": "ch065",
+  "global_index": 65,
+  "label_ko": "10편 3장",
+  "entities": [
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya",
+        "Krassotkin"
+      ]
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha Karamazov",
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Marya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Matvey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Herzenstube",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Sabaneyev",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Nikititch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perezvon",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Captain Snegiryov's lodging",
+      "type": "Place",
+      "aliases": [
+        "house"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Smurov",
+      "relation": "QUARRELS_WITH",
+      "object": "Ilusha",
+      "quote": "He was—if the reader has not forgotten—one of the group of boys who two months before had thrown stones at Ilusha.",
+      "disputed": false,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "QUARRELS_WITH",
+      "object": "Marya",
+      "quote": "“Call me Natasha! What next! My name is Marya,” the middle-aged market woman shouted at him.",
+      "disputed": false,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "LIVES_AT",
+      "object": "Captain Snegiryov's lodging",
+      "quote": "The boys made haste and they walked as far as Captain Snegiryov’s lodging, a considerable distance, quickly and almost in silence.",
+      "disputed": false,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    },
+    {
+      "subject": "Karamazov",
+      "relation": "LIVES_AT",
+      "object": "Captain Snegiryov's lodging",
+      "quote": "Twenty paces from the house Kolya stopped and told Smurov to go on ahead and ask Karamazov to come out to him.",
+      "disputed": false,
+      "first_revealed_index": 65,
+      "doc_id": "ch065",
+      "label_ko": "10편 3장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

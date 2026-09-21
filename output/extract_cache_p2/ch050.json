@@ -1,0 +1,387 @@
+{
+  "doc_id": "ch050",
+  "global_index": 50,
+  "label_ko": "8편 5장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Mityenka Karamazov",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nazar Ivanovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Ilyitch Perhotin",
+      "type": "Character",
+      "aliases": [
+        "Pyotr Ilyitch",
+        "Perhotin"
+      ]
+    },
+    {
+      "name": "Misha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Plotnikov's shop",
+      "type": "Place",
+      "aliases": [
+        "Plotnikov's"
+      ]
+    },
+    {
+      "name": "bundle of bank-notes",
+      "type": "Object",
+      "aliases": [
+        "money",
+        "hundred-rouble notes"
+      ]
+    },
+    {
+      "name": "pistols",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Pyotr Ilyitch Perhotin",
+      "type": "Character",
+      "aliases": [
+        "Pyotr Ilyitch",
+        "Perhotin"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": [
+        "the witch"
+      ]
+    },
+    {
+      "name": "Misha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Timofey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Plotnikovs' shop",
+      "type": "Place",
+      "aliases": [
+        "Plotnikov's shop",
+        "Plotnikovs'"
+      ]
+    },
+    {
+      "name": "Pistols",
+      "type": "Object",
+      "aliases": [
+        "pistols"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri",
+        "Dmitri Fyodorovitch",
+        "Dmitri Karamazov"
+      ]
+    },
+    {
+      "name": "Pyotr Ilyitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Andrey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Timofey",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Misha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvara Alexyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Metropolis",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "pistols",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Ilyitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "house where Grushenka lodged",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fenya",
+      "quote": "Mitya ran in, pounced on Fenya and seized her by the throat.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Pyotr Ilyitch Perhotin",
+      "quote": "Pyotr Ilyitch Perhotin, the young official with whom he had pawned his pistols.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "bundle of bank-notes",
+      "quote": "he suddenly caught sight of a bundle of bank-notes in Mitya’s hand",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Pyotr Ilyitch Perhotin",
+      "relation": "POSSESSES",
+      "object": "pistols",
+      "quote": "Pyotr Ilyitch Perhotin, the young official with whom he had pawned his pistols.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Misha",
+      "relation": "SERVANT_OF",
+      "object": "Pyotr Ilyitch Perhotin",
+      "quote": "Perhotin’s servant-boy, who met Mitya in the passage, said afterwards",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "and to tell him “to remember for ever how she had loved him for an hour.”",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "Pistols",
+      "quote": "He put the pistols in the case, locked it up, and kept it in his hand.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Pyotr Ilyitch Perhotin",
+      "quote": "It’s an odd thing, at six o’clock you pledged them for ten roubles, and now you’ve got thousands.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Madame Hohlakov",
+      "quote": "Did she really give you three thousand? Did she really?” said Pyotr Ilyitch, eyeing him dubiously.",
+      "disputed": true,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "Hasn’t he robbed his old father?—that’s the question.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "He boasted aloud that he would kill his father; we all heard him, here.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Fenya",
+      "relation": "SERVANT_OF",
+      "object": "Agrafena Alexandrovna",
+      "quote": "Dmitri Fyodorovitch, dear good Dmitri Fyodorovitch, don’t harm my mistress.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    },
+    {
+      "subject": "Grushenka",
+      "relation": "LIVES_AT",
+      "object": "house where Grushenka lodged",
+      "quote": "he turned abruptly and went towards the house where Grushenka lodged.",
+      "disputed": false,
+      "first_revealed_index": 50,
+      "doc_id": "ch050",
+      "label_ko": "8편 5장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

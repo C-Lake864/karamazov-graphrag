@@ -1,0 +1,171 @@
+{
+  "doc_id": "ch016",
+  "global_index": 16,
+  "label_ko": "3편 3장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "von Schmidt",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "note from Katerina Ivanovna",
+      "type": "Object",
+      "aliases": [
+        "note"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazovs"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "Alyosha remained for some time irresolute after hearing the command his father shouted to him from the carriage.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "Why, to send you to father and to her, Katerina Ivanovna, so as to have done with her and with father.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "She was trying to save his brother Dmitri simply through generosity, though he had already behaved badly to her.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "She was trying to save his brother Dmitri simply through generosity, though he had already behaved badly to her.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "I could take you in my arms, Alyosha, and press you to my bosom till I crush you, for in the whole world—in reality—in re-al-i-ty—(can you take it in?) I love no one but you!",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "POSSESSES",
+      "object": "note from Katerina Ivanovna",
+      "quote": "“Here is her note.” Alyosha took it out of his pocket.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Listen, Alyosha, listen, brother! Now I mean to tell you everything, for I must tell some one.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "Has it reformed me? Never! For I’m a Karamazov. For when I do leap into the pit, I go headlong with my heels up",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "All we Karamazovs are such insects, and, angel as you are, that insect lives in you, too, and will stir up a tempest in your blood.",
+      "disputed": false,
+      "first_revealed_index": 16,
+      "doc_id": "ch016",
+      "label_ko": "3편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

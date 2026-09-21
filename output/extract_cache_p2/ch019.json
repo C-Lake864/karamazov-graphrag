@@ -1,0 +1,127 @@
+{
+  "doc_id": "ch019",
+  "global_index": 19,
+  "label_ko": "3편 6장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Balaam’s ass"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alyosha",
+      "quote": "Alyosha, let me give you my blessing—a father’s blessing.",
+      "disputed": false,
+      "first_revealed_index": 19,
+      "doc_id": "ch019",
+      "label_ko": "3편 6장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "Do you know, Ivan, I can’t resist the way he looks one straight in the face and laughs? It makes me laugh all over. I’m so fond of him.",
+      "disputed": false,
+      "first_revealed_index": 19,
+      "doc_id": "ch019",
+      "label_ko": "3편 6장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "The servants, Grigory and Smerdyakov, were standing by.",
+      "disputed": false,
+      "first_revealed_index": 19,
+      "doc_id": "ch019",
+      "label_ko": "3편 6장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "The servants, Grigory and Smerdyakov, were standing by.",
+      "disputed": false,
+      "first_revealed_index": 19,
+      "doc_id": "ch019",
+      "label_ko": "3편 6장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Smerdyakov",
+      "quote": "He was brought up by Grigory and Marfa, but the boy grew up “with no sense of gratitude,” as Grigory expressed it",
+      "disputed": false,
+      "first_revealed_index": 19,
+      "doc_id": "ch019",
+      "label_ko": "3편 6장"
+    },
+    {
+      "subject": "Marfa",
+      "relation": "RAISED",
+      "object": "Smerdyakov",
+      "quote": "He was brought up by Grigory and Marfa, but the boy grew up “with no sense of gratitude,” as Grigory expressed it",
+      "disputed": false,
+      "first_revealed_index": 19,
+      "doc_id": "ch019",
+      "label_ko": "3편 6장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "MENTOR_OF",
+      "object": "Smerdyakov",
+      "quote": "Grigory taught him to read and write, and when he was twelve years old, began teaching him the Scriptures.",
+      "disputed": false,
+      "first_revealed_index": 19,
+      "doc_id": "ch019",
+      "label_ko": "3편 6장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Grigory could not restrain himself. “I’ll show you where!” he cried, and gave the boy a violent slap on the cheek.",
+      "disputed": false,
+      "first_revealed_index": 19,
+      "doc_id": "ch019",
+      "label_ko": "3편 6장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

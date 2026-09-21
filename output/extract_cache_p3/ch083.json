@@ -1,0 +1,317 @@
+{
+  "doc_id": "ch083",
+  "global_index": 83,
+  "label_ko": "12편 4장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "the little bag",
+      "type": "Object",
+      "aliases": [
+        "fifteen hundred roubles"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "the murder",
+      "type": "Event",
+      "aliases": [
+        "the catastrophe"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "court",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "Alyosha gave his evidence modestly and with restraint, but his warm sympathy for his unhappy brother was unmistakable.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "I was led to do so by my brother Dmitri’s words.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "repaying Katerina Ivanovna half (half, note!) what he owed her, he yet could not bring himself to repay the money",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "ENGAGED_TO",
+      "object": "Dmitri",
+      "quote": "Katerina Ivanovna replied firmly that she had been formerly betrothed to the prisoner, “until he left me of his own accord...”",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "ACCUSED_OF",
+      "object": "the murder",
+      "quote": "he repelled with indignation the suggestion that his brother might have committed a murder for the sake of gain",
+      "disputed": true,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "the murder",
+      "quote": "I made no accusation against Smerdyakov of myself.” “Yet you gave evidence against him?” “I was led to do so by my brother Dmitri’s words.",
+      "disputed": true,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "POSSESSES",
+      "object": "the little bag",
+      "quote": "Mitya confirmed it, saying that he had been pointing to the fifteen hundred roubles which were on his breast, just below the neck",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "When they asked her about the three thousand she had entrusted to Mitya to post to her relations, she said firmly",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "I knew he had a feud with his father and have always believed that he had been unfairly treated by his father.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "I knew he had a feud with his father and have always believed that he had been unfairly treated by his father.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "He felt quite certain that he would receive the money from his father, and spoke to me several times about it. I knew he had a feud with his father",
+      "disputed": true,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "I was once indebted to him for assistance in money for more than three thousand, and I took it",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "The lackey, Smerdyakov, who murdered his master and hanged himself last night.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "RELATED_TO",
+      "object": "Grushenka",
+      "quote": "Why, he is my cousin. His mother was my mother’s sister.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Samsonov",
+      "relation": "RAISED",
+      "object": "Grushenka",
+      "quote": "He was my benefactor; he took me when I hadn’t a shoe to my foot, when my family had turned me out.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "RIVAL_OF",
+      "object": "Grushenka",
+      "quote": "The woman who came between us has ruined him; she is the cause of it all, let me tell you",
+      "disputed": true,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "PRESENT_AT",
+      "object": "court",
+      "quote": "as she finished giving her evidence and sat down again in the court, at a good distance from Katerina Ivanovna.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "court",
+      "quote": "Mitya was silent throughout her evidence. He sat as though turned to stone, with his eyes fixed on the ground.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "PRESENT_AT",
+      "object": "court",
+      "quote": "Ivan was called to give evidence.",
+      "disputed": false,
+      "first_revealed_index": 83,
+      "doc_id": "ch083",
+      "label_ko": "12편 4장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

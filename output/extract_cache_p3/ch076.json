@@ -1,0 +1,314 @@
+{
+  "doc_id": "ch076",
+  "global_index": 76,
+  "label_ko": "11편 7장",
+  "entities": [
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "dilapidated little wooden house",
+      "type": "Place",
+      "aliases": [
+        "Smerdyakov's new lodging"
+      ]
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "D. KARAMAZOV"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvinsky",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Metropolis",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Mitya's letter to Katerina Ivanovna",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Dmitri's father",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Smerdyakov",
+      "relation": "ENGAGED_TO",
+      "object": "Marya Kondratyevna",
+      "quote": "It was supposed afterwards that he had come to stay with them as Marya Kondratyevna’s betrothed",
+      "disputed": true,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "Then you ought, as your father’s son, to have had me taken to the lock-up and thrashed at once for my words then",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "So you thought then, you scoundrel, that together with Dmitri I meant to kill my father?",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "for I thought if you wanted the same as your brother, then the business was as good as settled",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "so his share of the inheritance would come to you and your brother Alexey Fyodorovitch in equal parts",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Ivan jumped up and struck him with all his might on the shoulder, so that he fell back against the wall.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "in the same complacent and sententious tone in which he had taunted Grigory and argued with him about religion at Fyodor Pavlovitch’s table",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LIVES_AT",
+      "object": "dilapidated little wooden house",
+      "quote": "the dilapidated little wooden house, divided in two by a passage on one side of which lived Marya Kondratyevna and her mother, and on the other, Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Marya Kondratyevna",
+      "relation": "LIVES_AT",
+      "object": "dilapidated little wooden house",
+      "quote": "the dilapidated little wooden house, divided in two by a passage on one side of which lived Marya Kondratyevna and her mother, and on the other, Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "if I don’t beat you to death, it’s simply because I suspect you of that crime and I’ll drag you to justice.",
+      "disputed": true,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "To-morrow I will get the money and repay your three thousand and farewell, woman of great wrath, but farewell, too, my love!",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Better Siberia than your love, for I love another woman and you got to know her too well to-day, so how can you forgive?",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "They were like two enemies in love with one another.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Ivan",
+      "quote": "They were like two enemies in love with one another.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "PRESENT_AT",
+      "object": "Metropolis",
+      "quote": "in the evening he was at the “Metropolis,” where he got thoroughly drunk.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "Mitya's letter to Katerina Ivanovna",
+      "quote": "went to her writing-table, opened a box standing on it, took out a sheet of paper and laid it before Ivan.",
+      "disputed": false,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Dmitri's father",
+      "quote": "This was the document of which Ivan spoke to Alyosha later on as a “conclusive proof” that Dmitri had killed his father.",
+      "disputed": true,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Dmitri's father",
+      "quote": "if I don’t beat you to death, it’s simply because I suspect you of that crime and I’ll drag you to justice.",
+      "disputed": true,
+      "first_revealed_index": 76,
+      "doc_id": "ch076",
+      "label_ko": "11편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

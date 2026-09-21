@@ -1,0 +1,114 @@
+{
+  "doc_id": "ch026",
+  "global_index": 26,
+  "label_ko": "4편 2장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "lodge",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "On the way he remembered that his father had insisted the day before that he should come without his brother Ivan seeing him.",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "Is that betrothed of his, Katerina Ivanovna, whom he has kept so carefully hidden from me all this time, going to marry him or not?",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Mitya",
+      "quote": "There you see how dearly these fine young ladies love a rake and a scoundrel.",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "RIVAL_OF",
+      "object": "Mitya",
+      "quote": "He is doing his utmost to carry off Mitya’s betrothed. That’s what he is staying here for,” he added maliciously",
+      "disputed": true,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "LIVES_AT",
+      "object": "lodge",
+      "quote": "Marfa Ignatyevna, who opened the garden gate to him (Grigory, it appeared, was ill in bed in the lodge)",
+      "disputed": false,
+      "first_revealed_index": 26,
+      "doc_id": "ch026",
+      "label_ko": "4편 2장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

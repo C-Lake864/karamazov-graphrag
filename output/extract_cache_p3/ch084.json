@@ -1,0 +1,243 @@
+{
+  "doc_id": "ch084",
+  "global_index": 84,
+  "label_ko": "12편 5장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "roll of notes",
+      "type": "Object",
+      "aliases": [
+        "money",
+        "notes"
+      ]
+    },
+    {
+      "name": "letter",
+      "type": "Object",
+      "aliases": [
+        "document"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "letter from Mitya",
+      "type": "Object",
+      "aliases": [
+        "letter",
+        "document"
+      ]
+    },
+    {
+      "name": "murder of his father",
+      "type": "Event",
+      "aliases": [
+        "murder"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "Mitya stood up and greedily looked at his brother and listened to him with a wild, strange smile.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "because he owed me that three thousand.... Oh! he was humiliated by that three thousand on account of his own meanness!",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "POSSESSES",
+      "object": "roll of notes",
+      "quote": "Ivan suddenly pulled out a roll of notes. “Here’s the money ... the notes that lay in that envelope”",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "letter",
+      "quote": "Here is a document, a letter ... take it, read it quickly, quickly! It’s a letter from that monster",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "roll of notes",
+      "quote": "I got them from Smerdyakov, from the murderer, yesterday.... I was with him just before he hanged himself.",
+      "disputed": true,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "He wanted to repay it me. He wanted to, that’s true; but he needed money for that creature, too.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Mitya",
+      "quote": "He couldn’t endure the thought that his own brother was a parricide!",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "We’ve hated each other for many things, Katya, but I swear, I swear I loved you even while I hated you, and you didn’t love me!",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "LOVES",
+      "object": "Mitya",
+      "quote": "I tried to conquer him by my love—a love that knew no bounds.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Katerina Ivanovna",
+      "quote": "We’ve hated each other for many things, Katya, but I swear, I swear I loved you even while I hated you",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "POSSESSES",
+      "object": "letter from Mitya",
+      "quote": "Then I brought out that letter and showed it him.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of his father",
+      "quote": "for the legend was circulating everywhere that Smerdyakov had done it",
+      "disputed": true,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "murder of his father",
+      "quote": "He was entirely convinced that his brother had done it, and he was overwhelmed by it.",
+      "disputed": false,
+      "first_revealed_index": 84,
+      "doc_id": "ch084",
+      "label_ko": "12편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

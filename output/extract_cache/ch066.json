@@ -1,0 +1,152 @@
+{
+  "doc_id": "ch066",
+  "global_index": 66,
+  "label_ko": "10편 4장",
+  "entities": [
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": [
+        "Krassotkin"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Tuzikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perezvon",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "penknife",
+      "type": "Object",
+      "aliases": [
+        "knife"
+      ]
+    },
+    {
+      "name": "Nikolay Ivanovitch Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya",
+        "Krassotkin"
+      ]
+    },
+    {
+      "name": "Alyosha Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perezvon",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Zhutchka",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Kolya",
+      "relation": "MENTOR_OF",
+      "object": "Ilusha",
+      "quote": "I am teaching him, developing him. Why shouldn’t I develop him if I like him?",
+      "disputed": false,
+      "first_revealed_index": 66,
+      "doc_id": "ch066",
+      "label_ko": "10편 4장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Kolya",
+      "quote": "he pulled out a penknife, rushed at me, and struck at my thigh, here in my right leg.",
+      "disputed": false,
+      "first_revealed_index": 66,
+      "doc_id": "ch066",
+      "label_ko": "10편 4장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "POSSESSES",
+      "object": "penknife",
+      "quote": "he pulled out a penknife, rushed at me, and struck at my thigh, here in my right leg.",
+      "disputed": false,
+      "first_revealed_index": 66,
+      "doc_id": "ch066",
+      "label_ko": "10편 4장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Alyosha",
+      "quote": "And then I heard that the same day he’d been throwing stones and had bitten your finger",
+      "disputed": true,
+      "first_revealed_index": 66,
+      "doc_id": "ch066",
+      "label_ko": "10편 4장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Nikolay Ivanovitch Krassotkin",
+      "quote": "the same day he’d been throwing stones and had bitten your finger—but you understand now what a state he was in!",
+      "disputed": false,
+      "first_revealed_index": 66,
+      "doc_id": "ch066",
+      "label_ko": "10편 4장"
+    },
+    {
+      "subject": "Nikolay Ivanovitch Krassotkin",
+      "relation": "POSSESSES",
+      "object": "Perezvon",
+      "quote": "“And as soon as I saw you with a dog, I thought it was Zhutchka you were bringing.” “Wait a bit, Karamazov, perhaps we shall find it yet; but this is Perezvon.",
+      "disputed": false,
+      "first_revealed_index": 66,
+      "doc_id": "ch066",
+      "label_ko": "10편 4장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

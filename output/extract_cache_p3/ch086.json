@@ -1,0 +1,221 @@
+{
+  "doc_id": "ch086",
+  "global_index": 86,
+  "label_ko": "12편 7장",
+  "entities": [
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mr. Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Rakitin"
+      ]
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lyagavy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "brass pestle",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "letter",
+      "type": "Object",
+      "aliases": [
+        "fatal document"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand"
+      ]
+    },
+    {
+      "name": "Metropolis tavern",
+      "type": "Place",
+      "aliases": [
+        "Metropolis"
+      ]
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Siberia",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "murder",
+        "crime"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "suspecting that she would go to Fyodor Pavlovitch in his absence, he returned at last to the town, to find, to his joy, that she had not been near his father.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Here Ippolit Kirillovitch described at length the prisoner’s fatal passion for Grushenka.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "At the same time the prisoner’s father was captivated by the same young person—a strange and fatal coincidence, for they both lost their hearts to her simultaneously",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "stretching out hands that were already stained with the blood of his father and rival.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "horrible scene of violence when the prisoner had rushed into his father’s house just after dinner.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "which the son looked upon as his own property, part of his inheritance from his mother, of which his father was cheating him.",
+      "disputed": true,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "and there learns that Smerdyakov is in a fit, that the other servant is ill—the coast is clear",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "brass pestle",
+      "quote": "But note, frantic as he was, he took with him a brass pestle.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "POSSESSES",
+      "object": "letter",
+      "quote": "On the evening he wrote that letter at the ‘Metropolis’ tavern, contrary to his custom he was silent, though he had been drinking.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "Metropolis tavern",
+      "quote": "On the evening he wrote that letter at the ‘Metropolis’ tavern, contrary to his custom he was silent, though he had been drinking.",
+      "disputed": false,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "Then the prosecutor went on to describe how the idea of murdering his father had entered the prisoner’s head, and illustrated his theory with facts.",
+      "disputed": true,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "murder of Fyodor Pavlovitch",
+      "quote": "At this point Ippolit Kirillovitch broke off to discuss exhaustively the suspected connection of Smerdyakov with the murder.",
+      "disputed": true,
+      "first_revealed_index": 86,
+      "doc_id": "ch086",
+      "label_ko": "12편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

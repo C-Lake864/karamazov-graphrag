@@ -1,0 +1,179 @@
+{
+  "doc_id": "ch010",
+  "global_index": 10,
+  "label_ko": "2편 5장",
+  "entities": [
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "the elder"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Iosif",
+      "type": "Character",
+      "aliases": [
+        "the librarian",
+        "Father Librarian"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "the elder's cell",
+      "type": "Place",
+      "aliases": [
+        "cell"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov",
+        "Pyotr Alexandrovitch"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "the elder"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Iosif",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pope Gregory the Seventh",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Paris",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Miüsov",
+      "quote": "He had been waiting for some time to pay off old scores, and now he could not let the opportunity slip. Bending over his shoulder he began teasing him again in a whisper.",
+      "disputed": false,
+      "first_revealed_index": 10,
+      "doc_id": "ch010",
+      "label_ko": "2편 5장"
+    },
+    {
+      "subject": "Miüsov",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan Fyodorovitch",
+      "quote": "He had had intellectual encounters with Ivan before and he could not endure a certain carelessness Ivan showed him.",
+      "disputed": false,
+      "first_revealed_index": 10,
+      "doc_id": "ch010",
+      "label_ko": "2편 5장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "the elder's cell",
+      "quote": "The elder’s absence from his cell had lasted for about twenty-five minutes.",
+      "disputed": false,
+      "first_revealed_index": 10,
+      "doc_id": "ch010",
+      "label_ko": "2편 5장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan Fyodorovitch",
+      "quote": "I suspect you are simply amusing yourself, Ivan Fyodorovitch.",
+      "disputed": true,
+      "first_revealed_index": 10,
+      "doc_id": "ch010",
+      "label_ko": "2편 5장"
+    },
+    {
+      "subject": "Father Païssy",
+      "relation": "QUARRELS_WITH",
+      "object": "Pyotr Alexandrovitch Miüsov",
+      "quote": "“You are completely misunderstanding it,” said Father Païssy sternly.",
+      "disputed": false,
+      "first_revealed_index": 10,
+      "doc_id": "ch010",
+      "label_ko": "2편 5장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "LIVES_AT",
+      "object": "Paris",
+      "quote": "Some years ago, soon after the _coup d’état_ of December, I happened to be calling in Paris on an extremely influential personage in the Government",
+      "disputed": false,
+      "first_revealed_index": 10,
+      "doc_id": "ch010",
+      "label_ko": "2편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

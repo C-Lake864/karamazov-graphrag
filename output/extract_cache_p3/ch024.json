@@ -1,0 +1,147 @@
+{
+  "doc_id": "ch024",
+  "global_index": 24,
+  "label_ko": "3편 11장",
+  "entities": [
+    {
+      "name": "Alexey",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri",
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Porfiry",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "elder"
+      ]
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "mamma"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "little pink note",
+      "type": "Object",
+      "aliases": [
+        "letter",
+        "note"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "“Nothing, brother—it’s the fright you gave me. Oh, Dmitri! Father’s blood just now.”",
+      "disputed": false,
+      "first_revealed_index": 24,
+      "doc_id": "ch024",
+      "label_ko": "3편 11장"
+    },
+    {
+      "subject": "Katerina Ivanovna",
+      "relation": "QUARRELS_WITH",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "though Alyosha had just told him of the insult, and Katerina Ivanovna’s cry: “Your brother is a scoundrel!”",
+      "disputed": false,
+      "first_revealed_index": 24,
+      "doc_id": "ch024",
+      "label_ko": "3편 11장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "Understand, Alexey, that if you return to the world, it must be to do the duty laid upon you by your elder, and not for frivolous vanity and worldly pleasures.",
+      "disputed": false,
+      "first_revealed_index": 24,
+      "doc_id": "ch024",
+      "label_ko": "3편 11장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "LOVES",
+      "object": "Alexey Fyodorovitch",
+      "quote": "Dear Alyosha, I love you, I’ve loved you from my childhood, since our Moscow days, when you were very different from what you are now, and I shall love you all my life.",
+      "disputed": false,
+      "first_revealed_index": 24,
+      "doc_id": "ch024",
+      "label_ko": "3편 11장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "little pink note",
+      "quote": "As he was praying, he suddenly felt in his pocket the little pink note the servant had handed him as he left Katerina Ivanovna’s.",
+      "disputed": false,
+      "first_revealed_index": 24,
+      "doc_id": "ch024",
+      "label_ko": "3편 11장"
+    }
+  ],
+  "dropped_unquoted": 3
+}

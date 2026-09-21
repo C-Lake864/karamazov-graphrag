@@ -1,0 +1,305 @@
+{
+  "doc_id": "ch012",
+  "global_index": 12,
+  "label_ko": "2편 7장",
+  "entities": [
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima"
+      ]
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Misha"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazovs"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Misha"
+      ]
+    },
+    {
+      "name": "Father Isidor",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazovs"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "This is my last message to you: in sorrow seek happiness. Work, work unceasingly.",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri",
+      "quote": "That bowing to your brother, Dmitri. And didn’t he tap the ground with his forehead, too!",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "If even you are a sensualist at heart, what of your brother, Ivan? He’s a Karamazov, too.",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "You’re a Karamazov too, you know! In your family sensuality is carried to a disease.",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "If even you are a sensualist at heart, what of your brother, Ivan? He’s a Karamazov, too.",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "Since he has openly abandoned his betrothed for her, he doesn’t despise her.",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "Since he has openly abandoned his betrothed for her, he doesn’t despise her.",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "RIVAL_OF",
+      "object": "Dmitri",
+      "quote": "He’s trying to get Mitya’s betrothed for himself, and I fancy he’ll succeed, too.",
+      "disputed": true,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "He’ll carry off Katerina Ivanovna, for whom he is languishing, and pocket her dowry of sixty thousand.",
+      "disputed": true,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "to abandon his betrothed, a rare beauty, Katerina Ivanovna, who’s rich, and the daughter of a colonel",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "I’ve suspected that for a long time, brother, that’s why you don’t like my brother Ivan.",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "And by the way, do you remember how your brother Mitya cried out: ‘I will remember!’",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "He’ll carry off Katerina Ivanovna, for whom he is languishing, and pocket her dowry of sixty thousand.",
+      "disputed": true,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "LOVES",
+      "object": "Katerina Ivanovna",
+      "quote": "I guess from your warmth that you are not indifferent to Katerina Ivanovna yourself; I’ve suspected that for a long time, brother",
+      "disputed": true,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "RIVAL_OF",
+      "object": "Ivan",
+      "quote": "that’s why you don’t like my brother Ivan. Are you jealous of him?",
+      "disputed": true,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Ivan",
+      "quote": "Don’t you understand that one might very well dislike him, apart from Katerina Ivanovna. And why the devil should I like him? He condescends to abuse me, you know.",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "RELATED_TO",
+      "object": "Grushenka",
+      "quote": "Oh, yes, I’d forgotten she was a relation of yours.” “A relation! That Grushenka a relation of mine!”",
+      "disputed": true,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "MEMBER_OF",
+      "object": "Karamazov family",
+      "quote": "You Karamazovs brag of being an ancient, noble family, though your father used to run about playing the buffoon at other men’s tables",
+      "disputed": false,
+      "first_revealed_index": 12,
+      "doc_id": "ch012",
+      "label_ko": "2편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

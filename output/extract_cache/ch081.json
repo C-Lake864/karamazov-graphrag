@@ -1,0 +1,259 @@
+{
+  "doc_id": "ch081",
+  "global_index": 81,
+  "label_ko": "12편 2장",
+  "entities": [
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "old servant"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "master",
+        "father",
+        "Æsop",
+        "Pierrot"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "prisoner"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": [
+        "counsel for the defense"
+      ]
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": [
+        "Karamazovs"
+      ]
+    },
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Pan Mitya"
+      ]
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": [
+        "Mr. Rakitin"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka",
+        "Madame Svyetlov"
+      ]
+    },
+    {
+      "name": "twenty-five roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "carousal at Mokroe",
+      "type": "Event",
+      "aliases": [
+        "first carousal at Mokroe"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "So, for instance, when Grigory, Fyodor Pavlovitch’s old servant, who had given the most damning piece of evidence about the open door, was examined",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "It wasn’t fair either of the father to wrong his son over his mother’s property, which was by right his.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Dmitri",
+      "quote": "He’d have been devoured by lice when he was little, if it hadn’t been for me,” he added, describing Mitya’s early childhood.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "Grigory’s description of the scene at the dinner-table, when Dmitri had burst in and beaten his father, threatening to come back to kill him",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "He observed that he was not angry with Mitya for having knocked him down and struck him on the face; he had forgiven him long ago, he said.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri",
+      "quote": "In reply to the prosecutor’s question what grounds he had for asserting that Fyodor Pavlovitch had wronged his son in their money relations, Grigory, to the surprise of every one, had no proof",
+      "disputed": true,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "and related how Smerdyakov had once found the master’s money in the yard, and, instead of concealing it, had taken it to his master",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "Ilusha, my little son. ‘Father, father, how he insulted you!’ He said that at the stone. Now he is dying....",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Captain Snegiryov",
+      "quote": "On being asked about Mitya’s attack upon him, he refused to answer. “God bless him. Ilusha told me not to.",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "When, after Rakitin’s cross-examination, the President asked the prisoner if he had anything to say, Mitya cried loudly: “Since I’ve been arrested, he has borrowed money from me!",
+      "disputed": true,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Rakitin",
+      "quote": "Enraged by the tone in which Rakitin had referred to Grushenka, he suddenly shouted “Bernard!”",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "POSSESSES",
+      "object": "twenty-five roubles",
+      "quote": "did you receive the twenty-five roubles from Madame Svyetlov as a reward, that’s what I wanted to hear from you?” “It was a joke",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "carousal at Mokroe",
+      "relation": "OCCURRED_AT",
+      "object": "Mokroe",
+      "quote": "asking him about an incident at the first carousal at Mokroe, a month before the arrest",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "PRESENT_AT",
+      "object": "carousal at Mokroe",
+      "quote": "asking him about an incident at the first carousal at Mokroe, a month before the arrest",
+      "disputed": false,
+      "first_revealed_index": 81,
+      "doc_id": "ch081",
+      "label_ko": "12편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

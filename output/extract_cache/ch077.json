@@ -1,0 +1,336 @@
+{
+  "doc_id": "ch077",
+  "global_index": 77,
+  "label_ko": "11편 8장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three packets of hundred-rouble notes"
+      ]
+    },
+    {
+      "name": "The Sayings of the Holy Father Isaac the Syrian",
+      "type": "Object",
+      "aliases": [
+        "big yellow book"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "iron paper-weight",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "three thousand rubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand",
+        "envelope with the notes"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "three rolls of notes",
+      "type": "Object",
+      "aliases": [
+        "notes",
+        "money"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "“Listen. Did you kill him alone? With my brother’s help or without?”",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Ivan",
+      "quote": "The startling, incredibly supercilious tone of this man who had once been his valet, was extraordinary in itself.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Ivan jumped up and seized him by the shoulder. “Tell me everything, you viper! Tell me everything!”",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "three thousand roubles",
+      "quote": "“They are all here, all the three thousand roubles; you need not count them. Take them,” Smerdyakov suggested to Ivan, nodding at the notes.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "The Sayings of the Holy Father Isaac the Syrian",
+      "quote": "took up the big yellow book that Ivan had noticed at first lying on the table, and put it over the notes. The book was _The Sayings of the Holy Father Isaac the Syrian_.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "revealing your eagerness for your father’s death, and I tell you the public would have believed it all",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "I went to the window and shouted to the master, ‘It’s I.’",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "he was awfully crazy about her—and he leaned right out of the window.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "iron paper-weight",
+      "quote": "I snatched up that iron paper-weight from his table; do you remember, weighing about three pounds?",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "three thousand rubles",
+      "quote": "I wrapped all the notes in the rag and stuffed it deep down in the hole.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "PRESENT_AT",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "I swung it and hit him on the top of the skull with the corner of it. He didn’t even cry out.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "PRESENT_AT",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "I swung it and hit him on the top of the skull with the corner of it. He didn’t even cry out.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "even if I’d been suspected, instead of Dmitri Fyodorovitch, or as his accomplice",
+      "disputed": true,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "I want to prove to your face this evening that you are the only real murderer in the whole affair",
+      "disputed": true,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan Fyodorovitch",
+      "quote": "perhaps I, too, was guilty; perhaps I really had a secret desire for my father’s ... death, but I swear I was not as guilty as you think",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "or that you’re so sorry for your brother that you are sacrificing yourself to save him and have invented it all against me",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "MENTOR_OF",
+      "object": "Smerdyakov",
+      "quote": "That was quite right what you taught me, for you talked a lot to me about that.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Listen, you miserable, contemptible creature! Don’t you understand that if I haven’t killed you, it’s simply because I am keeping you to answer to-morrow at the trial.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "three rolls of notes",
+      "quote": "Ivan took the three rolls of notes and put them in his pocket without wrapping them in anything.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "three rolls of notes",
+      "quote": "Smerdyakov lifted the book off the notes and laid it on one side.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

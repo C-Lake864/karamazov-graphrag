@@ -1,0 +1,214 @@
+{
+  "doc_id": "ch059",
+  "global_index": 59,
+  "label_ko": "9편 6장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Mitya Karamazov",
+        "Dmitri Karamazov",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": [
+        "Mr. Kalganov"
+      ]
+    },
+    {
+      "name": "Gridyenko",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trifon Borissovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smoky topaz ring",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov's clothes",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Dmitri's father",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri Fyodorovitch"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Official envelope",
+      "type": "Object",
+      "aliases": [
+        "envelope"
+      ]
+    },
+    {
+      "name": "Pistols",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Dmitri's father",
+      "type": "Event",
+      "aliases": [
+        "murder"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Nikolay Parfenovitch",
+      "quote": "“I ask you for the second time—need I take off my shirt or not?” he said, still more sharply and irritably.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Ippolit Kirillovitch",
+      "quote": "“Well, what now? Are you going to flog me? That’s all that’s left for you,” he said, clenching his teeth and addressing the prosecutor.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "given us by Grigory, the old man you wounded.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Nikolay Parfenovitch",
+      "relation": "POSSESSES",
+      "object": "Smoky topaz ring",
+      "quote": "“What is the stone in your ring?” Mitya interrupted suddenly, as though awakening from a reverie. He pointed to one of the three large rings adorning Nikolay Parfenovitch’s right hand.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "given us by Grigory, the old man you wounded.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "“Nonsense!” he yelled, in a sudden frenzy, “it’s a barefaced lie. He couldn’t have seen the door open because it was shut. He’s lying!”",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Dmitri's father",
+      "quote": "“It’s he who’s murdered him! He’s robbed him! No one else knew where the old man hid the envelope. It’s Smerdyakov, that’s clear, now!”",
+      "disputed": true,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Dmitri's father",
+      "quote": "On the one hand we have the evidence of the open door from which you ran out, a fact which overwhelms you and us.",
+      "disputed": true,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Nikolay Parfenovitch",
+      "relation": "POSSESSES",
+      "object": "Official envelope",
+      "quote": "Nikolay Parfenovitch laid upon the table a large and thick official envelope, on which three seals still remained intact.",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "Pistols",
+      "quote": "when only three hours earlier, on your own showing, you pledged your pistols for the sake of ten roubles!",
+      "disputed": false,
+      "first_revealed_index": 59,
+      "doc_id": "ch059",
+      "label_ko": "9편 6장"
+    }
+  ],
+  "dropped_unquoted": 2
+}

@@ -1,0 +1,102 @@
+{
+  "doc_id": "ch082",
+  "global_index": 82,
+  "label_ko": "12편 3장",
+  "entities": [
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": [
+        "Herzenstube"
+      ]
+    },
+    {
+      "name": "Doctor Varvinsky",
+      "type": "Character",
+      "aliases": [
+        "Varvinsky"
+      ]
+    },
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "the prisoner"
+      ]
+    },
+    {
+      "name": "Karamazov family",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Moravian brother",
+      "type": "Group",
+      "aliases": [
+        "Hernguter"
+      ]
+    },
+    {
+      "name": "pound of nuts",
+      "type": "Object",
+      "aliases": [
+        "nuts"
+      ]
+    },
+    {
+      "name": "three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "3000 roubles"
+      ]
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Doctor Herzenstube",
+      "relation": "MEMBER_OF",
+      "object": "Moravian brother",
+      "quote": "He was a conscientious doctor and an excellent and pious man, a Hernguter or Moravian brother, I am not quite sure which.",
+      "disputed": true,
+      "first_revealed_index": 82,
+      "doc_id": "ch082",
+      "label_ko": "12편 3장"
+    },
+    {
+      "subject": "Doctor Herzenstube",
+      "relation": "POSSESSES",
+      "object": "pound of nuts",
+      "quote": "And I bought him a pound of nuts, for no one had ever bought the boy a pound of nuts before.",
+      "disputed": false,
+      "first_revealed_index": 82,
+      "doc_id": "ch082",
+      "label_ko": "12편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

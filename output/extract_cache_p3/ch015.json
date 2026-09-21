@@ -1,0 +1,128 @@
+{
+  "doc_id": "ch015",
+  "global_index": 15,
+  "label_ko": "3편 2장",
+  "entities": [
+    {
+      "name": "Lizaveta",
+      "type": "Character",
+      "aliases": [
+        "Lizaveta"
+      ]
+    },
+    {
+      "name": "Ilya",
+      "type": "Character",
+      "aliases": [
+        "Ilya"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Marfa",
+      "type": "Character",
+      "aliases": [
+        "Marfa"
+      ]
+    },
+    {
+      "name": "Pavel Fyodorovitch Smerdyakov",
+      "type": "Character",
+      "aliases": [
+        "Pavel",
+        "Pavel Fyodorovitch",
+        "Smerdyakov"
+      ]
+    },
+    {
+      "name": "Karp",
+      "type": "Character",
+      "aliases": [
+        "Karp"
+      ]
+    },
+    {
+      "name": "Kondratyev",
+      "type": "Character",
+      "aliases": [
+        "Kondratyev"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Ilya",
+      "relation": "FATHER_OF",
+      "object": "Lizaveta",
+      "quote": "Her father, a homeless, sickly drunkard, called Ilya, had lost everything and lived many years as a workman with some well-to-do tradespeople.",
+      "disputed": false,
+      "first_revealed_index": 15,
+      "doc_id": "ch015",
+      "label_ko": "3편 2장"
+    },
+    {
+      "subject": "Ilya",
+      "relation": "QUARRELS_WITH",
+      "object": "Lizaveta",
+      "quote": "Spiteful and diseased, Ilya used to beat Lizaveta inhumanly whenever she returned to him.",
+      "disputed": false,
+      "first_revealed_index": 15,
+      "doc_id": "ch015",
+      "label_ko": "3편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Pavel Fyodorovitch Smerdyakov",
+      "quote": "Then suddenly a terrible rumor was all over the town that this miscreant was no other than Fyodor Pavlovitch.",
+      "disputed": true,
+      "first_revealed_index": 15,
+      "doc_id": "ch015",
+      "label_ko": "3편 2장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "At the time, Grigory stood up for his master vigorously.",
+      "disputed": false,
+      "first_revealed_index": 15,
+      "doc_id": "ch015",
+      "label_ko": "3편 2장"
+    },
+    {
+      "subject": "Pavel Fyodorovitch Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "So this Smerdyakov became Fyodor Pavlovitch’s second servant, and was living in the lodge with Grigory and Marfa at the time our story begins.",
+      "disputed": false,
+      "first_revealed_index": 15,
+      "doc_id": "ch015",
+      "label_ko": "3편 2장"
+    },
+    {
+      "subject": "Marfa",
+      "relation": "RAISED",
+      "object": "Pavel Fyodorovitch Smerdyakov",
+      "quote": "So Marfa brought up the child. He was christened Pavel, to which people were not slow in adding Fyodorovitch (son of Fyodor).",
+      "disputed": false,
+      "first_revealed_index": 15,
+      "doc_id": "ch015",
+      "label_ko": "3편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

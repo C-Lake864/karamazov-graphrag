@@ -1,0 +1,314 @@
+{
+  "doc_id": "ch077",
+  "global_index": 77,
+  "label_ko": "11편 8장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Marya Kondratyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marya Kondratyevna’s cottage",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "3,000 roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand roubles",
+        "three packets of hundred-rouble notes"
+      ]
+    },
+    {
+      "name": "The Sayings of the Holy Father Isaac the Syrian",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Three thousand roubles",
+      "type": "Object",
+      "aliases": [
+        "three thousand",
+        "money"
+      ]
+    },
+    {
+      "name": "Iron paper-weight",
+      "type": "Object",
+      "aliases": [
+        "paper-weight"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory Vassilyevitch",
+      "type": "Character",
+      "aliases": [
+        "Grigory"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "three rolls of notes",
+      "type": "Object",
+      "aliases": [
+        "the notes",
+        "that money"
+      ]
+    },
+    {
+      "name": "the murder",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Ivan",
+      "quote": "The startling, incredibly supercilious tone of this man who had once been his valet, was extraordinary in itself.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "LIVES_AT",
+      "object": "Marya Kondratyevna’s cottage",
+      "quote": "In the passage, Marya Kondratyevna, who ran out to open the door with a candle in her hand, whispered that Smerdyakov was very ill",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Ivan jumped up and seized him by the shoulder. “Tell me everything, you viper! Tell me everything!”",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "“No, I did not know. I kept thinking of Dmitri. Brother, brother! Ach!”",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "3,000 roubles",
+      "quote": "Under the wrapper were three packets of hundred-rouble notes. “They are all here, all the three thousand roubles; you need not count them. Take them,” Smerdyakov suggested to Ivan",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "I could always have cornered you, revealing your eagerness for your father’s death, and I tell you the public would have believed it all",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "I went to the window and shouted to the master, ‘It’s I.’ And he shouted to me, ‘He’s been, he’s been; he’s run away.’",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "He suddenly believed it; he was all of a shake—he was awfully crazy about her—and he leaned right out of the window.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "I snatched up that iron paper-weight from his table; do you remember, weighing about three pounds? I swung it and hit him on the top of the skull with the corner of it.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "Iron paper-weight",
+      "quote": "I snatched up that iron paper-weight from his table; do you remember, weighing about three pounds? I swung it and hit him on the top of the skull with the corner of it.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "POSSESSES",
+      "object": "Three thousand roubles",
+      "quote": "I wiped the paper-weight, put it back, went up to the ikons, took the money out of the envelope, and flung the envelope on the floor and the pink ribbon beside it.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "MENTOR_OF",
+      "object": "Smerdyakov",
+      "quote": "That was quite right what you taught me, for you talked a lot to me about that.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "or that you’re so sorry for your brother that you are sacrificing yourself to save him and have invented it all against me",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "three rolls of notes",
+      "quote": "Ivan took the three rolls of notes and put them in his pocket without wrapping them in anything.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "Listen, you miserable, contemptible creature! Don’t you understand that if I haven’t killed you, it’s simply because I am keeping you to answer to-morrow at the trial.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "the murder",
+      "quote": "for then he’ll bear witness that Dmitri Fyodorovitch has been here, and so he must have killed him and taken the money.",
+      "disputed": true,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "and had even bragged aloud before every one that he’d go and take his property from Fyodor Pavlovitch.",
+      "disputed": false,
+      "first_revealed_index": 77,
+      "doc_id": "ch077",
+      "label_ko": "11편 8장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

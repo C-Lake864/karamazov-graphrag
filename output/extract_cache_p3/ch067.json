@@ -1,0 +1,408 @@
+{
+  "doc_id": "ch067",
+  "global_index": 67,
+  "label_ko": "10편 5장",
+  "entities": [
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "Snegiryov",
+        "the captain"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Varvara",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Krassotkin",
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "two hundred roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya",
+        "Krassotkin"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Captain Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "the captain"
+      ]
+    },
+    {
+      "name": "Madame Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "mamma"
+      ]
+    },
+    {
+      "name": "little bronze cannon",
+      "type": "Object",
+      "aliases": [
+        "cannon"
+      ]
+    },
+    {
+      "name": "Kolya Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Krassotkin",
+        "Kolya"
+      ]
+    },
+    {
+      "name": "Alyosha Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Karamazov",
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kartashov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kolbasnikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dardanelov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Borovikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Bulkin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Plotnikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Market-place",
+      "type": "Place",
+      "aliases": [
+        "market"
+      ]
+    },
+    {
+      "name": "Troy",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "The goose incident",
+      "type": "Event",
+      "aliases": [
+        "the goose"
+      ]
+    },
+    {
+      "name": "The railway incident",
+      "type": "Event",
+      "aliases": [
+        "exploit on the railway"
+      ]
+    },
+    {
+      "name": "Smaragdov",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Kolya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smurov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha",
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Kolbasnikov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mr. Snegiryov",
+      "type": "Character",
+      "aliases": [
+        "Sne-gi-ryov",
+        "Snegiryov"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "His father was terribly concerned about him. He even gave up drinking and was almost crazy with terror that his boy would die.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Nina",
+      "quote": "Nina, Ilusha’s gentle, crippled sister, did not like her father’s buffoonery either",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "BROTHER_OF",
+      "object": "Nina",
+      "quote": "Nina, Ilusha’s gentle, crippled sister, did not like her father’s buffoonery either",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Kolya Krassotkin",
+      "quote": "Perhaps the bitterest of all his bitter memories was his stabbing Krassotkin, who had been his one friend and protector.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "QUARRELS_WITH",
+      "object": "Alexey Fyodorovitch",
+      "quote": "He had not been to school since the day he met Alyosha and bit his finger.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "POSSESSES",
+      "object": "two hundred roubles",
+      "quote": "He had taken the two hundred roubles from Katerina Ivanovna just as Alyosha had predicted he would.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Varvara",
+      "relation": "LIVES_AT",
+      "object": "Petersburg",
+      "quote": "Varvara had been gone for some time past to Petersburg to study at the university",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Captain Snegiryov",
+      "relation": "FATHER_OF",
+      "object": "Ilusha",
+      "quote": "Smurov told me about your powder, only father says it’s not real gunpowder,” responded Ilusha.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "POSSESSES",
+      "object": "little bronze cannon",
+      "quote": "And Kolya hurriedly pulled out of his satchel the little bronze cannon.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Ilusha",
+      "relation": "LOVES",
+      "object": "Madame Snegiryov",
+      "quote": "“Ilusha, darling, he’s the one who loves his mamma!” she said tenderly",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "POSSESSES",
+      "object": "Smaragdov",
+      "quote": "a secret which could only be discovered by reading Smaragdov, and no one had Smaragdov but Kolya.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "PRESENT_AT",
+      "object": "The goose incident",
+      "quote": "I stood on one side to direct the goose. And the owner wasn’t looking, he was talking to some one",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "ACCUSED_OF",
+      "object": "The goose incident",
+      "quote": "‘It wasn’t me,’ he said, ‘it was he egged me on,’ and he pointed to me.",
+      "disputed": true,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "The goose incident",
+      "relation": "OCCURRED_AT",
+      "object": "Market-place",
+      "quote": "I was walking through the market-place here one day, just when they’d driven in the geese.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "PRESENT_AT",
+      "object": "The railway incident",
+      "quote": "How could you lie still on the line? Is it possible you weren’t the least afraid, lying there under the train?",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolya Krassotkin",
+      "relation": "QUARRELS_WITH",
+      "object": "Kartashov",
+      "quote": "“Well, who did found it?” asked Kolya, turning to him with haughty superciliousness.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    },
+    {
+      "subject": "Kolbasnikov",
+      "relation": "MENTOR_OF",
+      "object": "Kolya",
+      "quote": "our teacher Kolbasnikov has said to the whole of the third class.",
+      "disputed": false,
+      "first_revealed_index": 67,
+      "doc_id": "ch067",
+      "label_ko": "10편 5장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

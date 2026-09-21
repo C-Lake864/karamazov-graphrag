@@ -1,0 +1,292 @@
+{
+  "doc_id": "ch048",
+  "global_index": 48,
+  "label_ko": "8편 3장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Ivan Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "brace of fine dueling pistols",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Dmitri Fyodorovitch",
+        "Mitya",
+        "Dmitri"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "Madame Hohlakov"
+      ]
+    },
+    {
+      "name": "Madame Belmesov",
+      "type": "Character",
+      "aliases": [
+        "Madame Belmesov"
+      ]
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Miüsov"
+      ]
+    },
+    {
+      "name": "Shtchedrin",
+      "type": "Character",
+      "aliases": [
+        "Shtchedrin"
+      ]
+    },
+    {
+      "name": "tiny silver ikon",
+      "type": "Object",
+      "aliases": [
+        "tiny silver ikon",
+        "silver ikon"
+      ]
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya",
+        "the captain"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kuzma Kuzmitch Samsonov",
+      "type": "Character",
+      "aliases": [
+        "Samsonov",
+        "Kuzma Kuzmitch"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Matryona",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "pestle",
+      "type": "Object",
+      "aliases": [
+        "brass pestle"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Grushenka",
+      "quote": "in his love for the woman, there was an element of something far higher than he himself imagined",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "She had detested him from the first because he was engaged to Katerina Ivanovna",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Ivan Fyodorovitch Karamazov",
+      "quote": "he heard with interest, too, that his brother Ivan had set off that morning for Moscow.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "brace of fine dueling pistols",
+      "quote": "He had a brace of fine dueling pistols in a case, which he had not pawned till then because he prized them above all his possessions.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "She had detested him from the first because he was engaged to Katerina Ivanovna",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "RELATED_TO",
+      "object": "Madame Belmesov",
+      "quote": "You have most likely heard of my cousin, Madame Belmesov. Her husband was ruined, ‘had come to grief,’ as you characteristically express it, Dmitri Fyodorovitch.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Miüsov",
+      "quote": "I’m quarreling with my steward about it, and I’ve just borrowed five hundred roubles from Miüsov, myself. No, no, I’ve no money.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Shtchedrin",
+      "relation": "MENTOR_OF",
+      "object": "Madame Hohlakov",
+      "quote": "He has taught me so much, so much about the vocation of woman. So last year I sent him an anonymous letter of two lines: ‘I kiss and embrace you, my teacher, for the modern woman. Persevere.’",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "POSSESSES",
+      "object": "tiny silver ikon",
+      "quote": "And she actually put the cord round his neck, and began arranging it. In extreme embarrassment, Mitya bent down and helped her, and at last he got it under his neck-tie and collar through his shirt to his chest.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Madame Hohlakov",
+      "quote": "“Oh, the devil!” roared Mitya, and with all his might brought his fist down on the table. “Aie! Aie!” cried Madame Hohlakov, alarmed, and she flew to the other end of the drawing-room.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Miüsov",
+      "quote": "ust borrowed five hundred roubles from Miüsov, myself.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "three thousand that would pay his debt to Katerina Ivanovna",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "pestle",
+      "quote": "snatched up the pestle, and thrust it in his side-pocket.",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    },
+    {
+      "subject": "Matryona",
+      "relation": "RELATED_TO",
+      "object": "Fenya",
+      "quote": "Fenya was sitting with her grandmother, the old cook, Matryona, in the kitchen",
+      "disputed": false,
+      "first_revealed_index": 48,
+      "doc_id": "ch048",
+      "label_ko": "8편 3장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

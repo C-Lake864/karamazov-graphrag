@@ -1,0 +1,372 @@
+{
+  "doc_id": "ch071",
+  "global_index": 71,
+  "label_ko": "11편 2장",
+  "entities": [
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": [
+        "mamma"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Ilyitch Perhotin",
+      "type": "Character",
+      "aliases": [
+        "Perhotin",
+        "Pyotr Ilyitch"
+      ]
+    },
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "elder"
+      ]
+    },
+    {
+      "name": "Katya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Gossip",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Rakitin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Ilyitch",
+      "type": "Character",
+      "aliases": [
+        "Perhotin"
+      ]
+    },
+    {
+      "name": "Katya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan Fyodorovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Yulia",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "the murder"
+      ]
+    },
+    {
+      "name": "Short poem on bad foot",
+      "type": "Object",
+      "aliases": [
+        "verses",
+        "verses of his own composition"
+      ]
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lise",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alexey Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Pyotr Ilyitch",
+      "type": "Character",
+      "aliases": [
+        "Perhotin"
+      ]
+    },
+    {
+      "name": "Yulia",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alexey Fyodorovitch",
+      "relation": "ENGAGED_TO",
+      "object": "Lise",
+      "quote": "Ever since Lise took back her promise—her childish promise, Alexey Fyodorovitch—to marry you, you’ve realized, of course, that it was only the playful fancy of a sick child",
+      "disputed": true,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "LOVES",
+      "object": "Madame Hohlakov",
+      "quote": "that frivolous young man, would you believe it, seems to have taken it into his head to fall in love with me.",
+      "disputed": true,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "MENTOR_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "stated that he and his elder, Father Zossima, had broken into the monastery chest and “made tracks from the monastery.”",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Pyotr Ilyitch Perhotin",
+      "quote": "He had met Pyotr Ilyitch here before, and would you believe it, he is always gibing at him, growling at him, for some reason.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Rakitin",
+      "quote": "You know I turned him out of the house.... You know all that story, don’t you?",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Ivan Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "I can’t trust my daughter so easily to your brother Ivan Fyodorovitch, though I still consider him the most chivalrous young man.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "It’s very important for me to be in time to see my brother to-day,” Alyosha faltered.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Alexey Fyodorovitch",
+      "quote": "knowing what a lot he has to do as it is, _vous comprenez, cette affaire et la mort terrible de votre papa_.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Oh! not better that a son should have killed his father, I don’t defend that.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Yulia",
+      "relation": "SERVANT_OF",
+      "object": "Madame Hohlakov",
+      "quote": "early this morning Lise waked up and flew into a passion with Yulia and, would you believe it, slapped her in the face. That’s monstrous; I am always polite to my servants.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Rakitin",
+      "relation": "QUARRELS_WITH",
+      "object": "Pyotr Ilyitch",
+      "quote": "Then, instead of laughing, your friend flew into a rage. ‘Good gracious!’ I thought, ‘they’ll fly at each other.’",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "QUARRELS_WITH",
+      "object": "Rakitin",
+      "quote": "I got up suddenly and said to Rakitin, ‘It’s painful for me to say it, but I don’t wish to see you in my house again.’ So I turned him out.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "QUARRELS_WITH",
+      "object": "Yulia",
+      "quote": "early this morning Lise waked up and flew into a passion with Yulia and, would you believe it, slapped her in the face.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "He came in shouting, ‘Money, money, three thousand! Give me three thousand!’ and then went away and immediately did the murder.",
+      "disputed": true,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "Yes, I know it was that old man Grigory murdered him.",
+      "disputed": true,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Grigory",
+      "quote": "He lay as Dmitri Fyodorovitch struck him down, and then got up, saw the door open, went in and killed Fyodor Pavlovitch.",
+      "disputed": true,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "POSSESSES",
+      "object": "Short poem on bad foot",
+      "quote": "I can never remember poetry. I’ve got it here. I’ll show it to you later.",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Madame Hohlakov",
+      "relation": "FATHER_OF",
+      "object": "Lise",
+      "quote": "come back and tell me—me, her mother, for you understand it will be the death of me",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Yulia",
+      "relation": "SERVANT_OF",
+      "object": "Madame Hohlakov",
+      "quote": "That’s monstrous; I am always polite to my servants. And an hour later she was hugging Yulia’s feet",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    },
+    {
+      "subject": "Lise",
+      "relation": "QUARRELS_WITH",
+      "object": "Yulia",
+      "quote": "slapped her in the face. That’s monstrous; I am always polite to my servants. And an hour later she was hugging Yulia’s feet",
+      "disputed": false,
+      "first_revealed_index": 71,
+      "doc_id": "ch071",
+      "label_ko": "11편 2장"
+    }
+  ],
+  "dropped_unquoted": 1
+}

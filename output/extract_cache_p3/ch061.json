@@ -1,0 +1,190 @@
+{
+  "doc_id": "ch061",
+  "global_index": 61,
+  "label_ko": "9편 8장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Mussyalovitch",
+      "type": "Character",
+      "aliases": [
+        "Pan Mussyalovitch"
+      ]
+    },
+    {
+      "name": "Maximov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Three thousand roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Karamazovs",
+      "type": "Group",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LOVES",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Mitya’s position with Agrafena Alexandrovna had certainly improved, and that she had said that she loved him.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Mussyalovitch",
+      "quote": "Mitya was roused at once and declared that he would not allow the “scoundrel” to speak like that in his presence!",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Maximov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "The old man at once confessed that he had done wrong, that he had borrowed “ten roubles in my poverty,” from Dmitri Fyodorovitch",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "Three thousand roubles",
+      "quote": "Dmitri Fyodorovitch had told him, as soon as he arrived, that he had brought three thousand with him.",
+      "disputed": true,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch Karamazov",
+      "quote": "“He was always expecting to get some from his father,” said Grushenka in conclusion.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "she had not loved him, but had won his heart as well as his old father’s “in my nasty spite,”",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "she had not loved him, but had won his heart as well as his old father’s “in my nasty spite,”",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "RIVAL_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "she had seen that Mitya was very jealous of Fyodor Pavlovitch and every one else; but that had only amused her.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "he had “stolen” it from Katerina Ivanovna, and that she had replied to that that he hadn’t stolen it, and that he must pay the money back next day.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch Karamazov",
+      "relation": "MEMBER_OF",
+      "object": "Karamazovs",
+      "quote": "and he wanted to do it at once, at once, regardless of all obstacles, with all the recklessness of the Karamazovs.",
+      "disputed": false,
+      "first_revealed_index": 61,
+      "doc_id": "ch061",
+      "label_ko": "9편 8장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

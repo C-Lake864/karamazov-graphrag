@@ -1,0 +1,119 @@
+{
+  "doc_id": "ch093",
+  "global_index": 93,
+  "label_ko": "12편 14장",
+  "entities": [
+    {
+      "name": "Fetyukovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ippolit Kirillovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitya",
+      "type": "Character",
+      "aliases": [
+        "Mitenka"
+      ]
+    },
+    {
+      "name": "Nazaryev",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Semyonovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Trial of Mitya",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Murder of Fyodor Pavlovitch",
+      "type": "Event",
+      "aliases": [
+        "parricide"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Mitya",
+      "quote": "it’s not true that I killed my father, the prosecutor is mistaken.",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of Fyodor Pavlovitch",
+      "quote": "it’s not true that I killed my father, the prosecutor is mistaken.",
+      "disputed": true,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Fetyukovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Ippolit Kirillovitch",
+      "quote": "As for the prosecutor’s charge of uttering unorthodox opinions, Fetyukovitch hinted that it was a personal insinuation",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Mitya",
+      "relation": "PRESENT_AT",
+      "object": "Trial of Mitya",
+      "quote": "Then the prisoner was allowed to speak. Mitya stood up, but said very little.",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Ippolit Kirillovitch",
+      "relation": "PRESENT_AT",
+      "object": "Trial of Mitya",
+      "quote": "And it was at this moment that Ippolit Kirillovitch got up to make certain objections.",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    },
+    {
+      "subject": "Fetyukovitch",
+      "relation": "PRESENT_AT",
+      "object": "Trial of Mitya",
+      "quote": "Fetyukovitch concluded his speech with a bow, amid a hum of approbation in the court.",
+      "disputed": false,
+      "first_revealed_index": 93,
+      "doc_id": "ch093",
+      "label_ko": "12편 14장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

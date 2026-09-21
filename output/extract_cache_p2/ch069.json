@@ -1,0 +1,80 @@
+{
+  "doc_id": "ch069",
+  "global_index": 69,
+  "label_ko": "10편 7장",
+  "entities": [
+    {
+      "name": "Nikolay Krassotkin",
+      "type": "Character",
+      "aliases": [
+        "Kolya",
+        "Krassotkin"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": [
+        "Karamazov"
+      ]
+    },
+    {
+      "name": "Ilusha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nina",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lepelletier",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Syracuse",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Sicily",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Caucasus",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Paris",
+      "type": "Place",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Alyosha",
+      "relation": "MENTOR_OF",
+      "object": "Nikolay Krassotkin",
+      "quote": "There is only one man in the world who can command Nikolay Krassotkin—this is the man”; Kolya pointed to Alyosha.",
+      "disputed": false,
+      "first_revealed_index": 69,
+      "doc_id": "ch069",
+      "label_ko": "10편 7장"
+    },
+    {
+      "subject": "Lepelletier",
+      "relation": "LIVES_AT",
+      "object": "Paris",
+      "quote": "must be sent straight to Paris to the mental specialist Lepelletier; I could give you a note to him",
+      "disputed": false,
+      "first_revealed_index": 69,
+      "doc_id": "ch069",
+      "label_ko": "10편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,160 @@
+{
+  "doc_id": "ch001",
+  "global_index": 1,
+  "label_ko": "1편 1장",
+  "entities": [
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alexey"
+      ]
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Adelaïda Ivanovna Miüsov",
+      "type": "Character",
+      "aliases": [
+        "Adelaïda Ivanovna"
+      ]
+    },
+    {
+      "name": "Miüsovs",
+      "type": "Group",
+      "aliases": [
+        "the Miüsovs"
+      ]
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Death of Adelaïda Ivanovna",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Alexey Fyodorovitch Karamazov",
+      "quote": "Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch Karamazov, a land owner well known in our district in his own day",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Dmitri",
+      "quote": "He was married twice, and had three sons, the eldest, Dmitri, by his first wife, and two, Ivan and Alexey, by his second.",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "He was married twice, and had three sons, the eldest, Dmitri, by his first wife, and two, Ivan and Alexey, by his second.",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Alexey Fyodorovitch Karamazov",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "He was married twice, and had three sons, the eldest, Dmitri, by his first wife, and two, Ivan and Alexey, by his second.",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "He was married twice, and had three sons, the eldest, Dmitri, by his first wife, and two, Ivan and Alexey, by his second.",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Adelaïda Ivanovna Miüsov",
+      "relation": "MEMBER_OF",
+      "object": "Miüsovs",
+      "quote": "Fyodor Pavlovitch’s first wife, Adelaïda Ivanovna, belonged to a fairly rich and distinguished noble family, also landowners in our district, the Miüsovs.",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "QUARRELS_WITH",
+      "object": "Adelaïda Ivanovna Miüsov",
+      "quote": "It is known for a fact that frequent fights took place between the husband and wife, but rumor had it that Fyodor Pavlovitch did not beat his wife but was beaten by her",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "OWES_MONEY_TO",
+      "object": "Adelaïda Ivanovna Miüsov",
+      "quote": "Fyodor Pavlovitch, who, as is now known, got hold of all her money up to twenty-five thousand roubles as soon as she received it, so that those thousands were lost to her for ever.",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Adelaïda Ivanovna Miüsov",
+      "relation": "LIVES_AT",
+      "object": "Petersburg",
+      "quote": "The poor woman turned out to be in Petersburg, where she had gone with her divinity student, and where she had thrown herself into a life of complete emancipation.",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    },
+    {
+      "subject": "Death of Adelaïda Ivanovna",
+      "relation": "OCCURRED_AT",
+      "object": "Petersburg",
+      "quote": "And just at that time his wife’s family received the news of her death in Petersburg.",
+      "disputed": false,
+      "first_revealed_index": 1,
+      "doc_id": "ch001",
+      "label_ko": "1편 1장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

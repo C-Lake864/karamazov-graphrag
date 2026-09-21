@@ -1,0 +1,247 @@
+{
+  "doc_id": "ch038",
+  "global_index": 38,
+  "label_ko": "5편 7장",
+  "entities": [
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": [
+        "Marfa"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Gorstkin",
+      "type": "Character",
+      "aliases": [
+        "Lyagavy"
+      ]
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Fyodor Pavlovitch"
+      ]
+    },
+    {
+      "name": "Smerdyakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Marfa Ignatyevna",
+      "type": "Character",
+      "aliases": [
+        "Marfa"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Doctor Herzenstube",
+      "type": "Character",
+      "aliases": [
+        "Herzenstube"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Grushenka",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Tchermashnya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Volovya",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Smerdyakov's epileptic fit",
+      "type": "Event",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "passed by, trying not even to look at his father.",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Fyodor Pavlovitch",
+      "quote": "he shouted to him, waving his hands, “I am going upstairs to my room, not in to you. Good-by!”",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch",
+      "quote": "“What’s the matter with him?” he promptly asked Smerdyakov, who had followed Ivan. “Angry about something. Who can tell?” the valet muttered evasively.",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Smerdyakov",
+      "quote": "after midnight he suddenly had an intense irresistible inclination to go down, open the door, go to the lodge and beat Smerdyakov.",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "QUARRELS_WITH",
+      "object": "Alyosha",
+      "quote": "He even hated Alyosha, recalling the conversation he had just had with him.",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LIVES_AT",
+      "object": "Moscow",
+      "quote": "he announced that he was starting off in an hour to return to Moscow for good",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "FATHER_OF",
+      "object": "Ivan",
+      "quote": "Go to my father’s, to Fyodor Pavlovitch Karamazov, and tell him I haven’t gone to Tchermashnya.",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Marfa Ignatyevna",
+      "relation": "SERVANT_OF",
+      "object": "Fyodor Pavlovitch Karamazov",
+      "quote": "To her master’s bitter, though deserved, reproaches, Marfa Ignatyevna replied that the fowl was a very old one to begin with",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Fyodor Pavlovitch Karamazov",
+      "relation": "PRESENT_AT",
+      "object": "Smerdyakov's epileptic fit",
+      "quote": "Fyodor Pavlovitch himself was present at the whole ceremony. He helped, evidently alarmed and upset.",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    },
+    {
+      "subject": "Smerdyakov",
+      "relation": "PRESENT_AT",
+      "object": "Smerdyakov's epileptic fit",
+      "quote": "They found him at the bottom of the cellar steps, writhing in convulsions and foaming at the mouth.",
+      "disputed": false,
+      "first_revealed_index": 38,
+      "doc_id": "ch038",
+      "label_ko": "5편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

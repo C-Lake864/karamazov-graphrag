@@ -1,0 +1,258 @@
+{
+  "doc_id": "ch040",
+  "global_index": 40,
+  "label_ko": "6편 2장",
+  "entities": [
+    {
+      "name": "Father Zossima",
+      "type": "Character",
+      "aliases": [
+        "Zossima"
+      ]
+    },
+    {
+      "name": "Markel",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Afanasy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Town of K.",
+      "type": "Place",
+      "aliases": [
+        "town of K."
+      ]
+    },
+    {
+      "name": "The Duel",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "The Bible",
+      "type": "Object",
+      "aliases": [
+        "Bible"
+      ]
+    },
+    {
+      "name": "Afanasy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "the regiment",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mysterious Visitor",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Landowner's Widow",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Officer of Noble Birth",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Murder of the Landowner's Widow",
+      "type": "Event",
+      "aliases": []
+    },
+    {
+      "name": "Moscow",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Petersburg",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Siberia",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "New Testament",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Mihail",
+      "type": "Character",
+      "aliases": [
+        "the servant of God, Mihail"
+      ]
+    },
+    {
+      "name": "dagger",
+      "type": "Object",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Father Zossima",
+      "relation": "BROTHER_OF",
+      "object": "Markel",
+      "quote": "And then I remembered my brother Markel and what he said on his death-bed to his servants",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Afanasy",
+      "relation": "SERVANT_OF",
+      "object": "Father Zossima",
+      "quote": "He had not long been in my service and I had struck him before, but never with such ferocious cruelty.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "QUARRELS_WITH",
+      "object": "Afanasy",
+      "quote": "I flew into a rage with my orderly Afanasy, and gave him two blows in the face with all my might, so that it was covered with blood.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "POSSESSES",
+      "object": "The Bible",
+      "quote": "the Bible was the one book I never opened at that time, though I always carried it about with me, and I was never separated from it",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "PRESENT_AT",
+      "object": "The Duel",
+      "quote": "So we reached the place and found them there, waiting us. We were placed twelve paces apart; he had the first shot.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "Petersburg",
+      "quote": "I spent a long time, almost eight years, in the military cadet school at Petersburg",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Father Zossima",
+      "relation": "LIVES_AT",
+      "object": "Town of K.",
+      "quote": "After four years of this life, I chanced to be in the town of K. where our regiment was stationed at the time.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "The Duel",
+      "relation": "OCCURRED_AT",
+      "object": "Town of K.",
+      "quote": "our meeting was to take place at seven o’clock the next day on the outskirts of the town",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Afanasy",
+      "relation": "MEMBER_OF",
+      "object": "the regiment",
+      "quote": "I had sent Afanasy back to the regiment, as I felt ashamed to look him in the face after my last interview with him.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Pyotr",
+      "relation": "SERVANT_OF",
+      "object": "Landowner's Widow",
+      "quote": "A serf of hers called Pyotr was at once suspected, and every circumstance confirmed the suspicion.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Pyotr",
+      "relation": "ACCUSED_OF",
+      "object": "Murder of the Landowner's Widow",
+      "quote": "They arrested him, and he was tried for the murder; but a week after the arrest, the prisoner fell sick of a fever and died unconscious in the hospital.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Mysterious Visitor",
+      "relation": "LOVES",
+      "object": "Landowner's Widow",
+      "quote": "He fell passionately in love with her, declared his feeling and tried to persuade her to marry him.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Landowner's Widow",
+      "relation": "LOVES",
+      "object": "Officer of Noble Birth",
+      "quote": "But she had already given her heart to another man, an officer of noble birth and high rank in the service, who was at that time away at the front, though she was expecting him soon to return.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    },
+    {
+      "subject": "Mysterious Visitor",
+      "relation": "PRESENT_AT",
+      "object": "Murder of the Landowner's Widow",
+      "quote": "Fourteen years before, he had murdered the widow of a landowner, a wealthy and handsome young woman who had a house in our town.",
+      "disputed": false,
+      "first_revealed_index": 40,
+      "doc_id": "ch040",
+      "label_ko": "6편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

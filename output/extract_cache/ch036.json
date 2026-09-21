@@ -1,0 +1,389 @@
+{
+  "doc_id": "ch036",
+  "global_index": 36,
+  "label_ko": "5편 5장",
+  "entities": [
+    {
+      "name": "Ivan Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Ivan"
+      ]
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov",
+      "type": "Character",
+      "aliases": [
+        "Alyosha"
+      ]
+    },
+    {
+      "name": "Grand Inquisitor",
+      "type": "Character",
+      "aliases": [
+        "cardinal",
+        "the old man",
+        "the Grand Inquisitor",
+        "old Inquisitor"
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "Character",
+      "aliases": [
+        "Christ",
+        "He",
+        "Son",
+        "Heavenly King",
+        "Prisoner"
+      ]
+    },
+    {
+      "name": "God",
+      "type": "Character",
+      "aliases": [
+        "God himself",
+        "Father",
+        "the Lord"
+      ]
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "Character",
+      "aliases": [
+        "Our Lady",
+        "Madonna",
+        "Queen of Heaven",
+        "Vierge Marie"
+      ]
+    },
+    {
+      "name": "Archangel Michael",
+      "type": "Character",
+      "aliases": [
+        "Archangel Michael"
+      ]
+    },
+    {
+      "name": "Tyutchev",
+      "type": "Character",
+      "aliases": [
+        "Tyutchev"
+      ]
+    },
+    {
+      "name": "Seville",
+      "type": "Place",
+      "aliases": [
+        "Seville"
+      ]
+    },
+    {
+      "name": "Spain",
+      "type": "Place",
+      "aliases": [
+        "Spain"
+      ]
+    },
+    {
+      "name": "Russia",
+      "type": "Place",
+      "aliases": [
+        "mother, Russia"
+      ]
+    },
+    {
+      "name": "Palace of the Holy Inquisition",
+      "type": "Place",
+      "aliases": [
+        "ancient palace of the Holy Inquisition",
+        "Holy Inquisition"
+      ]
+    },
+    {
+      "name": "Roman Church",
+      "type": "Group",
+      "aliases": [
+        "Roman Church"
+      ]
+    },
+    {
+      "name": "Auto da Fé",
+      "type": "Event",
+      "aliases": [
+        "auto da fé",
+        "splendid auto da fé"
+      ]
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "God",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Son of God",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Rome",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "Cæsar",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Timours",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ghenghis-Khans",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Father Païssy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Jesus",
+      "type": "Character",
+      "aliases": [
+        "the Prisoner"
+      ]
+    },
+    {
+      "name": "The Grand Inquisitor",
+      "type": "Character",
+      "aliases": [
+        "the Inquisitor",
+        "the old man"
+      ]
+    },
+    {
+      "name": "Masons",
+      "type": "Group",
+      "aliases": []
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Ivan",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Miüsov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "God",
+      "relation": "FATHER_OF",
+      "object": "Jesus Christ",
+      "quote": "'Of that day and that hour knoweth no man, neither the Son, but the Father,' as He Himself predicted on earth.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Grand Inquisitor",
+      "relation": "MEMBER_OF",
+      "object": "Roman Church",
+      "quote": "He is not dressed in his gorgeous cardinal’s robes, as he was the day before, when he was burning the enemies of the Roman Church",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Grand Inquisitor",
+      "relation": "LIVES_AT",
+      "object": "Seville",
+      "quote": "My story is laid in Spain, in Seville, in the most terrible time of the Inquisition",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Grand Inquisitor",
+      "relation": "PRESENT_AT",
+      "object": "Auto da Fé",
+      "quote": "burnt by the cardinal, the Grand Inquisitor, in a magnificent _auto da fé_, in the presence of the king, the court, the knights, the cardinals, the most charming ladies of the court, and the whole population of Seville.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Auto da Fé",
+      "relation": "OCCURRED_AT",
+      "object": "Seville",
+      "quote": "burnt by the cardinal, the Grand Inquisitor, in a magnificent _auto da fé_, in the presence of the king, the court, the knights, the cardinals, the most charming ladies of the court, and the whole population of Seville.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Grand Inquisitor",
+      "relation": "QUARRELS_WITH",
+      "object": "Jesus Christ",
+      "quote": "to-morrow I shall condemn Thee and burn Thee at the stake as the worst of heretics.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Jesus Christ",
+      "relation": "LIVES_AT",
+      "object": "Palace of the Holy Inquisition",
+      "quote": "The guards lead their prisoner to the close, gloomy vaulted prison in the ancient palace of the Holy Inquisition and shut Him in it.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Jesus Christ",
+      "relation": "LIVES_AT",
+      "object": "Russia",
+      "quote": "Bearing the Cross, in slavish dress, Weary and worn, the Heavenly King Our mother, Russia, came to bless, And through our land went wandering.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "God",
+      "relation": "FATHER_OF",
+      "object": "Son of God",
+      "quote": "and Thou shalt know then whether Thou art the Son of God and shalt prove then how great is Thy faith in Thy Father.",
+      "disputed": true,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "He fancied besides that his brother was looking at him ironically.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Father Païssy",
+      "relation": "MENTOR_OF",
+      "object": "Alyosha",
+      "quote": "Is that Father Païssy’s teaching?” “No, no, on the contrary, Father Païssy did once say something rather the same as you",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "MEMBER_OF",
+      "object": "Masons",
+      "quote": "“You are perhaps a Mason yourself!” broke suddenly from Alyosha.",
+      "disputed": true,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "The Grand Inquisitor",
+      "relation": "QUARRELS_WITH",
+      "object": "Jesus",
+      "quote": "I repeat, to-morrow Thou shalt see that obedient flock who at a sign from me will hasten to heap up the hot cinders about the pile on which I shall burn Thee for coming to hinder us.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "He fancied besides that his brother was looking at him ironically.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Alyosha",
+      "relation": "BROTHER_OF",
+      "object": "Ivan",
+      "quote": "He waited a little, looking after his brother.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Dmitri",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "Several times afterwards he wondered how he could on leaving Ivan so completely forget his brother Dmitri",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    },
+    {
+      "subject": "Ivan",
+      "relation": "LOVES",
+      "object": "Alyosha",
+      "quote": "Is that enough for you? Take it as a declaration of love if you like.",
+      "disputed": false,
+      "first_revealed_index": 36,
+      "doc_id": "ch036",
+      "label_ko": "5편 5장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

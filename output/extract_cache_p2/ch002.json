@@ -1,0 +1,87 @@
+{
+  "doc_id": "ch002",
+  "global_index": 2,
+  "label_ko": "1편 2장",
+  "entities": [
+    {
+      "name": "Fyodor Pavlovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Adelaïda Ivanovna",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Grigory",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "type": "Character",
+      "aliases": []
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Fyodor Pavlovitch",
+      "relation": "FATHER_OF",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "this Mitya, or rather Dmitri Fyodorovitch, was the only one of Fyodor Pavlovitch’s three sons who grew up in the belief that he had property",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Grigory",
+      "relation": "RAISED",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "a faithful servant of the family, Grigory, took the three-year-old Mitya into his care.",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "RELATED_TO",
+      "object": "Adelaïda Ivanovna",
+      "quote": "a cousin of Mitya’s mother, Pyotr Alexandrovitch Miüsov, happened to return from Paris.",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Pyotr Alexandrovitch Miüsov",
+      "relation": "RAISED",
+      "object": "Dmitri Fyodorovitch",
+      "quote": "Mitya did, in fact, pass into this cousin’s keeping, but as the latter had no family of his own",
+      "disputed": false,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Fyodor Pavlovitch",
+      "quote": "that he had received the whole value of his property in sums of money from Fyodor Pavlovitch, and was perhaps even in debt to him",
+      "disputed": true,
+      "first_revealed_index": 2,
+      "doc_id": "ch002",
+      "label_ko": "1편 2장"
+    }
+  ],
+  "dropped_unquoted": 0
+}

@@ -1,0 +1,279 @@
+{
+  "doc_id": "ch060",
+  "global_index": 60,
+  "label_ko": "9편 7장",
+  "entities": [
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Agrafena Alexandrovna",
+      "type": "Character",
+      "aliases": [
+        "Grushenka"
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mokroe",
+      "type": "Place",
+      "aliases": []
+    },
+    {
+      "name": "fifteen hundred roubles",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Katerina Ivanovna",
+      "type": "Character",
+      "aliases": [
+        "Katya"
+      ]
+    },
+    {
+      "name": "Fenya",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Perhotin",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Samsonov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Madame Hohlakov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Lyagavy",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "amulet",
+      "type": "Object",
+      "aliases": []
+    },
+    {
+      "name": "Dmitri Fyodorovitch",
+      "type": "Character",
+      "aliases": [
+        "Mitya"
+      ]
+    },
+    {
+      "name": "Nikolay Parfenovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Mihail Makarovitch",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Kalganov",
+      "type": "Character",
+      "aliases": []
+    },
+    {
+      "name": "Interrogation of Dmitri Fyodorovitch",
+      "type": "Event",
+      "aliases": [
+        "interrogation"
+      ]
+    }
+  ],
+  "triples": [
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "BROTHER_OF",
+      "object": "Alyosha",
+      "quote": "I didn’t dare even to tell Alyosha, my brother, about that fifteen hundred: I felt I was such a scoundrel",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LOVES",
+      "object": "Agrafena Alexandrovna",
+      "quote": "when I’d just come to love another, her, she’s sitting down below now, Grushenka.",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "ENGAGED_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "You see, a month ago, I was sent for by Katerina Ivanovna, formerly my betrothed.",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "Many people have already guessed, during this last month, about the three thousand of Katerina Ivanovna’s, that you have spent",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "fifteen hundred roubles",
+      "quote": "and it was fifteen hundred roubles, and I had it on me all the time, all the time ...",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "LIVES_AT",
+      "object": "Mokroe",
+      "quote": "I carried her off here to Mokroe then, and wasted here in two days half that damned three thousand",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Agrafena Alexandrovna",
+      "relation": "LIVES_AT",
+      "object": "Mokroe",
+      "quote": "her, she’s sitting down below now, Grushenka. I carried her off here to Mokroe then",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Katerina Ivanovna",
+      "quote": "by going and returning that fifteen hundred to the lady who had entrusted it to you?",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "POSSESSES",
+      "object": "amulet",
+      "quote": "And only yesterday I made up my mind to tear my amulet off my neck, on my way from Fenya’s to Perhotin.",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "QUARRELS_WITH",
+      "object": "Lyagavy",
+      "quote": "that night when I was having all that bother with Lyagavy, and afterwards yesterday, all day yesterday, I remember, till that happened ...",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Samsonov",
+      "quote": "or even on the security you offered to the merchant Samsonov, and to Madame Hohlakov?",
+      "disputed": true,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Dmitri Fyodorovitch",
+      "relation": "OWES_MONEY_TO",
+      "object": "Madame Hohlakov",
+      "quote": "or even on the security you offered to the merchant Samsonov, and to Madame Hohlakov?",
+      "disputed": true,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Mihail Makarovitch",
+      "relation": "PRESENT_AT",
+      "object": "Interrogation of Dmitri Fyodorovitch",
+      "quote": "Mihail Makarovitch and Kalganov, who had been continually in and out of the room all the while the interrogation had been going on, had now both gone out again.",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    },
+    {
+      "subject": "Kalganov",
+      "relation": "PRESENT_AT",
+      "object": "Interrogation of Dmitri Fyodorovitch",
+      "quote": "Mihail Makarovitch and Kalganov, who had been continually in and out of the room all the while the interrogation had been going on, had now both gone out again.",
+      "disputed": false,
+      "first_revealed_index": 60,
+      "doc_id": "ch060",
+      "label_ko": "9편 7장"
+    }
+  ],
+  "dropped_unquoted": 0
+}
