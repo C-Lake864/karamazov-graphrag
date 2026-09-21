@@ -100,7 +100,9 @@ with st.sidebar:
             base = canon.lower()
             if not any(a not in base and base not in a for a in vis):
                 continue
-            yield canon, sorted(set(vis), key=len)
+            # 짧은 호칭이 실제로 헷갈리는 것들이다(미챠·알료샤).
+            # 길어질수록 "Ex-Lieutenant Karamazov" 같은 군더더기라 6개에서 끊는다.
+            yield canon, sorted(set(vis), key=len)[:6]
 
     rows = list(entries())
     # 한국어 이름이 붙은 주요 인물을 위로. 라틴 문자가 한글보다 먼저 정렬돼서

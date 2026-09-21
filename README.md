@@ -89,15 +89,35 @@ python agent.py "조시마 장로의 제자는 누구야?" 13
 아직 안 읽은 장은 **제목을 감추고 번호만** 보여줍니다 — 도스토옙스키의 장 제목은
 그 자체로 스포일러인 것이 많습니다.
 
-### 캡처하는 법
+### 화면 캡처
 
-`streamlit run app.py` 로 띄운 뒤,
+**읽은 지점 13장 — 전체의 15%만 보입니다**
 
-1. 왼쪽 슬라이더를 **13장**에 두고 — 위쪽 숫자가 "전체 278개 중 43개"로 줄어드는 것이 보입니다
-2. `알료샤의 스승은 누구야?` 를 물어 답변 + 탄 경로 + 근거가 나온 화면
-3. 같은 지점에서 `표도르를 죽인 사람은 누구야?` 를 물어 **"아직 나오지 않았어요"** 가 나오는 화면
+![13장](docs/01-읽은지점-13장.png)
 
-이 세 장면이 이 프로젝트의 핵심입니다. Windows 는 `Win + Shift + S` 로 캡처됩니다.
+**같은 화면, 읽은 지점 60장 — 보이는 양이 늘어납니다**
+
+인물·장소 43개 → 185개, 관계 86개 → 378개. 스포 차단이 실제로 걸리고 있다는 증거입니다.
+
+![60장](docs/02-읽은지점-60장.png)
+
+**별명 사전 (45장 시점)**
+
+읽은 데까지 등장한 호칭만 보여줍니다. 드미트리 = Mitya = Mitri,
+스메르쟈코프 = Pavel Fyodorovitch 처럼요.
+
+<img src="docs/03-별명-45장.png" width="300">
+
+> **아직 없는 캡처:** 질문을 던져 답변·탄 경로·근거가 나온 화면.
+> LLM 호출이 필요한데 API 크레딧이 소진된 상태입니다.
+> 복구되면 아래 한 줄로 자동 캡처됩니다.
+>
+> ```bash
+> python scripts/capture.py --with-answer
+> ```
+
+캡처는 `scripts/capture.py` 가 Playwright 로 자동으로 찍습니다
+(`pip install playwright && playwright install chromium` 필요).
 
 ---
 
@@ -116,12 +136,14 @@ python agent.py "조시마 장로의 제자는 누구야?" 13
 ├── llm.py                        LLM 호출 (google / openai 전환)
 ├── scripts/
 │   ├── split_corpus.py           원문 -> 장 단위 분할
-│   └── build_goldenset.py        평가셋 생성 (인용문을 원문에서 직접 추출)
+│   ├── build_goldenset.py        평가셋 생성 (인용문을 원문에서 직접 추출)
+│   └── capture.py                데모 화면 자동 캡처
 ├── extract.py                    ① 추출
 ├── build_graph.py                ② 정제·병합
 ├── agent.py                      ③④⑤ 시작 개체 -> n홉 -> 답변 (LangGraph)
 ├── evaluate.py                   평가 + basic RAG 대조
 ├── app.py                        데모 화면 (Streamlit)
+├── docs/                         화면 캡처
 ├── output/
 │   ├── graph.graphml             지식 그래프
 │   ├── graph.json                작업용 형식 (별칭 사전 포함)
